@@ -1,4 +1,3280 @@
 Id,Title,Distributor,Genre
+1,The Perfect Storm,Warner Bros.,Drama
+2,Erin Brockovich,Universal,Drama
+3,Remember the Titans,Walt Disney,Drama
+4,The Patriot,Sony Pictures,Drama
+5,Rules of Engagement,Paramount Pictures,Drama
+6,Coyote Ugly,Walt Disney,Drama
+7,The Green Mile,Warner Bros.,Drama
+8,American Beauty,Dreamworks SKG,Drama
+9,The Cider House Rules,Miramax,Drama
+10,The Hurricane,Universal,Drama
+11,Men of Honor,20th Century Fox,Drama
+12,The Beach,20th Century Fox,Drama
+13,Autumn in New York,MGM,Drama
+14,Bounce,Miramax,Drama
+15,My Dog Skip,Warner Bros.,Drama
+16,Where the Heart Is,20th Century Fox,Drama
+17,Pay it Forward,Warner Bros.,Drama
+18,The Legend of Bagger Vance,Dreamworks SKG,Drama
+19,Any Given Sunday,Warner Bros.,Drama
+20,"Girl, Interrupted",Sony Pictures,Drama
+21,Love & Basketball,New Line,Drama
+22,Magnolia,New Line,Drama
+23,Bicentennial Man,Walt Disney,Drama
+24,Center Stage,Sony Pictures,Drama
+25,Billy Elliot,Focus Features,Drama
+26,Boiler Room,New Line,Drama
+27,The Next Best Thing,Paramount Pictures,Drama
+28,Anna and the King,20th Century Fox,Drama
+29,Snow Falling on Cedars,Universal,Drama
+30,Angela's Ashes,Paramount Pictures,Drama
+31,Here on Earth,20th Century Fox,Drama
+32,Man on the Moon,Universal,Drama
+33,The End of the Affair,Sony Pictures,Drama
+34,Boys Don't Cry,Fox Searchlight,Drama
+35,I Dreamed of Africa,Sony Pictures,Drama
+36,Croupier,Shooting Gallery,Drama
+37,Todo sobre mi madre,Sony Pictures Cla…,Drama
+38,Finding Forrester,Sony Pictures,Drama
+39,Black and White,Sony Pictures,Drama
+40,Gossip,Warner Bros.,Drama
+41,Sunshine,Paramount Vantage,Drama
+42,Duets,Walt Disney,Drama
+43,Chocolat,Miramax,Drama
+44,You Can Count on Me,Paramount Vantage,Drama
+45,Price of Glory,New Line,Drama
+46,Quills,Fox Searchlight,Drama
+47,Ghost Dog: The Way of the S…,Artisan,Drama
+48,The Big Kahuna,Lionsgate,Drama
+49,Beautiful,Destination Films,Drama
+50,Up at the Villa,Focus Features,Drama
+51,The Insider,Walt Disney,Drama
+52,Requiem for a Dream,Artisan,Drama
+53,God's Army,Excel Entertainment,Drama
+54,East-West,Sony Pictures,Drama
+55,Mansfield Park,Miramax,Drama
+56,Bamboozled,New Line,Drama
+57,Cradle Will Rock,Walt Disney,Drama
+58,La lengua de las mariposas,Miramax,Drama
+59,Titus,20th Century Fox,Drama
+60,The Straight Story,Walt Disney,Drama
+61,The Color of Paradise,Sony Pictures Cla…,Drama
+62,Holy Smoke,Miramax,Drama
+63,Hamlet,Miramax,Drama
+64,Girlfight,Sony Pictures,Drama
+65,Liberty Heights,Warner Bros.,Drama
+66,Jesus' Son,Lionsgate,Drama
+67,Turn It Up,New Line,Drama
+68,Shower,Sony Pictures Cla…,Drama
+69,Jing ke ci qin wang,Sony Pictures Cla…,Drama
+70,Time Code,Sony Pictures,Drama
+71,Chuck&Buck,Artisan,Drama
+72,What's Cooking,Lionsgate,Drama
+73,Urbania,Lionsgate,Drama
+74,Two Family House,Lionsgate,Drama
+75,La otra conquista,Hombre de Oro,Drama
+76,Encounter in the Third Dime…,nWave Pictures,Drama
+77,The Yards,Miramax,Drama
+78,AimÃ©e & Jaguar,Zeitgeist,Drama
+79,Passion of Mind,Paramount Vantage,Drama
+80,Alice et Martin,October Films,Drama
+81,Place Vendome,Empire Pictures,Drama
+82,Kadosh,Kino International,Drama
+83,The Third Miracle,Sony Pictures,Drama
+84,Goya in Bordeaux,Sony Pictures Cla…,Drama
+85,Joe Gould's Secret,Focus Features,Drama
+86,Fiza,Video Sound,Drama
+87,Refugee,Yash Raj Films,Drama
+88,Yi Ge Dou Bu Neng Shao,Sony Pictures Cla…,Drama
+89,Mifune,Sony Pictures Cla…,Drama
+90,The Opportunists,First Look,Drama
+91,The Basket,MGM,Drama
+92,A Time for Drunken Horses,Shooting Gallery,Drama
+93,A Map of the World,USA Films,Drama
+94,Fight Club,20th Century Fox,Drama
+95,Dekalog,New Yorker,Drama
+96,Malena,Miramax,Drama
+97,The Last September,,Drama
+98,Time Regained,,Drama
+99,Anywhere But Here,20th Century Fox,Drama
+100,Josh,Eros Entertainment,Drama
+101,8 Â½ Women,Lionsgate,Drama
+102,Traffic,USA Films,Drama
+103,Yi Yi,WellSpring,Drama
+104,Solas,,Drama
+105,Une Liaison pornographique,Fine Line,Drama
+106,Thirteen Days,New Line,Drama
+107,Beau Travail,New Yorker,Drama
+108,Tumbleweeds,Fine Line,Drama
+109,Before Night Falls,Fine Line,Drama
+110,The Tic Code,,Drama
+111,Bulandi,,Drama
+112,Kikujiro,,Drama
+113,The War Zone,Lot 47 Films,Drama
+114,Left Luggage,Castle Hill Produ…,Drama
+115,Cleopatra's Second Husband,Indican Pictures,Drama
+116,Mercy Streets,,Drama
+117,The Limey,Artisan,Drama
+118,The House of Mirth,Sony Pictures Cla…,Drama
+119,The Silence,New Yorker,Drama
+120,Pola X,,Drama
+121,Shadow of the Vampire,Lionsgate,Drama
+122,Un pont entre deux rives,Phaedra Cinema,Drama
+123,Tigerland,20th Century Fox,Drama
+124,Hum to Mohabbt Karega,,Drama
+125,The Messenger: The Story of…,Sony Pictures,Drama
+126,La ciudad,Zeitgeist,Drama
+127,Boricua's Bond,Focus Features,Drama
+128,Boys Life 3,Strand,Drama
+129,Music of the Heart,Miramax,Drama
+130,The King of Masks,Goldwyn Entertain…,Drama
+131,Flawless,MGM,Drama
+132,Panic,Roxie Releasing,Drama
+133,Le grand bleu,Sony Pictures,Drama
+134,Rosetta,USA Films,Drama
+135,Beefcake,Strand,Drama
+136,Felicia's Journey,Artisan,Drama
+137,Titanic Town,,Drama
+138,Earth,Zeitgeist,Drama
+139,Ã  bout de souffle,Films Around the …,Drama
+140,Luminous Motion,,Drama
+141,Light It Up,20th Century Fox,Drama
+142,Pollock,Sony Pictures Cla…,Drama
+143,Animal Factory,,Drama
+144,Madadayo,WinStar Cinema,Drama
+145,Himalaya - l'enfance d'un chef,Kino International,Drama
+146,Burlesk King,Strand,Drama
+147,Last Night,Lionsgate,Drama
+148,Boesman and Lena,Kino International,Drama
+149,The Weekend,,Drama
+150,La Grande Illusion,Rialto Pictures,Drama
+151,Wings of Courage,Sony Pictures Cla…,Drama
+152,Wandafuru raifu,Artistic License,Drama
+153,Diary of a Chambermaid,,Drama
+154,Chunhyang,Lot 47 Films,Drama
+155,The Autumn Heart,Arrow Releasing,Drama
+156,Family Tree,,Drama
+157,All About Eve,20th Century Fox,Drama
+158,Claire Dolan,New Yorker,Drama
+159,Harem Suare,,Drama
+160,The Visit,,Drama
+161,Babymother,Fine Line,Drama
+162,Followers,,Drama
+163,Steam: The Turkish Bath,Strand,Drama
+164,Le Chal Apne Sang,Eros Entertainment,Drama
+165,The Trial of Old Drum,,Drama
+166,Eastside,,Drama
+1,Traffic,USA Films,Drama
+2,Save the Last Dance,Paramount Pictures,Drama
+3,Artificial Intelligence: AI,Warner Bros.,Drama
+4,Chocolat,Miramax,Drama
+5,Blow,New Line,Drama
+6,Enemy at the Gates,Paramount Pictures,Drama
+7,K-PAX,Universal,Drama
+8,Ali,Sony Pictures,Drama
+9,Finding Forrester,Sony Pictures,Drama
+10,Hardball,Paramount Pictures,Drama
+11,A Beautiful Mind,Universal,Drama
+12,Thirteen Days,New Line,Drama
+13,Riding in Cars with Boys,Sony Pictures,Drama
+14,Baby Boy,Sony Pictures,Drama
+15,Captain Corelli's Mandolin,Miramax,Drama
+16,Sweet November,Warner Bros.,Drama
+17,Hearts in Atlantis,Warner Bros.,Drama
+18,Angel Eyes,Warner Bros.,Drama
+19,The Majestic,Warner Bros.,Drama
+20,Rock Star,Warner Bros.,Drama
+21,crazy/beautiful,Walt Disney,Drama
+22,O (Othello),Lionsgate,Drama
+23,Life as a House,New Line,Drama
+24,Pollock,Sony Pictures Cla…,Drama
+25,Shadow of the Vampire,Lionsgate,Drama
+26,The Man Who Wasn't There,USA Films,Drama
+27,Sexy Beast,Fox Searchlight,Drama
+28,Amores Perros,Lionsgate,Drama
+29,You Can Count on Me,Paramount Vantage,Drama
+30,Billy Elliot,Focus Features,Drama
+31,The Shipping News,Miramax,Drama
+32,In the Bedroom,Miramax,Drama
+33,Left Behind,Cloud Ten Pictures,Drama
+34,The Anniversary Party,Fine Line,Drama
+35,Before Night Falls,Fine Line,Drama
+36,Quills,Fox Searchlight,Drama
+37,The Widow of St. Pierre,Lionsgate,Drama
+38,Songcatcher,Lionsgate,Drama
+39,The Golden Bowl,Lionsgate,Drama
+40,Malena,Miramax,Drama
+41,The House of Mirth,Sony Pictures Cla…,Drama
+42,Kabhi Khushi Kabhie Gham,Yash Raj Films,Drama
+43,In the Mood for Love,Focus Features,Drama
+44,Waking Life,Fox Searchlight,Drama
+45,Himalaya - l'enfance d'un chef,Kino International,Drama
+46,Gabriela,Power Point Films,Drama
+47,Innocence,IDP Distribution,Drama
+48,Remember the Titans,Walt Disney,Drama
+49,China: The Panda Adventure,IMAX Films,Drama
+50,Carman: The Champion,8X Entertainment,Drama
+51,Under the Sand,WellSpring,Drama
+52,Divided We Fall,Sony Pictures Cla…,Drama
+53,Men of Honor,20th Century Fox,Drama
+54,The Road Home,Sony Pictures Cla…,Drama
+55,L.I.E.,Lot 47 Films,Drama
+56,The Center of the World,Artisan,Drama
+57,The Luzhin Defence,Sony Pictures,Drama
+58,Liam,Lionsgate,Drama
+59,Encounter in the Third Dime…,nWave Pictures,Drama
+60,Left Luggage,Castle Hill Produ…,Drama
+61,Der Krieger und die Kaiserin,Sony Pictures Cla…,Drama
+62,An American Rhapsody,Paramount Vantage,Drama
+63,Requiem for a Dream,Artisan,Drama
+64,The Business of Strangers,IFC Films,Drama
+65,Chunhyang,Lot 47 Films,Drama
+66,Yi Yi,WellSpring,Drama
+67,The Man Who Cried,Focus Features,Drama
+68,Faithless,IDP Distribution,Drama
+69,Asoka,First Look,Drama
+70,Panic,Roxie Releasing,Drama
+71,The Caveman's Valentine,Focus Features,Drama
+72,Lumumba,Zeitgeist,Drama
+73,Focus,Paramount Vantage,Drama
+74,The Legend of Rita,Kino International,Drama
+75,The Other Side of Heaven,Excel Entertainment,Drama
+76,Dayereh,WinStar Cinema,Drama
+77,Yaadein,Tips Exports,Drama
+78,15 fÃ©vrier 1839,Lionsgate,Drama
+79,Dinner Rush,Access Motion Pic…,Drama
+80,Les RiviÃ¨res Pourpres,,Drama
+81,My First Mister,Paramount Vantage,Drama
+82,Pay it Forward,Warner Bros.,Drama
+83,Bread and Roses,Lionsgate,Drama
+84,Our Lady of the Assassins,Paramount Vantage,Drama
+85,Fat Girl,Cowboy Pictures,Drama
+86,Big Eden,,Drama
+87,Bully,Lionsgate,Drama
+88,Intimacy,Empire Pictures,Drama
+89,The Affair of the Necklace,Warner Bros.,Drama
+90,Donnie Darko,Newmarket Films,Drama
+91,Bride of the Wind,Paramount Vantage,Drama
+92,Monster's Ball,Lionsgate,Drama
+93,Lantana,Lionsgate,Drama
+94,Nico and Dani,Avatar,Drama
+95,No Man's Land,MGM,Drama
+96,Wings of Courage,Sony Pictures Cla…,Drama
+97,Chopper,First Look,Drama
+98,Kandahar,Avatar,Drama
+99,Plata quemada,Strand,Drama
+100,The Fluffer,TLA Releasing,Drama
+101,Bande Ã  part,Rialto Pictures,Drama
+102,The Visit,,Drama
+103,Series 7: The Contenders,,Drama
+104,Boys to Men,Jour de Fete,Drama
+105,A Time for Drunken Horses,Shooting Gallery,Drama
+106,Place Vendome,Empire Pictures,Drama
+107,Bounce,Miramax,Drama
+108,Charlotte Gray,Warner Bros.,Drama
+109,I Am Sam,New Line,Drama
+110,Boys Life 3,Strand,Drama
+111,Downtown 81,,Drama
+112,ABCD,Eros Entertainment,Drama
+113,Dekalog,New Yorker,Drama
+114,Iris,Miramax,Drama
+115,The Invisible Circus,,Drama
+116,Eureka,,Drama
+117,The Amati Girls,Providence Entert…,Drama
+118,Aberdeen,First Run Features,Drama
+119,AimÃ©e & Jaguar,Zeitgeist,Drama
+120,Jackpot,,Drama
+121,Bob le flambeur,Triumph Releasing,Drama
+122,Abril Despedaçado,Miramax,Drama
+123,Baran,Miramax,Drama
+124,The Basket,MGM,Drama
+125,Auggie Rose,Roxie Releasing,Drama
+126,La baie des anges,Pathe Contemporar…,Drama
+127,Sunshine,Paramount Vantage,Drama
+128,Adanggaman,New Yorker,Drama
+129,Cleopatra's Second Husband,Indican Pictures,Drama
+130,Goya in Bordeaux,Sony Pictures Cla…,Drama
+131,Maze,,Drama
+132,Pola X,,Drama
+133,Forgive Me Father,Myriad Entertainm…,Drama
+134,The Annihilation of Fish,Regent Releasing,Drama
+135,Ã  bout de souffle,Films Around the …,Drama
+136,Journey to the Sun,,Drama
+137,Otomo,ArtMattan Films,Drama
+138,Beau Travail,New Yorker,Drama
+139,Rembrandt,,Drama
+140,Come and See,Self Distributed,Drama
+141,The River,,Drama
+142,La chambre des magiciennes,,Drama
+143,Hamlet,,Drama
+144,Burlesk King,Strand,Drama
+145,The Weekend,,Drama
+146,Mauvais sang,,Drama
+147,Diary of a Chambermaid,,Drama
+1,A Beautiful Mind,Universal,Drama
+2,8 Mile,Universal,Drama
+3,Road to Perdition,Dreamworks SKG,Drama
+4,Catch Me if You Can,Dreamworks SKG,Drama
+5,We Were Soldiers,Paramount Pictures,Drama
+6,E.T. the Extra-Terrestrial,Universal,Drama
+7,The Rookie,Walt Disney,Drama
+8,Gangs of New York,Miramax,Drama
+9,A Walk to Remember,Warner Bros.,Drama
+10,I Am Sam,New Line,Drama
+11,Blue Crush,Universal,Drama
+12,Crossroads,Paramount Pictures,Drama
+13,In the Bedroom,Miramax,Drama
+14,Monster's Ball,Lionsgate,Drama
+15,City by the Sea,Warner Bros.,Drama
+16,Frida,Miramax,Drama
+17,Hart's War,MGM,Drama
+18,Tuck Everlasting,Walt Disney,Drama
+19,The Four Feathers,Paramount Pictures,Drama
+20,Empire,Universal,Drama
+21,White Oleander,Warner Bros.,Drama
+22,Solaris,20th Century Fox,Drama
+23,The Good Girl,Fox Searchlight,Drama
+24,The Emperor's Club,Universal,Drama
+25,Y Tu MamÃ¡ TambiÃ©n,IFC Films,Drama
+26,Undisputed,Miramax,Drama
+27,About Schmidt,New Line,Drama
+28,Knockaround Guys,New Line,Drama
+29,Far From Heaven,Focus Features,Drama
+30,Possession,Focus Features,Drama
+31,Ali,Sony Pictures,Drama
+32,The Shipping News,Miramax,Drama
+33,Moonlight Mile,Walt Disney,Drama
+34,Antwone Fisher,Fox Searchlight,Drama
+35,Deuces Wild,MGM,Drama
+36,Iris,Miramax,Drama
+37,El crimen de padre Amaro,Goldwyn Entertain…,Drama
+38,The Majestic,Warner Bros.,Drama
+39,Lovely and Amazing,Lionsgate,Drama
+40,Lantana,Lionsgate,Drama
+41,The Other Side of Heaven,Excel Entertainment,Drama
+42,Secretary,Lionsgate,Drama
+43,The Fast Runner,Lot 47 Films,Drama
+44,Thirteen Conversations Abou…,Sony Pictures Cla…,Drama
+45,The Cat's Meow,Lionsgate,Drama
+46,American Adobo,Outrider Pictures,Drama
+47,Sunshine State,Sony Pictures Cla…,Drama
+48,Paid in Full,Rat Entertainment,Drama
+49,Sex and Lucia,Palm Pictures,Drama
+50,Last Orders,Sony Pictures Cla…,Drama
+51,Hable con ella,Sony Pictures Cla…,Drama
+52,Auto Focus,Sony Pictures Cla…,Drama
+53,La Pianiste,Kino International,Drama
+54,Harrison's Flowers,Universal,Drama
+55,The Dangerous Lives of Alta…,ThinkFilm,Drama
+56,Seraphin un Homme et Son,Odeon Films,Drama
+57,Rabbit-Proof Fence,Miramax,Drama
+58,Late Marriage,Magnolia Pictures,Drama
+59,Ararat,Miramax,Drama
+60,Apollo 13,Universal,Drama
+61,Joshua,Artisan,Drama
+62,Read My Lips,Magnolia Pictures,Drama
+63,Nueve Reinas,Sony Pictures Cla…,Drama
+64,China: The Panda Adventure,IMAX Films,Drama
+65,Kandahar,Avatar,Drama
+66,24 Hour Party People,MGM,Drama
+67,The Hours,Paramount Pictures,Drama
+68,The Last Kiss,ThinkFilm,Drama
+69,Evelyn,MGM,Drama
+70,The Son's Room,Miramax,Drama
+71,The Pianist,Focus Features,Drama
+72,Time Changer,Five & Two Pictures,Drama
+73,Kaante,Media Partners,Drama
+74,Storytelling,Fine Line,Drama
+75,Russkiy kovcheg,WellSpring,Drama
+76,No Man's Land,MGM,Drama
+77,Bloody Sunday,Paramount Vantage,Drama
+78,Personal Velocity,MGM,Drama
+79,Savage Messiah,Christal Films,Drama
+80,The Emperor's New Clothes,Paramount Vantage,Drama
+81,25th Hour,Walt Disney,Drama
+82,Forgive Me Father,Myriad Entertainm…,Drama
+83,Charlotte Gray,Warner Bros.,Drama
+84,Encounter in the Third Dime…,nWave Pictures,Drama
+85,The Man Who Wasn't There,USA Films,Drama
+86,Time Out,,Drama
+87,The Believer,Sony Pictures,Drama
+88,The Fluffer,TLA Releasing,Drama
+89,The Quiet American,Miramax,Drama
+90,Jibeuro,,Drama
+91,Waking Life,Fox Searchlight,Drama
+92,Skins,First Look,Drama
+93,The Business of Strangers,IFC Films,Drama
+94,Circuit,Jour de Fete,Drama
+95,In Praise of Love,,Drama
+96,Nicholas Nickleby,United Artists,Drama
+97,Murderous Maids,,Drama
+98,Tully,,Drama
+99,Betty Fisher et autres hist…,WellSpring,Drama
+100,The Business of Fancy Dancing,Outrider Pictures,Drama
+101,Confessions of a Dangerous …,Miramax,Drama
+102,Fat Girl,Cowboy Pictures,Drama
+103,Swimming,,Drama
+104,Shiqi sui de dan che,Sony Pictures Cla…,Drama
+105,All or Nothing,MGM,Drama
+106,Dahmer,,Drama
+107,The Cherry Orchard,,Drama
+108,Stolen Summer,Miramax,Drama
+109,Big Bad Love,IFC Films,Drama
+110,Intimacy,Empire Pictures,Drama
+111,Shiri,,Drama
+112,Hometown Legend,,Drama
+113,Code Unknown,,Drama
+114,Donnie Darko,Newmarket Films,Drama
+115,Baran,Miramax,Drama
+116,Borstal Boy,Strand,Drama
+117,Himalaya - l'enfance d'un chef,Kino International,Drama
+118,Dekalog,New Yorker,Drama
+119,Intacto,,Drama
+120,Max,Lionsgate,Drama
+121,Taliesin Jones,,Drama
+122,Hardball,Paramount Pictures,Drama
+123,Umberto D,Janus Films,Drama
+124,Saathiya,,Drama
+125,"Langrishe, Go Down",,Drama
+126,Wings of Courage,Sony Pictures Cla…,Drama
+127,Chelsea Walls,Lionsgate,Drama
+128,Harvard Man,,Drama
+129,La baie des anges,Pathe Contemporar…,Drama
+130,Ciao America,,Drama
+131,Children on Their Birthdays,Artisan,Drama
+132,O Fantasma,,Drama
+133,Ivan's XTC,,Drama
+134,Plata quemada,Strand,Drama
+135,Astoria,Distributor Unknown,Drama
+136,An American Rhapsody,Paramount Vantage,Drama
+137,Focus,Paramount Vantage,Drama
+138,Innocence,IDP Distribution,Drama
+139,Love Liza,,Drama
+140,Les enfants du siÃ¨cle,Empire Pictures,Drama
+141,Quai des Orfevres,,Drama
+142,The Calling,Testimony Pictures,Drama
+143,Agni Varsha,Cinebella Enterta…,Drama
+144,Abril Despedaçado,Miramax,Drama
+145,Gabriela,Power Point Films,Drama
+146,The Isle,,Drama
+147,Scarlet Diva,,Drama
+148,Aberdeen,First Run Features,Drama
+149,Sonny,,Drama
+150,Dayereh,WinStar Cinema,Drama
+151,The Farewell,,Drama
+152,Bobby G. Can't Swim,,Drama
+153,Riri Shushu no subete,Cowboy Pictures,Drama
+154,Ikiru,,Drama
+155,Our Lady of the Assassins,Paramount Vantage,Drama
+156,Smokers Only,,Drama
+157,Buddha Heads,Pathfinder,Drama
+158,Under the Sand,WellSpring,Drama
+159,My First Mister,Paramount Vantage,Drama
+160,The Affair of the Necklace,Warner Bros.,Drama
+161,L.I.E.,Lot 47 Films,Drama
+162,"Sia, The Dream of the Python",ArtMattan Films,Drama
+163,Cleopatra's Second Husband,Indican Pictures,Drama
+164,TakhtÃ© siah,Leisure Time Feat…,Drama
+165,Caravaggio,Cinevista,Drama
+166,Take Care of My Cat,,Drama
+167,Tattoo Bar,ArtMattan Films,Drama
+168,Ash Wednesday,Focus Features,Drama
+169,By Hook or by Crook,Artistic License,Drama
+170,Otomo,ArtMattan Films,Drama
+171,The Lonely Affair of the Heart,,Drama
+172,Adanggaman,New Yorker,Drama
+173,âR Xmas,Pathfinder,Drama
+1,Seabiscuit,Universal,Drama
+2,Catch Me if You Can,Dreamworks SKG,Drama
+3,Mystic River,Warner Bros.,Drama
+4,About Schmidt,New Line,Drama
+5,Radio,Sony Pictures,Drama
+6,Mona Lisa Smile,Sony Pictures,Drama
+7,Cold Mountain,Miramax,Drama
+8,Secondhand Lions,New Line,Drama
+9,The Hours,Paramount Pictures,Drama
+10,Lost in Translation,Focus Features,Drama
+11,The Pianist,Focus Features,Drama
+12,Gangs of New York,Miramax,Drama
+13,Honey,Universal,Drama
+14,Whale Rider,Newmarket Films,Drama
+15,Confessions of a Dangerous …,Miramax,Drama
+16,Antwone Fisher,Fox Searchlight,Drama
+17,How to Deal,New Line,Drama
+18,Gods and Generals,Warner Bros.,Drama
+19,The Quiet American,Miramax,Drama
+20,25th Hour,Walt Disney,Drama
+21,Confidence,Lionsgate,Drama
+22,Dark Blue,MGM,Drama
+23,Big Fish,Sony Pictures,Drama
+24,Dirty Pretty Things,Miramax,Drama
+25,21 Grams,Focus Features,Drama
+26,Hable con ella,Sony Pictures Cla…,Drama
+27,Nowhere in Africa,Zeitgeist,Drama
+28,American Splendor,Fine Line,Drama
+29,Luther,RS Entertainment,Drama
+30,House of Sand and Fog,Dreamworks SKG,Drama
+31,The Human Stain,Miramax,Drama
+32,In America,Fox Searchlight,Drama
+33,Seraphin un Homme et Son,Odeon Films,Drama
+34,Les invasions barbares,Miramax,Drama
+35,The Magdalene Sisters,Miramax,Drama
+36,Cidade de Deus,Miramax,Drama
+37,The Station Agent,Miramax,Drama
+38,Far From Heaven,Focus Features,Drama
+39,Thirteen,Fox Searchlight,Drama
+40,Frida,Miramax,Drama
+41,Rabbit-Proof Fence,Miramax,Drama
+42,Beyond Borders,Paramount Pictures,Drama
+43,Scarface,Universal,Drama
+44,Better Luck Tomorrow,Paramount Pictures,Drama
+45,The Secret Lives of Dentists,Manhattan Picture…,Drama
+46,Laurel Canyon,Sony Pictures Cla…,Drama
+47,The Good Thief,Fox Searchlight,Drama
+48,The Gospel of John,ThinkFilm,Drama
+49,L'homme du train,Paramount Vantage,Drama
+50,The Dancer Upstairs,Fox Searchlight,Drama
+51,Russkiy kovcheg,WellSpring,Drama
+52,Shattered Glass,Lionsgate,Drama
+53,Raising Victor Vargas,Samuel Goldwyn Films,Drama
+54,Sur Le Seuil,Alliance Atlantis,Drama
+55,Kal Ho Naa Ho,Yash Raj Films,Drama
+56,The Cooler,Lionsgate,Drama
+57,Spider,Sony Pictures Cla…,Drama
+58,Veronica Guerin,Walt Disney,Drama
+59,8 Mile,Universal,Drama
+60,Northfork,Paramount Vantage,Drama
+61,Nicholas Nickleby,United Artists,Drama
+62,Sylvia,Focus Features,Drama
+63,Elephant,Fine Line,Drama
+64,Main Prem Ki Diwani Hoon,Yash Raj Films,Drama
+65,El crimen de padre Amaro,Goldwyn Entertain…,Drama
+66,He ni zai yi qi,United Artists,Drama
+67,"The Book of Mormon Movie, V…",Distributor Unknown,Drama
+68,Respiro,Sony Pictures Cla…,Drama
+69,Wonderland,Lionsgate,Drama
+70,Owning Mahowny,Sony Pictures Cla…,Drama
+71,Assassination Tango,MGM,Drama
+72,Baghban,Eros Entertainment,Drama
+73,Empire,Universal,Drama
+74,Gaz Bar Blues,Odeon Films,Drama
+75,Girl with a Pearl Earring,Lionsgate,Drama
+76,Irreversible,Lionsgate,Drama
+77,And now... Ladies and Gentl…,Paramount Vantage,Drama
+78,The Shape of Things,Focus Features,Drama
+79,Koiâ¦ Mil Gaya,Yash Raj Films,Drama
+80,The Holy Land,CAVU Releasing,Drama
+81,L.O.C. (Kargil),Eros Entertainment,Drama
+82,Poolhall Junkies,Gold Circle Films,Drama
+83,China: The Panda Adventure,IMAX Films,Drama
+84,All the Real Girls,Sony Pictures Cla…,Drama
+85,Masked and Anonymous,Sony Pictures,Drama
+86,Time Changer,Five & Two Pictures,Drama
+87,Cremaster 3,Palm Pictures,Drama
+88,Blizzard,,Drama
+89,Casa de los Babys,IFC Films,Drama
+90,Blue Car,Miramax,Drama
+91,Max,Lionsgate,Drama
+92,Monster,Newmarket Films,Drama
+93,Lockdown,,Drama
+94,Evelyn,MGM,Drama
+95,My Life Without Me,Sony Pictures,Drama
+96,Divine Intervention,Avatar,Drama
+97,City of Ghosts,MGM,Drama
+98,The Safety of Objects,,Drama
+99,Apollo 13,Universal,Drama
+100,The Company,Sony Pictures,Drama
+101,Sweet Sixteen,,Drama
+102,Armaan,,Drama
+103,Amen,Kino International,Drama
+104,Encounter in the Third Dime…,nWave Pictures,Drama
+105,Alexandra's Project,Film Movement,Drama
+106,Civil Brand,Lionsgate,Drama
+107,Tuck Everlasting,Walt Disney,Drama
+108,Saathiya,,Drama
+109,La face cachÃ©e de la lune,TLA Releasing,Drama
+110,The Emperor's Club,Universal,Drama
+111,Intacto,,Drama
+112,Tully,,Drama
+113,Madame SatÃ£,,Drama
+114,Yossi & Jagger,,Drama
+115,Ararat,Miramax,Drama
+116,Lilja 4-ever,Newmarket Films,Drama
+117,Love Liza,,Drama
+118,Taking Sides,New Yorker,Drama
+119,Secretary,Lionsgate,Drama
+120,Friday Night (Vendredi Soir),,Drama
+121,Jibeuro,,Drama
+122,Open Hearts,,Drama
+123,Quai des Orfevres,,Drama
+124,11'09''01 - September 11,Empire Pictures,Drama
+125,Charlotte Sometimes,Small Planet,Drama
+126,Till Human Voices Wake Us,,Drama
+127,Personal Velocity,MGM,Drama
+128,Solaris,20th Century Fox,Drama
+129,Touchez Pas au Grisbi,,Drama
+130,Kaante,Media Partners,Drama
+131,Emerald Cowboy,Indican Pictures,Drama
+132,Cet amour-lÃ ,New Yorker,Drama
+133,O Fantasma,,Drama
+134,Manic,,Drama
+135,Pinjar,,Drama
+136,The Son,New Yorker,Drama
+137,I Vitelloni,Kino International,Drama
+138,Painted Fire,,Drama
+139,Prey for Rock & Roll,,Drama
+140,The Embalmer,,Drama
+141,Auto Focus,Sony Pictures Cla…,Drama
+142,Carnage,WellSpring,Drama
+143,Small Voices,,Drama
+144,Boys Life 4: Four Play,Strand,Drama
+145,Ikiru,,Drama
+146,Love the Hard Way,,Drama
+147,Fat Girl,Cowboy Pictures,Drama
+148,Moonlight Mile,Walt Disney,Drama
+149,Au Hasard Balthazar,Rialto Pictures,Drama
+150,Sennen joyÃ»,DreamWorks/Go Fish,Drama
+151,This Thing of Ours,,Drama
+152,Japanese Story,IDP Distribution,Drama
+153,All or Nothing,MGM,Drama
+154,What Alice Found,Castle Hill Produ…,Drama
+155,Snowboarder,,Drama
+156,Porn Theater,,Drama
+157,Bolivia,,Drama
+158,The Fast Runner,Lot 47 Films,Drama
+159,JapÃ³n,,Drama
+160,Betty Fisher et autres hist…,WellSpring,Drama
+161,AKA,Empire Pictures,Drama
+162,In Praise of Love,,Drama
+163,From Here to Eternity,,Drama
+164,TakhtÃ© siah,Leisure Time Feat…,Drama
+165,Medea,,Drama
+166,Riri Shushu no subete,Cowboy Pictures,Drama
+167,Hukkle,Shadow,Drama
+168,Bloody Sunday,Paramount Vantage,Drama
+169,Postmen in the Mountains,Shadow,Drama
+170,Camera Obscura,,Drama
+171,Secret Things,First Run Features,Drama
+172,Acts of Worship,,Drama
+173,Love Forbidden,,Drama
+174,Millenium Mambo,,Drama
+175,Zero Day,Avatar,Drama
+176,El Bonaerense,,Drama
+177,The Calling,Testimony Pictures,Drama
+178,Take Care of My Cat,,Drama
+179,Wings of Courage,Sony Pictures Cla…,Drama
+180,Kandahar,Avatar,Drama
+181,Smokers Only,,Drama
+182,Kira's Reason: A Love Story,,Drama
+183,Sandstorm,,Drama
+184,Blindness,Pathfinder,Drama
+1,The Passion of the Christ,Newmarket Films,Drama
+2,The Notebook,New Line,Drama
+3,The Terminal,Dreamworks SKG,Drama
+4,Ray,Universal,Drama
+5,Miracle,Walt Disney,Drama
+6,Friday Night Lights,Universal,Drama
+7,Big Fish,Sony Pictures,Drama
+8,Cold Mountain,Miramax,Drama
+9,You Got Served,Sony Pictures,Drama
+10,Mystic River,Warner Bros.,Drama
+11,Monster,Newmarket Films,Drama
+12,The Aviator,Miramax,Drama
+13,Closer,Sony Pictures,Drama
+14,Garden State,Fox Searchlight,Drama
+15,Finding Neverland,Miramax,Drama
+16,Sideways,Fox Searchlight,Drama
+17,Vanity Fair,Focus Features,Drama
+18,The Motorcycle Diaries,Focus Features,Drama
+19,Dirty Dancing Havana Nights,Lionsgate,Drama
+20,Mona Lisa Smile,Sony Pictures,Drama
+21,De-Lovely,MGM,Drama
+22,Lost in Translation,Focus Features,Drama
+23,Girl with a Pearl Earring,Lionsgate,Drama
+24,Raise Your Voice,New Line,Drama
+25,In America,Fox Searchlight,Drama
+26,21 Grams,Focus Features,Drama
+27,House of Sand and Fog,Dreamworks SKG,Drama
+28,Woman Thou Art Loosed,Magnolia Pictures,Drama
+29,Kinsey,Fox Searchlight,Drama
+30,Maria Full of Grace,New Line,Drama
+31,The Cooler,Lionsgate,Drama
+32,Against the Ropes,Paramount Pictures,Drama
+33,Before Sunset,Warner Independent,Drama
+34,The Clearing,Fox Searchlight,Drama
+35,Never Die Alone,Fox Searchlight,Drama
+36,Birth,New Line,Drama
+37,The Door in the Floor,Focus Features,Drama
+38,Benji: Off the Leash!,Benji Returns,Drama
+39,Being Julia,Sony Pictures,Drama
+40,Les invasions barbares,Miramax,Drama
+41,Veer-Zaara,Yash Raj Films,Drama
+42,Monsieur Ibrahim,Sony Pictures Cla…,Drama
+43,Cidade de Deus,Miramax,Drama
+44,Bobby Jones: Stroke of Genius,Film Foundry,Drama
+45,Un long dimanche de fianÃ§ai…,Warner Bros.,Drama
+46,The Dreamers,Fox Searchlight,Drama
+47,Bom yeoreum gaeul gyeoul ge…,Sony Pictures Cla…,Drama
+48,Vera Drake,Fine Line,Drama
+49,Confidences trop intimes,Paramount Vantage,Drama
+50,We Don't Live Here Anymore,Warner Bros.,Drama
+51,The Company,Sony Pictures,Drama
+52,Beyond the Sea,Lionsgate,Drama
+53,Les Choristes,Miramax,Drama
+54,Therese,Luke Films,Drama
+55,La mala educaciÃ³n,Sony Pictures Cla…,Drama
+56,Main Hoon Na,Eros Entertainment,Drama
+57,Io non ho paura,Miramax,Drama
+58,The Blue Butterfly,Alliance Atlantis,Drama
+59,Dogville,Lionsgate,Drama
+60,Honey,Universal,Drama
+61,Monica La Mitraille,Distributor Unknown,Drama
+62,The Work and the Glory,Excel Entertainment,Drama
+63,Saints and Soldiers,Excel Entertainment,Drama
+64,Osama,MGM,Drama
+65,Million Dollar Baby,Warner Bros.,Drama
+66,Tae Guik Gi: The Brotherhoo…,IDP Distribution,Drama
+67,The Station Agent,Miramax,Drama
+68,The Mother,Sony Pictures,Drama
+69,Swades,UTV Communications,Drama
+70,Le Dernier Tunnel,Christal Films,Drama
+71,A Home at the End of the World,Warner Independent,Drama
+72,The Gospel of John,ThinkFilm,Drama
+73,Criminal,Warner Bros.,Drama
+74,Nouvelle-France,Christal Films,Drama
+75,Latter Days,TLA Releasing,Drama
+76,La Battaglia di Algeri,,Drama
+77,Stage Beauty,Artisan,Drama
+78,Young Adam,Sony Pictures Cla…,Drama
+79,Donnie Darko,Newmarket Films,Drama
+80,Rosenstrasse,IDP Distribution,Drama
+81,The Saddest Music in the World,IFC Films,Drama
+82,Red Lights,WellSpring,Drama
+83,Japanese Story,IDP Distribution,Drama
+84,Mean Creek,Paramount Vantage,Drama
+85,Khakee,Eros Entertainment,Drama
+86,Facing Windows,Sony Pictures,Drama
+87,"The Book of Mormon Movie, V…",Distributor Unknown,Drama
+88,Radio,Sony Pictures,Drama
+89,The Twilight Samurai,Empire Pictures,Drama
+90,The Return,Kino International,Drama
+91,Alexandra's Project,Film Movement,Drama
+92,Strayed,WellSpring,Drama
+93,Hotel Rwanda,MGM,Drama
+94,Primer,ThinkFilm,Drama
+95,Knafayim Shvurot,Sony Pictures Cla…,Drama
+96,Head in the Clouds,Sony Pictures,Drama
+97,The Brown Bunny,WellSpring,Drama
+98,Since Otar Left,Zeitgeist,Drama
+99,The United States of Leland,Paramount Vantage,Drama
+100,Yuva,Net Effect,Drama
+101,Callas Forever,Regent Releasing,Drama
+102,Zelary,Sony Pictures Cla…,Drama
+103,Mickey,Slugger Films,Drama
+104,I Am David,Lionsgate,Drama
+105,Valentin,Miramax,Drama
+106,The Reckoning,Paramount Vantage,Drama
+107,Asa Nu Maan Watna Da,Distributor Unknown,Drama
+108,Carandiru,Sony Pictures,Drama
+109,The Woodsman,Newmarket Films,Drama
+110,Around the Bend,Warner Independent,Drama
+111,Guiana 1838,RBC Radio,Drama
+112,Testosterone,Strand,Drama
+113,P.S.,Newmarket Films,Drama
+114,Stateside,IDP Distribution,Drama
+115,China: The Panda Adventure,IMAX Films,Drama
+116,When Will I Be Loved,IFC Films,Drama
+117,Crimson Gold,WellSpring,Drama
+118,Mar adentro,Fine Line,Drama
+119,Zhou Yu's Train,Sony Pictures Cla…,Drama
+120,Undertow,MGM,Drama
+121,MoolaadÃ©,New Yorker,Drama
+122,Postmen in the Mountains,Shadow,Drama
+123,The Merchant of Venice,Sony Pictures Cla…,Drama
+124,Shattered Glass,Lionsgate,Drama
+125,A Slipping Down Life,Lionsgate,Drama
+126,Distant,New Yorker,Drama
+127,Secret Things,First Run Features,Drama
+128,Un monde presque paisible,Empire Pictures,Drama
+129,Phir Milenge,UTV Communications,Drama
+130,Mou gaan dou,Miramax,Drama
+131,Dev,Distributor Unknown,Drama
+132,Encounter in the Third Dime…,nWave Pictures,Drama
+133,Yossi & Jagger,,Drama
+134,Reconstruction,Palm/Manga,Drama
+135,Ah Fei Ching Chuen,Kino International,Drama
+136,Notre Musique,WellSpring,Drama
+137,The Inheritance,Cinema Guild,Drama
+138,James' Journey to Jerusalem,Zeitgeist,Drama
+139,The Mudge Boy,Strand,Drama
+140,Time of the Wolf,Palm Pictures,Drama
+141,Noi Albinoi,Palm Pictures,Drama
+142,Her Majesty,Panorama Entertai…,Drama
+143,I Vitelloni,Kino International,Drama
+144,The Assassination of Richar…,ThinkFilm,Drama
+145,Twentynine Palms,WellSpring,Drama
+146,Gozu,Pathfinder,Drama
+147,The Tracker,ArtMattan Films,Drama
+148,L.A. Twister,Indican Pictures,Drama
+149,Twist,Strand,Drama
+150,Alila,Kino International,Drama
+151,A Thousand Clouds of Peace,Strand,Drama
+152,Brother to Brother,Wolfe Releasing,Drama
+153,Untold Scandal,Kino International,Drama
+154,Lana's Rain,ISA Releasing,Drama
+155,You'll Get Over It,Picture This Ente…,Drama
+156,Springtime in a Small Town,Palm Pictures,Drama
+157,A Love Song for Bobby Long,Lionsgate,Drama
+158,Poco piÃ¹ di un anno fa,Wolfe Releasing,Drama
+159,Grand Champion,IFG,Drama
+160,Hukkle,Shadow,Drama
+161,La vie promise,Empire Pictures,Drama
+162,AprÃ¨s la vie,Magnolia Pictures,Drama
+163,What Alice Found,Castle Hill Produ…,Drama
+164,Father and Son,WellSpring,Drama
+165,Dirty Pretty Things,Miramax,Drama
+166,After Freedom,Vitagraph Films,Drama
+167,Anatomie de l'enfer,Tartan Films,Drama
+168,Mang jing,Kino International,Drama
+169,L.O.C. (Kargil),Eros Entertainment,Drama
+170,L'Ã¢ge d'or,Kino International,Drama
+171,Gypsy 83,Small Planet,Drama
+172,Emerald Cowboy,Indican Pictures,Drama
+173,AKA,Empire Pictures,Drama
+174,Goodbye Dragon Inn,WellSpring,Drama
+175,A Fond Kiss,Castle Hill Produ…,Drama
+176,Bang Rajan,Magnolia Pictures,Drama
+177,Incantato,Northern Arts Ent…,Drama
+178,Apollo 13,Universal,Drama
+179,Son Frere,Strand,Drama
+180,La petite Lili,First Run Features,Drama
+181,The Human Stain,Miramax,Drama
+182,Kal Ho Naa Ho,Yash Raj Films,Drama
+183,Stander,,Drama
+184,Face,Indican Pictures,Drama
+185,Purple Butterfly,Palm Pictures,Drama
+186,It's Easier for a Camel,New Yorker,Drama
+187,Small Voices,,Drama
+188,Crutch,Illuminare,Drama
+189,The 24th Day,Screen Media Films,Drama
+190,Taking Sides,New Yorker,Drama
+191,Raja,,Drama
+192,Big Ain't Bad,,Drama
+193,Deserted Station,First Run Features,Drama
+194,Intoxicating,,Drama
+195,A Talking Picture,Kino International,Drama
+196,Spin,Innovation Film G…,Drama
+197,Virgin,Artistic License,Drama
+198,Mind the Gap,Mind the Gap,Drama
+199,A Silent Love,Atopia,Drama
+200,Imagining Argentina,Arenas Entertainment,Drama
+201,The Holy Land,CAVU Releasing,Drama
+202,The Intended,IFC Films,Drama
+203,Carnage,WellSpring,Drama
+204,Millenium Mambo,,Drama
+205,The Last Place on Earth,Panorama Entertai…,Drama
+206,Wake,Newmarket Films,Drama
+207,It's All About Love,Strand,Drama
+208,Akarui mirai,Palm Pictures,Drama
+209,Imaginary Heroes,Sony Pictures Cla…,Drama
+210,The Son,New Yorker,Drama
+211,Free Radicals,Kino International,Drama
+212,Porn Theater,,Drama
+213,Dolls,Palm Pictures,Drama
+214,11'09''01 - September 11,Empire Pictures,Drama
+215,Open My Heart,Strand,Drama
+216,Duze zwierze,,Drama
+217,Silent Waters,First Run Features,Drama
+218,Conspiracy of Silence,Watch Releasing,Drama
+219,The Other World,ArtMattan Films,Drama
+220,Firedancer,Cinema Four,Drama
+221,Abouna,Leisure Time Feat…,Drama
+222,Artworks,Panorama Entertai…,Drama
+223,On the Downlow,Cinema Con Sabor,Drama
+224,Shwaas,Kathi Arts,Drama
+225,The Mongol King,,Drama
+226,The Road to Love,Arab Film Distrib…,Drama
+227,Cremaster 3,Palm Pictures,Drama
+228,Tasuma,ArtMattan Films,Drama
+1,Million Dollar Baby,Warner Bros.,Drama
+2,Walk the Line,20th Century Fox,Drama
+3,The Aviator,Miramax,Drama
+4,Coach Carter,Paramount Pictures,Drama
+5,Jarhead,Universal,Drama
+6,Cinderella Man,Universal,Drama
+7,Crash,Lionsgate,Drama
+8,Diary of a Mad Black Woman,Lionsgate,Drama
+9,Sideways,Fox Searchlight,Drama
+10,The Sisterhood of the Trave…,Warner Bros.,Drama
+11,Pride & Prejudice,Focus Features,Drama
+12,Dreamer: Inspired by a True…,Dreamworks SKG,Drama
+13,In Her Shoes,20th Century Fox,Drama
+14,Get Rich or Die Tryin',Paramount Pictures,Drama
+15,Memoirs of a Geisha,Sony Pictures,Drama
+16,Finding Neverland,Miramax,Drama
+17,Elizabethtown,Paramount Pictures,Drama
+18,Lord of War,Lionsgate,Drama
+19,"Good Night, and Good Luck",Warner Independent,Drama
+20,Hotel Rwanda,MGM,Drama
+21,2 For the Money,Universal,Drama
+22,Hustle & Flow,Paramount Vantage,Drama
+23,The Upside of Anger,New Line,Drama
+24,North Country,Warner Bros.,Drama
+25,The Gospel,Sony Pictures,Drama
+26,The Greatest Game Ever Played,Walt Disney,Drama
+27,Brokeback Mountain,Focus Features,Drama
+28,The Weather Man,Paramount Pictures,Drama
+29,Capote,Sony Pictures Cla…,Drama
+30,Shopgirl,Walt Disney,Drama
+31,An Unfinished Life,Miramax,Drama
+32,Proof,Miramax,Drama
+33,Ladies in Lavender,IDP/Goldwyn/Roadside,Drama
+34,Closer,Sony Pictures,Drama
+35,Der Untergang,Newmarket Films,Drama
+36,The Squid and the Whale,IDP/Goldwyn/Roadside,Drama
+37,Beyond the Sea,Lionsgate,Drama
+38,Being Julia,Sony Pictures,Drama
+39,Ray,Universal,Drama
+40,The Merchant of Venice,Sony Pictures Cla…,Drama
+41,Un long dimanche de fianÃ§ai…,Warner Bros.,Drama
+42,Kinsey,Fox Searchlight,Drama
+43,La mala educaciÃ³n,Sony Pictures Cla…,Drama
+44,G,Aloha Releasing,Drama
+45,Walk on Water,Samuel Goldwyn Films,Drama
+46,Junebug,Sony Pictures Cla…,Drama
+47,The Work and the Glory,Excel Entertainment,Drama
+48,Oliver Twist,Sony/TriStar,Drama
+49,Mar adentro,Fine Line,Drama
+50,The Work and the Glory: Ame…,Vineyard Distribu…,Drama
+51,Les Choristes,Miramax,Drama
+52,Comme une image,Sony Pictures Cla…,Drama
+53,Everything is Illuminated,Warner Independent,Drama
+54,Vera Drake,Fine Line,Drama
+55,2046,Sony Pictures Cla…,Drama
+56,Paheli (Puzzle),Eros Entertainment,Drama
+57,The Woodsman,Newmarket Films,Drama
+58,Ushpizin,Picturehouse,Drama
+59,Dear Frankie,Miramax,Drama
+60,Happy Endings,Lionsgate,Drama
+61,Off the Map,Holedigger Studios,Drama
+62,Indigo,Embassy,Drama
+63,Heights,Sony Pictures Cla…,Drama
+64,Bee Season,Fox Searchlight,Drama
+65,Paradise Now,Warner Independent,Drama
+66,The Motorcycle Diaries,Focus Features,Drama
+67,De battre mon coeur s'est a…,WellSpring,Drama
+68,My Summer of Love,Focus Features,Drama
+69,The Rising,Yash Raj Films,Drama
+70,Separate Lies,Fox Searchlight,Drama
+71,Casanova,Walt Disney,Drama
+72,Where the Truth Lies,ThinkFilm,Drama
+73,MirrorMask,Samuel Goldwyn Films,Drama
+74,Therese,Luke Films,Drama
+75,Innocent Voices,BB Entertainment,Drama
+76,WAQT,Eros Entertainment,Drama
+77,Parineeta,UTV Communications,Drama
+78,Black,Yash Raj Films,Drama
+79,Mysterious Skin,Tartan Films,Drama
+80,The Ballad of Jack and Rose,IFC Films,Drama
+81,Nobody Knows,IFC Films,Drama
+82,Balzac et la petite tailleu…,Empire Pictures,Drama
+83,The Assassination of Richar…,ThinkFilm,Drama
+84,Saraband,Sony Pictures Cla…,Drama
+85,The Prize Winner of Defianc…,Dreamworks SKG,Drama
+86,Palindromes,WellSpring,Drama
+87,Kids in America,Slowhand Cinema,Drama
+88,Madison,MGM,Drama
+89,Professione: reporter,Sony Pictures Cla…,Drama
+90,The Passion of the Christ,Newmarket Films,Drama
+91,Travellers and Magicians,Zeitgeist,Drama
+92,Bewafaa,Eros Entertainment,Drama
+93,Last Days,Picturehouse,Drama
+94,The Beautiful Country,Sony Pictures Cla…,Drama
+95,Gegen die Wand,Strand,Drama
+96,Yes,Sony Pictures Cla…,Drama
+97,House of D,Lionsgate,Drama
+98,BrÃ¸dre,IFC Films,Drama
+99,The Game of Their Lives,IFC Films,Drama
+100,Breakfast on Pluto,Sony Pictures Cla…,Drama
+101,Nine Lives,Magnolia Pictures,Drama
+102,Green Street Hooligans,Freestyle Releasing,Drama
+103,Kaal,Yash Raj Films,Drama
+104,The Dying Gaul,Holedigger Studios,Drama
+105,Viruddh,UTV Communications,Drama
+106,Winter Solstice,Paramount Vantage,Drama
+107,The Holy Girl,Fine Line,Drama
+108,Cronicas,Palm Pictures,Drama
+109,Caterina va in cittÃ ,Empire Pictures,Drama
+110,Rois & Reine (Kings and Que…,WellSpring,Drama
+111,La meglio gioventÃ¹,Miramax,Drama
+112,Ascenseur pour l'Ã©chafaud,Rialto Pictures,Drama
+113,Turtles Can Fly,IFC Films,Drama
+114,Ils se mariÃ¨rent et eurent …,Kino International,Drama
+115,A Tout de Suite,Cinema Guild,Drama
+116,Birth,New Line,Drama
+117,Bin-jip,Sony Pictures Cla…,Drama
+118,Imaginary Heroes,Sony Pictures Cla…,Drama
+119,Modigliani,Bauer Martinez,Drama
+120,The Keeper: The Legend of O…,Arrival Pictures,Drama
+121,CachÃ©,Sony Pictures Cla…,Drama
+122,Masculin fÃ©minin,Rialto Pictures,Drama
+123,November,Sony Pictures Cla…,Drama
+124,Eros,Warner Independent,Drama
+125,The White Countess,Sony Pictures Cla…,Drama
+126,The Baxter,IFC Films,Drama
+127,The Edukators,IFC Films,Drama
+128,Saints and Soldiers,Excel Entertainment,Drama
+129,In My Country,Sony Pictures Cla…,Drama
+130,Swades,UTV Communications,Drama
+131,Mughal-e-Azam,UTV Communications,Drama
+132,Kisna,Eros Entertainment,Drama
+133,Beautiful Boxer,Regent Releasing,Drama
+134,Tony Takitani,Strand,Drama
+135,Dil Jo Bhi Kahey...,Eros Entertainment,Drama
+136,Lila dit Ã§a,Samuel Goldwyn Films,Drama
+137,It's All Gone Pete Tong,Matson,Drama
+138,A Love Song for Bobby Long,Lionsgate,Drama
+139,Callas Forever,Regent Releasing,Drama
+140,Encounter in the Third Dime…,nWave Pictures,Drama
+141,MoolaadÃ©,New Yorker,Drama
+142,Don't Move,Northern Arts Ent…,Drama
+143,Intimate Stories,New Yorker,Drama
+144,Neal n' Nikki,Yash Raj Films,Drama
+145,Pure,Indican Pictures,Drama
+146,Face,Indican Pictures,Drama
+147,First Morning,Illuminare,Drama
+148,Postmen in the Mountains,Shadow,Drama
+149,Brooklyn Lobster,Meadowbrook,Drama
+150,Loggerheads,Strand,Drama
+151,Chrystal,First Look,Drama
+152,Forty Shades of Blue,Vitagraph Films,Drama
+153,The War Within,Magnolia Pictures,Drama
+154,The Ninth Day,Kino International,Drama
+155,Come Away Home,Freestyle Releasing,Drama
+156,Mrs. Palfrey at the Claremont,Jour de Fete,Drama
+157,Ah Fei Ching Chuen,Kino International,Drama
+158,Before the Fall,Picture This Ente…,Drama
+159,Ma mÃ¨re,TLA Releasing,Drama
+160,Notre Musique,WellSpring,Drama
+161,Veer-Zaara,Yash Raj Films,Drama
+162,The World,Zeitgeist,Drama
+163,Finding Home,Castle Hill Produ…,Drama
+164,Deserted Station,First Run Features,Drama
+165,Schizo,Picture This Ente…,Drama
+166,Juarez: Stages of Fear,,Drama
+167,Tahara,Indican Pictures,Drama
+168,The Bridge of San Luis Rey,Fine Line,Drama
+169,9 Songs,Tartan Films,Drama
+170,The Chumscrubber,Picturehouse,Drama
+171,Assisted Living,Economic Projections,Drama
+172,Swimming Upstream,MGM,Drama
+173,Tropical Malady,Strand,Drama
+174,The Tunnel,Avatar,Drama
+175,Raging Bull,United Artists,Drama
+176,Apaharan,Kria,Drama
+177,ShÃ´jo,Indican Pictures,Drama
+178,Edvard Munch,Shadow,Drama
+179,My Mother's Smile,New Yorker,Drama
+180,On the Outs,Fader Films,Drama
+181,Red Lights,WellSpring,Drama
+182,Monsieur N.,Empire Pictures,Drama
+183,Guiana 1838,RBC Radio,Drama
+184,Brother to Brother,Wolfe Releasing,Drama
+185,Smile,Dark Forest Relea…,Drama
+186,Medurat Hashevet,Film Movement,Drama
+187,Going Shopping,Rainbow Releasing,Drama
+188,Los tres entierros de Melqu…,Sony Pictures Cla…,Drama
+189,Keane,Magnolia Pictures,Drama
+190,Or (My Treasure),Kino International,Drama
+191,Eternal,Regent Releasing,Drama
+192,Garden State,Fox Searchlight,Drama
+193,The Libertine,Weinstein Co.,Drama
+194,Machuca,Menemsha Entertai…,Drama
+195,The Man Who Copied,TLA Releasing,Drama
+196,Rory O'Shea Was Here,Focus Features,Drama
+197,Down to the Bone,Laemmle/Zeller Film,Drama
+198,Le Clan,TLA Releasing,Drama
+199,Slutty Summer,Embrem Entertainment,Drama
+200,Dallas 362,ThinkFilm,Drama
+201,Trilogia I: To Livadi pou d…,New Yorker,Drama
+202,Dear Wendy,WellSpring,Drama
+203,Untold Scandal,Kino International,Drama
+204,Mr. Ya Miss,Kria,Drama
+205,"Milwaukee, Minnesota",Tartan Films,Drama
+206,The Great Water,Picture This Ente…,Drama
+207,Un monde presque paisible,Empire Pictures,Drama
+208,Wild Side,WellSpring,Drama
+209,At Last,Panorama Entertai…,Drama
+210,Harry and Max,TLA Releasing,Drama
+211,Bomb the System,Palm Pictures,Drama
+212,Oyster Farmer,Cinema Guild,Drama
+213,La petite Lili,First Run Features,Drama
+214,The Intruder,WellSpring,Drama
+215,La femme de Gilles,Cinema Guild,Drama
+216,Fighting Tommy Riley,Freestyle Releasing,Drama
+217,Ethan Mao,Margin Films,Drama
+218,Private,Typecast Releasing,Drama
+219,A Talking Picture,Kino International,Drama
+220,Primo Amore,Strand,Drama
+221,Milk & Honey,WellSpring,Drama
+222,Living Life,FilmMates Partners,Drama
+223,Testosterone,Strand,Drama
+224,Apollo 13,Universal,Drama
+225,La face cachÃ©e de la lune,TLA Releasing,Drama
+226,Games of Love and Chance,New Yorker,Drama
+227,Sixteen Years of Alcohol,Tartan Films,Drama
+228,Goodbye Dragon Inn,WellSpring,Drama
+229,"Buongiorno, notte",WellSpring,Drama
+230,"Magdalena, The Unholy Saint",Unico Entertainment,Drama
+231,Daybreak,Newmarket Films,Drama
+232,Solitude,Indican Pictures,Drama
+233,A Silent Love,Atopia,Drama
+234,A Fond Kiss,Castle Hill Produ…,Drama
+235,Emile,Castle Hill Produ…,Drama
+236,Rosenstrasse,IDP Distribution,Drama
+237,Silent Waters,First Run Features,Drama
+238,Perlasca,Castle Hill Produ…,Drama
+239,SueÃ±o,Sony Pictures,Drama
+240,The Californians,Fabrication Films,Drama
+241,The Inheritance,Cinema Guild,Drama
+242,L.A. Twister,Indican Pictures,Drama
+243,The Painting,Castle Hill Produ…,Drama
+244,Unveiled,Wolfe Releasing,Drama
+245,15,Picture This Ente…,Drama
+246,Three Days of Rain,Rogue Arts,Drama
+247,Happy Here and Now,IFC Films,Drama
+248,The Rider Named Death,Kino International,Drama
+249,Nowhere Man,First Run Features,Drama
+250,The Overture,Kino International,Drama
+251,Steal Me,Cineville,Drama
+252,The Tracker,ArtMattan Films,Drama
+253,Twin Sisters,Miramax,Drama
+254,Das boot ist voll,Castle Hill Produ…,Drama
+255,Sheâs One of Us,Leisure Time Feat…,Drama
+256,Distant,New Yorker,Drama
+257,Anatomie de l'enfer,Tartan Films,Drama
+258,The Brown Bunny,WellSpring,Drama
+1,The Departed,Warner Bros.,Drama
+2,The Pursuit of Happyness,Sony Pictures,Drama
+3,World Trade Center,Paramount Pictures,Drama
+4,Brokeback Mountain,Focus Features,Drama
+5,Step Up,Walt Disney,Drama
+6,Invincible,Walt Disney,Drama
+7,Charlotte's Web,Paramount Pictures,Drama
+8,The Lake House,Warner Bros.,Drama
+9,Rocky Balboa,MGM,Drama
+10,Glory Road,Walt Disney,Drama
+11,The Illusionist,Yari Film Group R…,Drama
+12,Gridiron Gang,Sony Pictures,Drama
+13,The Nativity Story,New Line,Drama
+14,The Good Shepherd,Universal,Drama
+15,Take the Lead,New Line,Drama
+16,Flags of Our Fathers,Paramount Pictures,Drama
+17,United 93,Universal,Drama
+18,Memoirs of a Geisha,Sony Pictures,Drama
+19,The Queen,Miramax,Drama
+20,Walk the Line,20th Century Fox,Drama
+21,We Are Marshall,Warner Bros.,Drama
+22,Huo Yuan Jia,Focus/Rogue Pictures,Drama
+23,Waist Deep,Focus/Rogue Pictures,Drama
+24,Flicka,20th Century Fox,Drama
+25,Babel,Paramount Vantage,Drama
+26,Akeelah and the Bee,Lionsgate,Drama
+27,Annapolis,Walt Disney,Drama
+28,Capote,Sony Pictures Cla…,Drama
+29,Marie Antoinette,Sony Pictures,Drama
+30,Tristan & Isolde,20th Century Fox,Drama
+31,Hollywoodland,Focus Features,Drama
+32,One Night with the King,Rocky Mountain Pi…,Drama
+33,Flyboys,MGM,Drama
+34,How to Eat Fried Worms,New Line,Drama
+35,Freedomland,Sony Pictures,Drama
+36,End of the Spear,M Power Releasing,Drama
+37,Something New,Focus Features,Drama
+38,Bobby,MGM,Drama
+39,Casanova,Walt Disney,Drama
+40,Facing the Giants,IDP/Goldwyn/Roadside,Drama
+41,The Fountain,Warner Bros.,Drama
+42,Transamerica,Weinstein Co.,Drama
+43,"Good Night, and Good Luck",Warner Independent,Drama
+44,The Night Listener,Miramax,Drama
+45,A Good Year,20th Century Fox,Drama
+46,All the King's Men,Sony Pictures,Drama
+47,Crossover,Sony Pictures,Drama
+48,Water,Fox Searchlight,Drama
+49,The World's Fastest Indian,Magnolia Pictures,Drama
+50,Los tres entierros de Melqu…,Sony Pictures Cla…,Drama
+51,The Libertine,Weinstein Co.,Drama
+52,Pride & Prejudice,Focus Features,Drama
+53,Goal! The Dream Begins,Walt Disney,Drama
+54,The Last King of Scotland,Fox Searchlight,Drama
+55,CachÃ©,Sony Pictures Cla…,Drama
+56,Harsh Times,MGM,Drama
+57,Kabhi Alvida Naa Kehna,Yash Raj Films,Drama
+58,Tsotsi,Miramax,Drama
+59,La mujer de mi hermano,Lionsgate,Drama
+60,Half Nelson,ThinkFilm,Drama
+61,The Lost City,Magnolia Pictures,Drama
+62,Little Children,New Line,Drama
+63,The Squid and the Whale,IDP/Goldwyn/Roadside,Drama
+64,Rang De Basanti,UTV Communications,Drama
+65,Fanaa,Yash Raj Films,Drama
+66,Brick,Focus/Rogue Pictures,Drama
+67,The Proposition,First Look,Drama
+68,Quinceanera,Sony Pictures Cla…,Drama
+69,Mrs. Palfrey at the Claremont,Jour de Fete,Drama
+70,The Proposition,Polygram,Drama
+71,The White Countess,Sony Pictures Cla…,Drama
+72,The Notorious Bettie Page,Picturehouse,Drama
+73,Omkara,Eros Entertainment,Drama
+74,Find Me Guilty,Freestyle Releasing,Drama
+75,Infamous,Warner Independent,Drama
+76,Peaceful Warrior,Universal,Drama
+77,Joyeux NoÃ«l,Sony Pictures Cla…,Drama
+78,Fast Food Nation,Fox Searchlight,Drama
+79,Sweet Land,"Libero, LLC",Drama
+80,Vers le sud,Railroad Square,Drama
+81,Guadalupe,Slowhand Cinema,Drama
+82,Factotum,IFC Films,Drama
+83,Ask the Dust,Paramount Pictures,Drama
+84,Sophie Scholl - Die letzten…,Zeitgeist,Drama
+85,The Work and the Glory III:…,Excel Entertainment,Drama
+86,L'armÃ©e des ombres,Rialto Pictures,Drama
+87,L'Enfant,Sony Pictures Cla…,Drama
+88,Notes on a Scandal,Fox Searchlight,Drama
+89,Changing Times,Koch Lorber Films,Drama
+90,Casa de Areia,Sony Pictures Cla…,Drama
+91,Death of a President,Newmarket Films,Drama
+92,A Guide to Recognizing Your…,First Look,Drama
+93,The Painted Veil,Warner Independent,Drama
+94,Umrao Jaan,AdLab Films,Drama
+95,The Good German,Warner Bros.,Drama
+96,Breakfast on Pluto,Sony Pictures Cla…,Drama
+97,Don't Come Knocking,Sony Pictures Cla…,Drama
+98,The Second Chance,Sony Pictures,Drama
+99,Conversations with God,IDP/Goldwyn/Roadside,Drama
+100,Paradise Now,Warner Independent,Drama
+101,The Quiet,Sony Pictures Cla…,Drama
+102,Shadowboxer,Freestyle Releasing,Drama
+103,Copying Beethoven,MGM,Drama
+104,Gabrielle,IFC Films,Drama
+105,The Road to Guantanamo,IDP/Goldwyn/Roadside,Drama
+106,Russian Dolls,IFC First Take,Drama
+107,Letters from Iwo Jima,Warner Bros.,Drama
+108,Sukob,ABS-CBN,Drama
+109,Taxi No. 9 2 11: Nau Do Gyarah,UTV Communications,Drama
+110,The Aryan Couple,"Fame, Inc.",Drama
+111,The King,ThinkFilm,Drama
+112,Broken Bridges,Paramount Vantage,Drama
+113,Humko Deewana Kar Gaye,UTV Communications,Drama
+114,Qian li zou dan qi,Sony Pictures Cla…,Drama
+115,Drawing Restraint 9,IFC Films,Drama
+116,Unidentified,Five & Two Pictures,Drama
+117,FUR: An Imaginary Portrait …,Picturehouse,Drama
+118,A Good Woman,Lionsgate,Drama
+119,Shopgirl,Walt Disney,Drama
+120,Sherrybaby,IFC Films,Drama
+121,Fateless,ThinkFilm,Drama
+122,Jarhead,Universal,Drama
+123,On a Clear Day,Focus/Rogue Pictures,Drama
+124,Get Rich or Die Tryin',Paramount Pictures,Drama
+125,Inland Empire,518 Media,Drama
+126,Old Joy,Kino International,Drama
+127,Zui Hao De Shi Guang,IFC First Take,Drama
+128,The Great New Wonderful,First Independent…,Drama
+129,Off the Black,ThinkFilm,Drama
+130,Bubble,Magnolia Pictures,Drama
+131,Kekexili,IDP/Goldwyn/Roadside,Drama
+132,Haven,Yari Film Group R…,Drama
+133,Clean,Palm Pictures,Drama
+134,Cidade Baixa,Palm Pictures,Drama
+135,Le petit lieutenant,Cinema Libre,Drama
+136,Nine Lives,Magnolia Pictures,Drama
+137,Come Early Morning,IDP/Goldwyn/Roadside,Drama
+138,Le temps qui reste,Strand,Drama
+139,Venus,Miramax,Drama
+140,Professione: reporter,Sony Pictures Cla…,Drama
+141,The Work and the Glory: Ame…,Vineyard Distribu…,Drama
+142,Winter Passing,Focus Features,Drama
+143,Look Both Ways,Kino International,Drama
+144,Red Doors,Emerging Pictures,Drama
+145,Twelve and Holding,IFC Films,Drama
+146,Sommersturm,Regent Releasing,Drama
+147,Somersault,Magnolia Pictures,Drama
+148,Being Cyrus,Eros Entertainment,Drama
+149,Ten Items or Less,ThinkFilm,Drama
+150,Lemming,Strand,Drama
+151,Moartea domnului Lazarescu,Tartan Films,Drama
+152,2 ou 3 choses que je sais d…,Rialto Pictures,Drama
+153,Manderlay,IFC Films,Drama
+154,Before the Fall,Picture This Ente…,Drama
+155,Batalla en el cielo,Tartan Films,Drama
+156,Tideland,ThinkFilm,Drama
+157,Poster Boy,Regent Releasing,Drama
+158,North Country,Warner Bros.,Drama
+159,Flannel Pajamas,Gigantic Pictures,Drama
+160,Aurora Borealis,Regent Releasing,Drama
+161,D'Lucky Ones,ABS-CBN,Drama
+162,Perfume: The Story of a Mur…,Paramount Pictures,Drama
+163,10th & Wolf,ThinkFilm,Drama
+164,Brooklyn Lobster,Meadowbrook,Drama
+165,Ushpizin,Picturehouse,Drama
+166,La Petite JÃ©rusalem,Kino International,Drama
+167,The Motel,Palm Pictures,Drama
+168,Iklimler,Zeitgeist,Drama
+169,Encounter in the Third Dime…,nWave Pictures,Drama
+170,In Her Shoes,20th Century Fox,Drama
+171,Miss Potter,MGM,Drama
+172,Candy,ThinkFilm,Drama
+173,Stoned,Screen Media Films,Drama
+174,Kakushi-ken: oni no tsume,Tartan Films,Drama
+175,Man Push Cart,Film Philos,Drama
+176,Swimmers,Skouras,Drama
+177,Loggerheads,Strand,Drama
+178,Loverboy,ThinkFilm,Drama
+179,Free Zone,New Yorker,Drama
+180,Bee Season,Fox Searchlight,Drama
+181,Nathalie...,Koch Lorber Films,Drama
+182,Standing Still,Freestyle Releasing,Drama
+183,Princesas,IFC First Take,Drama
+184,The Intruder,WellSpring,Drama
+185,The Heart is Deceitful Abov…,Palm Pictures,Drama
+186,Jazireh ahani,Kino International,Drama
+187,Don't Tell,Lionsgate,Drama
+188,Te doy mis ojos,New Yorker,Drama
+189,Odete,Strand,Drama
+190,Un aÃ±o sin amor,Strand,Drama
+191,American Gun,IFC Films,Drama
+192,ShÃ´jo,Indican Pictures,Drama
+193,Ambrose Bierce: Civil War S…,Hannover House,Drama
+194,Little Fish,First Look,Drama
+195,La femme de Gilles,Cinema Guild,Drama
+196,The Keeper: The Legend of O…,Arrival Pictures,Drama
+197,Killer Diller,Freestyle Releasing,Drama
+198,El Perro,Cinema Tropical,Drama
+199,4,Leisure Time Feat…,Drama
+200,The Secret Life of Words,Strand,Drama
+201,The Piano Tuner of EarthQuakes,Zeitgeist,Drama
+202,Ondskan,Magnolia Pictures,Drama
+203,The Dying Gaul,Holedigger Studios,Drama
+204,Shem,HP Releasing,Drama
+205,The Architect,Magnolia Pictures,Drama
+206,Four Eyed Monsters,Four Eyed Monsters,Drama
+207,One Last Thing...,Magnolia Pictures,Drama
+208,London,IDP/Goldwyn/Roadside,Drama
+209,Automne,Truly Indie,Drama
+210,Aguirre: The Wrath of God,New Yorker,Drama
+211,Woman is the Future of Man,New Yorker,Drama
+212,Waltzing Anna,Kindred Media Group,Drama
+213,On the Outs,Fader Films,Drama
+214,The Conrad Boys,Newport Films,Drama
+215,Balzac et la petite tailleu…,Empire Pictures,Drama
+216,Opal Dream,Strand,Drama
+217,Christmas at Maxwell's,Laufer Films,Drama
+218,Pure,Indican Pictures,Drama
+219,Fall to Grace,Truly Indie,Drama
+220,Coastlines,IFC First Take,Drama
+221,Hurensohn,Picture This Ente…,Drama
+222,Mendy - A Question of Faith,Andes Film Company,Drama
+223,Backstage,Strand,Drama
+224,Beyond Honor,International Fil…,Drama
+225,"Sorry, Haters",IFC Films,Drama
+226,Down to the Bone,Laemmle/Zeller Film,Drama
+227,Private,Typecast Releasing,Drama
+228,Jailbait,Kindred Media Group,Drama
+229,Land of the Blind,Bauer Martinez,Drama
+230,Room,The 7th Floor,Drama
+231,50 Ways of Saying Fabulous,Olive Films,Drama
+232,Looking for Kitty,ThinkFilm,Drama
+233,La face cachÃ©e de la lune,TLA Releasing,Drama
+234,Trilogia I: To Livadi pou d…,New Yorker,Drama
+235,White Rainbow,Rocky Mountain Pi…,Drama
+236,Psychopathia Sexualis,Kino International,Drama
+237,Going Under,Argot Pictures,Drama
+238,Dear Wendy,WellSpring,Drama
+239,"Buongiorno, notte",WellSpring,Drama
+240,Unnatural and Accidental,Alliance Atlantis,Drama
+241,George Bush Goes to Heaven,HB Filmworks,Drama
+242,Agnes und seine BrÃ¼der,First Run Features,Drama
+243,Edvard Munch,Shadow,Drama
+244,Mouth to Mouth,Artistic License,Drama
+245,The Tenants,Alchemy,Drama
+246,Masai: The Rain Warriors,ArtMattan Films,Drama
+247,Mirage,Picture This Ente…,Drama
+248,Therese,Luke Films,Drama
+249,The Trouble with Men and Women,IFC Films,Drama
+250,Tahara,Indican Pictures,Drama
+251,A New Day In Old Sana'a,Arab Film Distrib…,Drama
+1,American Gangster,Universal,Drama
+2,Bridge to Terabithia,Walt Disney,Drama
+3,The Pursuit of Happyness,Sony Pictures,Drama
+4,Stomp the Yard,Sony Pictures,Drama
+5,This Christmas,Sony Pictures,Drama
+6,Charlie Wilsonâs War,Universal,Drama
+7,Michael Clayton,Warner Bros.,Drama
+8,Freedom Writers,Paramount Pictures,Drama
+9,Zodiac,Paramount Pictures,Drama
+10,August Rush,Warner Bros.,Drama
+11,Charlotte's Web,Paramount Pictures,Drama
+12,The Queen,Miramax,Drama
+13,The Good Shepherd,Universal,Drama
+14,Rocky Balboa,MGM,Drama
+15,The Great Debaters,Weinstein Co.,Drama
+16,Amazing Grace,Samuel Goldwyn Films,Drama
+17,Gone Baby Gone,Miramax,Drama
+18,Reign Over Me,Sony Pictures,Drama
+19,Atonement,Focus Features,Drama
+20,Georgia Rule,Universal,Drama
+21,Becoming Jane,Miramax,Drama
+22,We Are Marshall,Warner Bros.,Drama
+23,Into the Wild,Paramount Vantage,Drama
+24,Notes on a Scandal,Fox Searchlight,Drama
+25,Elizabeth: The Golden Age,Universal,Drama
+26,Alpha Dog,Universal,Drama
+27,Lions for Lambs,United Artists,Drama
+28,Babel,Paramount Vantage,Drama
+29,The Last King of Scotland,Fox Searchlight,Drama
+30,The Namesake,Fox Searchlight,Drama
+31,Letters from Iwo Jima,Warner Bros.,Drama
+32,Evening,Focus Features,Drama
+33,The Departed,Warner Bros.,Drama
+34,Das Leben der Anderen,Sony Pictures Cla…,Drama
+35,The Astronaut Farmer,Warner Bros.,Drama
+36,La MÃ´me,Picturehouse,Drama
+37,Once,Fox Searchlight,Drama
+38,Black Snake Moan,Paramount Vantage,Drama
+39,A Mighty Heart,Paramount Vantage,Drama
+40,Bella,Roadside Attractions,Drama
+41,The Painted Veil,Warner Independent,Drama
+42,El Cantante,Picturehouse,Drama
+43,Martian Child,New Line,Drama
+44,The Hoax,Walt Disney,Drama
+45,Pride,Lionsgate,Drama
+46,Bug,Lionsgate,Drama
+47,In the Valley of Elah,Warner Bros.,Drama
+48,Before the Devil Knows You'…,ThinkFilm,Drama
+49,The Kite Runner,Paramount Vantage,Drama
+50,Feel the Noise,Sony Pictures,Drama
+51,Lucky You,Warner Bros.,Drama
+52,"Paris, je t'aime",First Look,Drama
+53,Love in the Time of Cholera,New Line,Drama
+54,The Lookout,Walt Disney,Drama
+55,Se jie,Focus Features,Drama
+56,Away From Her,Lionsgate,Drama
+57,Talk to Me,Focus Features,Drama
+58,Om Shanti Om,Eros Entertainment,Drama
+59,The Jane Austen Book Club,Sony Pictures Cla…,Drama
+60,Feast of Love,MGM,Drama
+61,The Ultimate Gift,Film Foundry,Drama
+62,Iâm Not There,Weinstein Co.,Drama
+63,Things We Lost in the Fire,Paramount Pictures,Drama
+64,Venus,Miramax,Drama
+65,Resurrecting the Champ,Yari Film Group R…,Drama
+66,Little Children,New Line,Drama
+67,Miss Potter,MGM,Drama
+68,Gracie,Picturehouse,Drama
+69,Perfume: The Story of a Mur…,Paramount Pictures,Drama
+70,Guru,AdLab Films,Drama
+71,The Savages,Fox Searchlight,Drama
+72,The Wind That Shakes the Ba…,IFC First Take,Drama
+73,Peaceful Warrior,Universal,Drama
+74,Margot at the Wedding,Paramount Vantage,Drama
+75,Factory Girl,MGM,Drama
+76,Year of the Dog,Paramount Vantage,Drama
+77,Efter brylluppet,IFC Films,Drama
+78,Le Scaphandre et le Papillon,Miramax,Drama
+79,Romeo et Juliette,Alliance Atlantis,Drama
+80,The Nativity Story,New Line,Drama
+81,The Final Season,Yari Film Group R…,Drama
+82,Chak De India,Yash Raj Films,Drama
+83,Taare Zameen Par,UTV Communications,Drama
+84,Silk,Picturehouse,Drama
+85,September Dawn,Black Diamond Pic…,Drama
+86,Nuovomondo,Miramax,Drama
+87,Goya's Ghosts,Samuel Goldwyn Films,Drama
+88,Breaking and Entering,Weinstein Co.,Drama
+89,Provoked: A True Story,Eros Entertainment,Drama
+90,Saawariya,Sony Pictures,Drama
+91,The Good German,Warner Bros.,Drama
+92,Control,Weinstein Co.,Drama
+93,Sweet Land,"Libero, LLC",Drama
+94,Lady Chatterley,Kino International,Drama
+95,Inland Empire,518 Media,Drama
+96,Laaga Chunari Mein Daag,Yash Raj Films,Drama
+97,The Work and the Glory III:…,Excel Entertainment,Drama
+98,Journey from the Fall,Imaginasian,Drama
+99,Italianetz,Sony Pictures Cla…,Drama
+100,Starting Out in the Evening,Roadside Attractions,Drama
+101,Brooklyn Rules,Lionsgate,Drama
+102,There Will Be Blood,Paramount Vantage,Drama
+103,Interview,Sony Pictures Cla…,Drama
+104,Killer of Sheep,,Drama
+105,Jindabyne,Sony Pictures Cla…,Drama
+106,The Last Sin Eater,20th Century Fox,Drama
+107,Introducing the Dwights,Warner Independent,Drama
+108,This is England,IFC Films,Drama
+109,IndigÃ¨nes,Weinstein Co.,Drama
+110,Persepolis,Sony Pictures Cla…,Drama
+111,Constellation,The Bigger Picture,Drama
+112,Shootout at Lokhandwala,Rainbow Releasing,Drama
+113,King of California,First Look,Drama
+114,NoÃ«lle,Gener8xion Entert…,Drama
+115,"Gandhi, My Father",Eros Entertainment,Drama
+116,O Jerusalem,Samuel Goldwyn Films,Drama
+117,Brand Upon the Brain!,Vitagraph Films,Drama
+118,Surviving My Mother,,Drama
+119,Boy Culture,TLA Releasing,Drama
+120,Starter for Ten,Picturehouse,Drama
+121,First Snow,Yari Film Group R…,Drama
+122,Trade,Roadside Attractions,Drama
+123,The Fountain,Warner Bros.,Drama
+124,Believe in Me,IFC Films,Drama
+125,La Tourneuse de Pages,Tartan Films,Drama
+126,Milarepa,Walking Shadows,Drama
+127,Cama adentro,Film Sales Company,Drama
+128,Lonely Hearts,Alchemy,Drama
+129,Vitus,Sony Pictures Cla…,Drama
+130,The Flying Scotsman,MGM,Drama
+131,Bobby,MGM,Drama
+132,La faute Ã  Fidel,Koch Lorber Films,Drama
+133,Vanaja,Emerging Pictures,Drama
+134,Ha-Buah,Strand,Drama
+135,Red Road,Tartan Films,Drama
+136,Music Within,MGM,Drama
+137,Life in a... Metro,UTV Communications,Drama
+138,Becket,Paramount Pictures,Drama
+139,Memories of Tomorrow,Eleven Arts,Drama
+140,The Earrings of Madame De...,Janus Films,Drama
+141,Coeurs,IFC First Take,Drama
+142,Bamako,New Yorker,Drama
+143,Flicka,20th Century Fox,Drama
+144,Holly,Priority Films,Drama
+145,Facing the Giants,IDP/Goldwyn/Roadside,Drama
+146,Reservation Road,Focus Features,Drama
+147,Self Medicated,ThinkFilm,Drama
+148,The Illusionist,Yari Film Group R…,Drama
+149,Le petit lieutenant,Cinema Libre,Drama
+150,L'armÃ©e des ombres,Rialto Pictures,Drama
+151,Klimt,Outsider,Drama
+152,Fierce People,Lionsgate,Drama
+153,Old Joy,Kino International,Drama
+154,Nomad,Weinstein Co.,Drama
+155,Nishabd,Eros Entertainment,Drama
+156,Eye of the Dolphin,Monterey Media,Drama
+157,Pierrot le fou,Janus Films,Drama
+158,Iklimler,Zeitgeist,Drama
+159,Le ballon rouge,Janus Films,Drama
+160,Redacted,Magnolia Pictures,Drama
+161,Even Money,,Drama
+162,The Nines,,Drama
+163,Dans Paris,IFC First Take,Drama
+164,Nue propriÃ©tÃ©,New Yorker,Drama
+165,My Brother,Codeblack Enterta…,Drama
+166,Flannel Pajamas,Gigantic Pictures,Drama
+167,The Walker,ThinkFilm,Drama
+168,Strength and Honour,Slowhand Cinema,Drama
+169,December Boys,Aura Entertainment,Drama
+170,Home of the Brave,MGM,Drama
+171,Grbavica,Strand,Drama
+172,Beyond the Gates,IFC Films,Drama
+173,Moondance Alexander,The Bigger Picture,Drama
+174,Grace Is Gone,Weinstein Co.,Drama
+175,Fighting Words,Indican Pictures,Drama
+176,Canvas,Screen Media Films,Drama
+177,Black Friday,AdLab Films,Drama
+178,Local Color,Monterey Media,Drama
+179,Day Night Day Night,IFC Films,Drama
+180,The Hottest State,IFC Films,Drama
+181,2 ou 3 choses que je sais d…,Rialto Pictures,Drama
+182,A Good Year,20th Century Fox,Drama
+183,Snow Cake,Weinstein Co.,Drama
+184,Stephanie Daley,Regent Releasing,Drama
+185,Hattrick,UTV Communications,Drama
+186,In Between Days,Kino International,Drama
+187,Les anges exterminateurs,IFC First Take,Drama
+188,Xiang ri kui,New Yorker,Drama
+189,Honeydripper,Emerging Pictures,Drama
+190,Hannah Takes the Stairs,IFC First Take,Drama
+191,Rails & Ties,Warner Bros.,Drama
+192,Amu,Emerging Pictures,Drama
+193,The Last Hangman,IFC Films,Drama
+194,Fast Food Nation,Fox Searchlight,Drama
+195,Beed-e majnoon,New Yorker,Drama
+196,Flandres,International Fil…,Drama
+197,Karov La Bayit,IFC First Take,Drama
+198,The Tracey Fragments,,Drama
+199,Sommer '04,Cinema Guild,Drama
+200,Arranged,Film Movement,Drama
+201,Hei yan quan,Strand,Drama
+202,Undoing,Indican Pictures,Drama
+203,The Sensation of Sight,Monterey Media,Drama
+204,El Violin,Film Movement,Drama
+205,Sang sattawat,Strand,Drama
+206,Look,Captured Films,Drama
+207,Quiet City,600 West,Drama
+208,Shi gan,Lifesize Entertai…,Drama
+209,Laitakaupungin valot,Strand,Drama
+210,Les amitiÃ©s malÃ©fiques,Strand,Drama
+211,The Piano Tuner of EarthQuakes,Zeitgeist,Drama
+212,O CÃ©u de Suely,Strand,Drama
+213,Mala Noche,Janus Films,Drama
+214,Belle Toujours,New Yorker,Drama
+215,Wild Tigers I Have Known,IFC First Take,Drama
+216,Shotgun Stories,International Fil…,Drama
+217,Macbeth,Truly Indie,Drama
+218,Strajk - Die Heldin von Danzig,Laemmle/Zeller Film,Drama
+219,A dios momo,ArtMattan Films,Drama
+220,Summer in Berlin,D Street Releasing,Drama
+221,L'homme de sa vie,Strand,Drama
+222,Drama/Mex,IFC First Take,Drama
+223,Allegro,IFC Films,Drama
+224,El MÃ©todo,Palm Pictures,Drama
+225,The Hawk is Dying,Strand,Drama
+226,Black Irish,Anywhere Road Ent…,Drama
+227,Azuloscurocasinegro,Strand,Drama
+228,Backstage,Strand,Drama
+229,Opal Dream,Strand,Drama
+230,White Rainbow,Rocky Mountain Pi…,Drama
+231,Candy,ThinkFilm,Drama
+232,Masai: The Rain Warriors,ArtMattan Films,Drama
+233,Choking Man,International Fil…,Drama
+234,Race You to the Bottom,Regent Releasing,Drama
+235,Qian li zou dan qi,Sony Pictures Cla…,Drama
+236,The Killing of John Lennon,IFC First Take,Drama
+237,My Brother's Wedding,Milestone,Drama
+238,Yuki Ni Negau Koto,Eleven Arts,Drama
+239,Daratt,ArtMattan Films,Drama
+240,Laura Smiles,Emerging Pictures,Drama
+241,The Secret Life of Words,Strand,Drama
+242,Badland,Arcangelo Enterta…,Drama
+243,Divine Intervention,Bullz Eye,Drama
+244,Out of the Blue,IFC Films,Drama
+245,Fallen,Kino International,Drama
+246,Sommersturm,Regent Releasing,Drama
+247,Intervention,Alliance Atlantis,Drama
+248,Oublier Cheyenne,Regent Releasing,Drama
+249,Guta-yubalja-deul,Imaginasian,Drama
+1,Twilight,Summit Entertainment,Drama
+2,The Curious Case of Benjami…,Paramount Pictures,Drama
+3,Seven Pounds,Sony Pictures,Drama
+4,Step Up 2 the Streets,Walt Disney,Drama
+5,Australia,20th Century Fox,Drama
+6,Nights in Rodanthe,Warner Bros.,Drama
+7,There Will Be Blood,Paramount Vantage,Drama
+8,The Secret Life of Bees,Fox Searchlight,Drama
+9,Fireproof,Samuel Goldwyn Films,Drama
+10,Atonement,Focus Features,Drama
+11,Nick and Norah's Infinite P…,Sony Pictures,Drama
+12,Slumdog Millionaire,Fox Searchlight,Drama
+13,The Other Boleyn Girl,Sony Pictures,Drama
+14,W.,Lionsgate,Drama
+15,Charlie Wilsonâs War,Universal,Drama
+16,Doubt,Miramax,Drama
+17,Kit Kittredge: An American …,Picturehouse,Drama
+18,Milk,Focus Features,Drama
+19,Pride and Glory,Warner Bros.,Drama
+20,The Duchess,Paramount Vantage,Drama
+21,La misma luna,Weinstein Co.,Drama
+22,The Longshots,MGM,Drama
+23,Stop-Loss,Paramount Pictures,Drama
+24,Rachel Getting Married,Sony Pictures Cla…,Drama
+25,Penelope,Summit Entertainment,Drama
+26,Michael Clayton,Warner Bros.,Drama
+27,Gran Torino,Warner Bros.,Drama
+28,The Express,Universal,Drama
+29,The Kite Runner,Paramount Vantage,Drama
+30,The Boy in the Striped Pyjamas,Miramax,Drama
+31,The Great Debaters,Weinstein Co.,Drama
+32,Cadillac Records,Sony Pictures,Drama
+33,Miracle at St. Anna,Walt Disney,Drama
+34,How She Move,Paramount Vantage,Drama
+35,Brideshead Revisited,Miramax,Drama
+36,Frost/Nixon,Universal,Drama
+37,Mongol,Picturehouse,Drama
+38,Die FÃ¤lscher,Sony Pictures Cla…,Drama
+39,The Savages,Fox Searchlight,Drama
+40,Le Scaphandre et le Papillon,Miramax,Drama
+41,Flash of Genius,Universal,Drama
+42,Passchendaele,Alliance Atlantis,Drama
+43,Persepolis,Sony Pictures Cla…,Drama
+44,Bottle Shock,Freestyle Releasing,Drama
+45,Elegy,Samuel Goldwyn Films,Drama
+46,The Reader,Weinstein Co.,Drama
+47,Jodhaa Akbar,UTV Communications,Drama
+48,"Synecdoche, New York",Sony Pictures Cla…,Drama
+49,Il y a longtemps que je t'aime,,Drama
+50,Frozen River,Sony Pictures Cla…,Drama
+51,The Fall,Roadside Attractions,Drama
+52,Rab Ne Bana Di Jodi,Yash Raj Films,Drama
+53,Roman de Gare,Samuel Goldwyn Films,Drama
+54,Talento de Barrio,,Drama
+55,Married Life,Sony Pictures Cla…,Drama
+56,August Rush,Warner Bros.,Drama
+57,Revolutionary Road,Paramount Vantage,Drama
+58,Shoot on Sight,Aron Govil Produc…,Drama
+59,The Wrestler,Fox Searchlight,Drama
+60,Into the Wild,Paramount Vantage,Drama
+61,Flawless,Magnolia Pictures,Drama
+62,"4 luni, 3 saptamani si 2 zile",IFC Films,Drama
+63,Brick Lane,Sony Pictures Cla…,Drama
+64,And When Did You Last See Y…,Sony Pictures Cla…,Drama
+65,Babine,,Drama
+66,Before the Rains,Roadside Attractions,Drama
+67,The Children of Huang Shi,Sony Pictures Cla…,Drama
+68,U Me Aur Hum,Eros Entertainment,Drama
+69,American Gangster,Universal,Drama
+70,Sarkar Raj,Eros Entertainment,Drama
+71,Un conte de NoÃ«l,IFC Films,Drama
+72,Cassandra's Dream,Weinstein Co.,Drama
+73,Emma Smith: My Story,Candlelight Media,Drama
+74,My Blueberry Nights,Weinstein Co.,Drama
+75,O Ano em Que Meus Pais SaÃ­r…,City Lights Pictures,Drama
+76,Une vieille maÃ®tresse,IFC Films,Drama
+77,Auf der anderen Seite,Strand,Drama
+78,Iâm Not There,Weinstein Co.,Drama
+79,Forever Strong,Crane Movie Company,Drama
+80,Un Ã©tÃ© sans point ni coup s…,,Drama
+81,Fugitive Pieces,Samuel Goldwyn Films,Drama
+82,Un secret,Strand,Drama
+83,Reprise,Miramax,Drama
+84,Maman est chez le coiffeur,,Drama
+85,Bonneville,Senart/Scranton-Lacy,Drama
+86,Paranoid Park,IFC Films,Drama
+87,La Ligne BrisÃ©e,,Drama
+88,Le voyage du ballon rouge,IFC Films,Drama
+89,Bhoothnath,Eros Entertainment,Drama
+90,Savage Grace,IFC Films,Drama
+91,Before the Devil Knows You'…,ThinkFilm,Drama
+92,Bella,Roadside Attractions,Drama
+93,Snow Angels,Warner Independent,Drama
+94,Starting Out in the Evening,Roadside Attractions,Drama
+95,Towelhead,Warner Bros.,Drama
+96,La RiviÃ¨re aux Castors,Alliance Atlantis,Drama
+97,Last Chance Harvey,Overture Films,Drama
+98,Jellyfish,Zeitgeist,Drama
+99,Tout est Parfait,Alliance Atlantis,Drama
+100,Thoda Pyaar Thoda Magic,Yash Raj Films,Drama
+101,Billy: The Early Years of B…,Rocky Mountain Pi…,Drama
+102,Cidade dos Homens,Miramax,Drama
+103,Life Before Her Eyes,Magnolia Pictures,Drama
+104,Ne touchez pas la hache,IFC Films,Drama
+105,Le fils de l'Ã©picier,Film Movement,Drama
+106,The Lucky Ones,Lionsgate,Drama
+107,Mio Fratello Ã¨ Figlio Unico,ThinkFilm,Drama
+108,Honeydripper,Emerging Pictures,Drama
+109,La MÃ´me,Picturehouse,Drama
+110,Goal! 2: Living the Dream...,Walt Disney,Drama
+111,Battle in Seattle,ThinkFilm,Drama
+112,"Che, Part 1: The Argentine",IFC Films,Drama
+113,La Graine et le Mulet,,Drama
+114,Hofshat Kaits,Kino International,Drama
+115,The Errand of Angels,Excel Entertainment,Drama
+116,Ben X,Film Movement,Drama
+117,Margot at the Wedding,Paramount Vantage,Drama
+118,In Search of a Midnight Kiss,IFC First Take,Drama
+119,Ce qu'il faut pour vivre,,Drama
+120,Sleepwalking,Overture Films,Drama
+121,Le ballon rouge,Janus Films,Drama
+122,L'AnnÃ©e DerniÃ¨re Ã  Marienba…,Rialto Pictures,Drama
+123,Shelter,Regent Releasing,Drama
+124,Baghead,Sony Pictures Cla…,Drama
+125,Hounddog,Empire Pictures,Drama
+126,Proud American,Lightsource,Drama
+127,Alexandra,Cinema Guild,Drama
+128,Chop Shop,Noruz Films,Drama
+129,Taare Zameen Par,UTV Communications,Drama
+130,Boy A,Weinstein Co.,Drama
+131,Wendy and Lucy,Oscilloscope Pict…,Drama
+132,Greetings from the Shore,Newstyle Releasing,Drama
+133,The Pool,Vitagraph Films,Drama
+134,Lola MontÃ¨s,Rialto Pictures,Drama
+135,Bab'Aziz - The Prince Who C…,Typecast Releasing,Drama
+136,Tuyade Hunshi,Music Box Films,Drama
+137,Little Chenier,Slowhand Cinema,Drama
+138,Ballast,IFC Films,Drama
+139,Plus tard,Kino International,Drama
+140,"Me & You, Us, Forever",Five & Two Pictures,Drama
+141,Save Me,First Run Features,Drama
+142,Ping Pong Playa,IFC Films,Drama
+143,One Day You'll Understand,City Lights Pictures,Drama
+144,Naissance des pieuvres,Koch Lorber Films,Drama
+145,Les TÃ©moins,Strand,Drama
+146,Love Comes Lately,Kino International,Drama
+147,A Thousand Years of Good Pr…,Magnolia Pictures,Drama
+148,Sanxia haoren,New Yorker,Drama
+149,The Stone Angel,Vivendi Entertain…,Drama
+150,August Evening,Maya Releasing,Drama
+151,Take Out,CAVU Releasing,Drama
+152,Yihe yuan,Palm Pictures,Drama
+153,A Casa de Alice,Vitagraph Films,Drama
+154,Deal,MGM,Drama
+155,Bushi no ichibun,Eleven Arts,Drama
+156,Mister Foe,Magnolia Pictures,Drama
+157,Lions for Lambs,United Artists,Drama
+158,What We Do Is Secret,,Drama
+159,Sodot Ha,Monterey Media,Drama
+160,Chapter 27,Vitagraph Films,Drama
+161,Holly,Priority Films,Drama
+162,Padre Nuestro,IFC Films,Drama
+163,El Violin,Film Movement,Drama
+164,XXY,Film Movement,Drama
+165,The Babysitters,Peace Arch Releasing,Drama
+166,Irina Palm,Strand,Drama
+167,All Roads Lead Home,Waldo West Produc…,Drama
+168,Breakfast with Scot,Regent Releasing,Drama
+169,Se jie,Focus Features,Drama
+170,How About You,Strand,Drama
+171,Jake's Corner,Emerging Pictures,Drama
+172,Shotgun Stories,International Fil…,Drama
+173,Dark Matter,First Independent…,Drama
+174,Jannat,Shemaroo Entertai…,Drama
+175,Yella,Cinema Guild,Drama
+176,Good Dick,Present Pictures/…,Drama
+177,Undoing,Indican Pictures,Drama
+178,The Air I Breathe,ThinkFilm,Drama
+179,Control,Weinstein Co.,Drama
+180,Avant que j'oublie,Strand,Drama
+181,L'Enfant sauvage,The Film Desk,Drama
+182,The Walker,ThinkFilm,Drama
+183,On Broadway,Picture Park,Drama
+184,The Elephant King,Unison Films,Drama
+185,InSearchOf,,Drama
+186,Maldeamores,Maya Releasing,Drama
+187,Garden Party,Roadside Attractions,Drama
+188,The World Unseen,Regent Releasing,Drama
+189,Holding Trevor,Regent Releasing,Drama
+190,Day Zero,First Look,Drama
+191,Huhwihaji anha,Regent Releasing,Drama
+192,Never Forever,Arts Alliance Ame…,Drama
+193,Ripple Effect,Monterey Media,Drama
+194,Good,ThinkFilm,Drama
+195,Mumbai Meri Jaan,UTV Communications,Drama
+196,Grace Is Gone,Weinstein Co.,Drama
+197,Mang Shan,Kino International,Drama
+198,Eden,,Drama
+199,Lake City,Screen Media Films,Drama
+200,August,First Look,Drama
+201,J'entends plus la guitare,The Film Desk,Drama
+202,In the Valley of Elah,Warner Bros.,Drama
+203,The Tracey Fragments,,Drama
+204,Backseat,Truly Indie,Drama
+205,Vice,41 Inc.,Drama
+206,The Go-Getter,Peace Arch Releasing,Drama
+207,Quid Pro Quo,Magnolia Pictures,Drama
+208,Contre-Enquete,,Drama
+209,Gardens of the Night,City Lights Pictures,Drama
+210,Dark Streets,Samuel Goldwyn Films,Drama
+211,Ping Guo,New Yorker,Drama
+212,The Pleasure of Being Robbed,,Drama
+213,The Black Balloon,Icon Film Distrib…,Drama
+214,"Live Fast, Die Young",Riverrain,Drama
+215,A Good Day to be Black and …,Magnolia Pictures,Drama
+216,Amexicano,Maya Releasing,Drama
+217,Vivre sa vie: Film en douze…,Janus Films,Drama
+218,"Otto; Or, Up with Dead People",Strand,Drama
+219,Vredens Dag,Janus Films,Drama
+220,Special,Revolver Entertai…,Drama
+221,It Always Rains on Sunday,Rialto Pictures,Drama
+222,Take,Liberation Entert…,Drama
+223,The Sensation of Sight,Monterey Media,Drama
+224,Ek Vivaah... Aisa Nhi,Eros Entertainment,Drama
+225,It's a Free World...,IFC Films,Drama
+226,Bes Vakit,Atlantik Films,Drama
+227,Red Roses and Petrol,World Wide Motion…,Drama
+228,The Restless,CJ Entertainment,Drama
+229,Choose Connor,Strand,Drama
+230,Fraulein,Film Movement,Drama
+231,Nights and Weekends,IFC Films,Drama
+232,The Amazing Truth About Que…,Regent Releasing,Drama
+233,Tre,Cinema Libre,Drama
+234,"Romulus, My Father",Magnolia Pictures,Drama
+235,Beed-e majnoon,New Yorker,Drama
+236,Where God Left His Shoes,IFC Films,Drama
+237,Genghis Khan: To the Ends o…,The Bigger Picture,Drama
+238,Death Defying Acts,Weinstein Co.,Drama
+239,Hunger,IFC Films,Drama
+240,Vivere,Regent Releasing,Drama
+241,Nothing But the Truth,Yari Film Group R…,Drama
+242,Das Haus der schlafenden Sc…,First Run Features,Drama
+243,Wonderful Town,Kino International,Drama
+244,Turn the River,Screen Media Films,Drama
+245,The Killing of John Lennon,IFC First Take,Drama
+246,Polar Opposites,Regent Releasing,Drama
+247,13 Months of Sunshine,,Drama
+248,La Leon,Music Box Films,Drama
+249,Flashbacks of a Fool,Anchor Bay Entert…,Drama
+250,Oublier Cheyenne,Regent Releasing,Drama
+251,Disfigured,Cinema Libre,Drama
+252,White Rainbow,Rocky Mountain Pi…,Drama
+253,Rome & Jewel,Emerging Pictures,Drama
+254,Arranged,Film Movement,Drama
+255,Beautiful Boxer,Regent Releasing,Drama
+256,The Rise and Fall of Miss T…,Lavender House Films,Drama
+1,The Twilight Saga: New Moon,Summit Entertainment,Drama
+2,The Blind Side,Warner Bros.,Drama
+3,Gran Torino,Warner Bros.,Drama
+4,Disneyâs A Christmas Carol,Walt Disney,Drama
+5,Slumdog Millionaire,Fox Searchlight,Drama
+6,Public Enemies,Universal,Drama
+7,Hannah Montana: The Movie,Walt Disney,Drama
+8,The Time Travelerâs Wife,Warner Bros.,Drama
+9,My Sisterâs Keeper,Warner Bros.,Drama
+10,The Curious Case of Benjami…,Paramount Pictures,Drama
+11,Up in the Air,Paramount Pictures,Drama
+12,Precious (Based on the Nove…,Lionsgate,Drama
+13,Orphan,Warner Bros.,Drama
+14,Notorious,Fox Searchlight,Drama
+15,The Soloist,Paramount Pictures,Drama
+16,The Reader,Weinstein Co.,Drama
+17,Invictus,Warner Bros.,Drama
+18,Defiance,Paramount Vantage,Drama
+19,Brothers,Lionsgate,Drama
+20,The Wrestler,Fox Searchlight,Drama
+21,Love Happens,Universal,Drama
+22,Revolutionary Road,Paramount Vantage,Drama
+23,Twilight,Summit Entertainment,Drama
+24,Doubt,Miramax,Drama
+25,Milk,Focus Features,Drama
+26,Last Chance Harvey,Overture Films,Drama
+27,Amelia,Fox Searchlight,Drama
+28,The Hurt Locker,Summit Entertainment,Drama
+29,Frost/Nixon,Universal,Drama
+30,Not Easily Broken,Sony Pictures,Drama
+31,Seven Pounds,Sony Pictures,Drama
+32,Everybody's Fine,Miramax,Drama
+33,An Education,Sony Pictures Cla…,Drama
+34,Taking Woodstock,Focus Features,Drama
+35,The Road,Weinstein Co.,Drama
+36,Coco avant Chanel,Sony Pictures Cla…,Drama
+37,Crossing Over,Weinstein Co.,Drama
+38,Bright Star,Apparition,Drama
+39,Entre les murs,Sony Pictures Cla…,Drama
+40,Two Lovers,Magnolia Pictures,Drama
+41,Australia,20th Century Fox,Drama
+42,ChÃ©ri,Miramax,Drama
+43,Rachel Getting Married,Sony Pictures Cla…,Drama
+44,The Young Victoria,Apparition,Drama
+45,Adam,Fox Searchlight,Drama
+46,Is Anybody There?,Stony Island Ente…,Drama
+47,A Single Man,Weinstein Co.,Drama
+48,L'heure d'Ã©tÃ©,IFC Films,Drama
+49,"New York, I Love You",Vivendi Entertain…,Drama
+50,"Che, Part 1: The Argentine",IFC Films,Drama
+51,Gomorra,IFC Films,Drama
+52,Babine,,Drama
+53,"DÃ©dÃ©, Ã  travers les brumes",TVA Films,Drama
+54,Okuribito,Regent Releasing,Drama
+55,Bad Lieutenant: Port of Cal…,First Look,Drama
+56,Polytechnique,,Drama
+57,The Secrets of Jonathan Sperry,Five & Two Pictures,Drama
+58,Sugar,Sony Pictures Cla…,Drama
+59,Me and Orson Welles,Freestyle Releasing,Drama
+60,Cold Souls,Samuel Goldwyn Films,Drama
+61,Goodbye Solo,Roadside Attractions,Drama
+62,Seraphine,Music Box Films,Drama
+63,Il y a longtemps que je t'aime,,Drama
+64,The Boys are Back,Miramax,Drama
+65,Wendy and Lucy,Oscilloscope Pict…,Drama
+66,The Great Buck Howard,Magnolia Pictures,Drama
+67,Crazy Heart,Fox Searchlight,Drama
+68,The Stoning of Soraya M.,Roadside Attractions,Drama
+69,The Messenger,Oscilloscope Pict…,Drama
+70,American Violet,Samuel Goldwyn Films,Drama
+71,From Mexico with Love,Roadside Attractions,Drama
+72,Tetro,American Zoetrope,Drama
+73,La Nana,Elephant Eye Films,Drama
+74,Little Ashes,Regent Releasing,Drama
+75,The Damned United,Sony Pictures Cla…,Drama
+76,Lymelife,Screen Media Films,Drama
+77,Antichrist,IFC Films,Drama
+78,The Lovely Bones,Paramount Pictures,Drama
+79,"Synecdoche, New York",Sony Pictures Cla…,Drama
+80,Tokyo!,,Drama
+81,The Merry Gentleman,,Drama
+82,Le silence de Lorna,Sony Pictures Cla…,Drama
+83,London Dreams,Studio 18,Drama
+84,Adoration,Sony Pictures Cla…,Drama
+85,Anonyma - Eine Frau in Berlin,Strand,Drama
+86,Tokyo Sonata,Regent Releasing,Drama
+87,Tera Mera Ki Rishta,Eros Entertainment,Drama
+88,The Private Lives of Pippa Lee,Screen Media Films,Drama
+89,The Secret Life of Bees,Fox Searchlight,Drama
+90,Il Divo,Music Box Films,Drama
+91,Frozen River,Sony Pictures Cla…,Drama
+92,The Burning Plain,Magnolia Pictures,Drama
+93,Fireproof,Samuel Goldwyn Films,Drama
+94,The Boy in the Striped Pyjamas,Miramax,Drama
+95,Shrink,Roadside Attractions,Drama
+96,Still Walking,IFC Films,Drama
+97,Hunger,IFC Films,Drama
+98,The Other Man,Image Entertainment,Drama
+99,35 Rhums,Cinema Guild,Drama
+100,Fados,Zeitgeist,Drama
+101,"War Eagle, Arkansas",Empire Pictures,Drama
+102,Katyn,Lorber Films,Drama
+103,Avaze gonjeshk ha,Regent Releasing,Drama
+104,Rolling,Indican Pictures,Drama
+105,Medicine for Melancholy,IFC Films,Drama
+106,Irene in Time,Rainbow Releasing,Drama
+107,Bronson,Magnolia Pictures,Drama
+108,Hanami,Strand,Drama
+109,La mujer sin cabeza,Strand,Drama
+110,Made in U.S.A.,Rialto Pictures,Drama
+111,The Little Traitor,Westchester Films,Drama
+112,Das Weisse Band: Eine deuts…,Sony Pictures Cla…,Drama
+113,The Mysteries of Pittsburgh,Peace Arch Releasing,Drama
+114,Phoebe in Wonderland,ThinkFilm,Drama
+115,Disgrace,Paladin,Drama
+116,Rashomon,Janus Films,Drama
+117,Un conte de NoÃ«l,IFC Films,Drama
+118,Sodot Ha,Monterey Media,Drama
+119,Serbis,Regent Releasing,Drama
+120,Plus tard,Kino International,Drama
+121,Stellet licht,Pallisades Tartan,Drama
+122,Jerichow,Cinema Guild,Drama
+123,Human Condition Trilogy,Janus Films,Drama
+124,$9.99,Regent Releasing,Drama
+125,Trucker,Monterey Media,Drama
+126,Broken Hill,Audience Alliance,Drama
+127,Venkovsky ucitel,Film Movement,Drama
+128,"PoliÈist, Adjectiv",,Drama
+129,Nights in Rodanthe,Warner Bros.,Drama
+130,That Evening Sun,Freestyle Releasing,Drama
+131,Owl and the Sparrow,Wave Releasing,Drama
+132,Kaerlighed Pa Film,Koch Lorber Films,Drama
+133,Solntse,Lorber Films,Drama
+134,Un secret,Strand,Drama
+135,One Day You'll Understand,City Lights Pictures,Drama
+136,How About You,Strand,Drama
+137,Mutluluk,First Run Features,Drama
+138,Uncertainty,IFC Films,Drama
+139,L'Enfant sauvage,The Film Desk,Drama
+140,Rab Ne Bana Di Jodi,Yash Raj Films,Drama
+141,Tony Manero,Lorber Films,Drama
+142,The Edge of Love,Image Entertainment,Drama
+143,The Loss of a Teardrop Diamond,Paladin,Drama
+144,Mancora,Maya Releasing,Drama
+145,Lola MontÃ¨s,Rialto Pictures,Drama
+146,Ladri di biciclette,,Drama
+147,Call of the Wild 3D,Vivendi Entertain…,Drama
+148,An American Affair,Screen Media Films,Drama
+149,"LÃ©on Morin, prÃªtre",,Drama
+150,The Last Lullaby,,Drama
+151,The Open Road,Anchor Bay Entert…,Drama
+152,"Jeanne Dielman, 23 Quai du …",New Yorker,Drama
+153,Women in Trouble,Screen Media Films,Drama
+154,Between Love & Goodbye,Embrem Entertainment,Drama
+155,Hope & Redemption: The Lena…,American World Pi…,Drama
+156,Dare,Image Entertainment,Drama
+157,Good,ThinkFilm,Drama
+158,Passchendaele,Alliance Atlantis,Drama
+159,Local Color,Monterey Media,Drama
+160,Tennessee,Vivendi Entertain…,Drama
+161,Storm,Film Movement,Drama
+162,Five Minutes of Heaven,IFC Films,Drama
+163,Home,Monterey Media,Drama
+164,The Education of Charlie Banks,Anchor Bay Entert…,Drama
+165,Kabei: Our Mother,Strand,Drama
+166,Tum Mile,Viva Entertainment,Drama
+167,Mississippi Mermaid,MGM,Drama
+168,La Ventana,Film Movement,Drama
+169,37Âº2 le matin,Cinema Libre,Drama
+170,American Streetballers,MSK Productions,Drama
+171,Caos Calmo,IFC Films,Drama
+172,Home,Lorber Films,Drama
+173,Ischeznuvshaya Imperiya,Kino International,Drama
+174,"Live Fast, Die Young",Riverrain,Drama
+175,Mammoth,IFC Films,Drama
+176,Dillinger is Dead,Janus Films,Drama
+177,Winter of Frozen Dreams,Monterey Media,Drama
+178,Yonkers Joe,Magnolia Pictures,Drama
+179,Endgame,Monterey Media,Drama
+180,Loren Cass,Kino International,Drama
+181,The New Year Parade,,Drama
+182,The Ministers,Maya Releasing,Drama
+183,Alexandra,Cinema Guild,Drama
+184,Eden,,Drama
+185,Afterschool,IFC Films,Drama
+186,Cadillac Records,Sony Pictures,Drama
+187,Gooby,Monterey Media,Drama
+188,"Otto; Or, Up with Dead People",Strand,Drama
+189,Sandstorm,Self Distributed,Drama
+190,Breakfast with Scot,Regent Releasing,Drama
+191,Donne-moi la main,Strand,Drama
+192,The Village Barbershop,Monterey Media,Drama
+193,Ghosted,First Run Features,Drama
+194,Love Comes Lately,Kino International,Drama
+195,Das Haus der schlafenden Sc…,First Run Features,Drama
+196,Save Me,First Run Features,Drama
+197,Kings of the Evening,Indican Pictures,Drama
+198,El Tinte de la Fama,Cinevolve Studios,Drama
+199,J'entends plus la guitare,The Film Desk,Drama
+200,The Amazing Truth About Que…,Regent Releasing,Drama
+1,The Twilight Saga: Eclipse,Summit Entertainment,Drama
+2,The Social Network,Sony Pictures,Drama
+3,Eat Pray Love,Sony Pictures,Drama
+4,Dear John,Sony Pictures,Drama
+5,The Last Song,Walt Disney,Drama
+6,Why Did I Get Married Too?,Lionsgate,Drama
+7,Secretariat,Walt Disney,Drama
+8,Letters to Juliet,Summit Entertainment,Drama
+9,Wall Street 2: Money Never …,20th Century Fox,Drama
+10,The Blind Side,Warner Bros.,Drama
+11,The Fighter,Paramount Pictures,Drama
+12,The Lovely Bones,Paramount Pictures,Drama
+13,Step Up 3D,Walt Disney,Drama
+14,Up in the Air,Paramount Pictures,Drama
+15,Crazy Heart,Fox Searchlight,Drama
+16,For Colored Girls,Lionsgate,Drama
+17,Green Zone,Universal,Drama
+18,Hereafter,Warner Bros.,Drama
+19,Love and Other Drugs,20th Century Fox,Drama
+20,Charlie St. Cloud,Universal,Drama
+21,The Kingâs Speech,Weinstein Co.,Drama
+22,Remember Me,Summit Entertainment,Drama
+23,Extraordinary Measures,CBS Films,Drama
+24,127 Hours,Fox Searchlight,Drama
+25,Fair*Game,Summit Entertainment,Drama
+26,The Twilight Saga: New Moon,Summit Entertainment,Drama
+27,The Young Victoria,Apparition,Drama
+28,A Single Man,Weinstein Co.,Drama
+29,Invictus,Warner Bros.,Drama
+30,Conviction,Fox Searchlight,Drama
+31,The Last Station,Sony Pictures Cla…,Drama
+32,Winter's Bone,Roadside Attractions,Drama
+33,Orlando,Sony Pictures Cla…,Drama
+34,Io sono lâamore,Magnolia Pictures,Drama
+35,Mao's Last Dancer,Samuel Goldwyn Films,Drama
+36,An Education,Sony Pictures Cla…,Drama
+37,Solitary Man,Anchor Bay Entert…,Drama
+38,The Hurt Locker,Summit Entertainment,Drama
+39,My Name is Khan,Fox Searchlight,Drama
+40,Precious (Based on the Nove…,Lionsgate,Drama
+41,To Save a Life,Samuel Goldwyn Films,Drama
+42,The Runaways,Apparition,Drama
+43,You Will Meet a Tall Dark S…,Sony Pictures Cla…,Drama
+44,Letters to God,Vivendi Entertain…,Drama
+45,Never Let Me Go,Fox Searchlight,Drama
+46,Das Weisse Band: Eine deuts…,Sony Pictures Cla…,Drama
+47,Un ProphÃ¨te,Sony Pictures Cla…,Drama
+48,Stone,Overture Films,Drama
+49,Coco Chanel and Igor Stravi…,Sony Pictures Cla…,Drama
+50,Cairo Time,IFC Films,Drama
+51,Nowhere Boy,Weinstein Co.,Drama
+52,Dabangg,Eros Entertainment,Drama
+53,The Road,Weinstein Co.,Drama
+54,Brothers,Lionsgate,Drama
+55,Mother and Child,Sony Pictures Cla…,Drama
+56,The Perfect Game,Slowhand Cinema,Drama
+57,La Mission,Screen Media Films,Drama
+58,Guzaarish,UTV Communications,Drama
+59,Animal Kingdom,Sony Pictures Cla…,Drama
+60,Les sept jours du talion,Alliance Vivafilm,Drama
+61,Princess Kaiulani,Roadside Attractions,Drama
+62,L'enfant prodige,,Drama
+63,What If...,Five & Two Pictures,Drama
+64,Peepli Live,UTV Communications,Drama
+65,North Face,Music Box Films,Drama
+66,Le Concert,Weinstein Co.,Drama
+67,We Are Family,UTV Communications,Drama
+68,Ajami,Kino International,Drama
+69,Agora,Newmarket Films,Drama
+70,Vincere,IFC Films,Drama
+71,Howl,Oscilloscope Pict…,Drama
+72,Madeo,Magnolia Pictures,Drama
+73,Ondine,Magnolia Pictures,Drama
+74,L'instinct de mort,Music Box Films,Drama
+75,Preacher's Kid,Gener8xion Entert…,Drama
+76,Les amours imaginaires,,Drama
+77,The City of Your Final Dest…,Hyde Park Films,Drama
+78,Made in Dagenham,Sony Pictures Cla…,Drama
+79,The Messenger,Oscilloscope Pict…,Drama
+80,Rabbit Hole,Lionsgate,Drama
+81,Somewhere,Focus Features,Drama
+82,Break Ke Baad,Reliance Big Pict…,Drama
+83,Disneyâs A Christmas Carol,Walt Disney,Drama
+84,Action Replayy,Viva Entertainment,Drama
+85,Fish Tank,IFC Films,Drama
+86,Lebanon,Sony Pictures Cla…,Drama
+87,Ã  bout de souffle,Films Around the …,Drama
+88,Like Dandelion Dust,Self Distributed,Drama
+89,Creation,Newmarket Films,Drama
+90,Enter the Void,IFC Films,Drama
+91,All Good Things,Magnolia Pictures,Drama
+92,Vision,Zeitgeist,Drama
+93,The Yellow Handkerchief,Samuel Goldwyn Films,Drama
+94,Holy Rollers,First Independent…,Drama
+95,The Little Traitor,Westchester Films,Drama
+96,Blue Valentine,Weinstein Co.,Drama
+97,Bad Lieutenant: Port of Cal…,First Look,Drama
+98,L'ennemi public nÂ°1,Music Box Films,Drama
+99,Me and Orson Welles,Freestyle Releasing,Drama
+100,White Material,IFC Films,Drama
+101,Monsters,Magnet Pictures,Drama
+102,That Evening Sun,Freestyle Releasing,Drama
+103,The Tempest,Miramax,Drama
+104,The Killer Inside Me,IFC Films,Drama
+105,La fille du RER,Strand,Drama
+106,Legendary,Samuel Goldwyn Films,Drama
+107,San qiang pai an jing qi,Sony Pictures Cla…,Drama
+108,The Secrets of Jonathan Sperry,Five & Two Pictures,Drama
+109,Partir,IFC Films,Drama
+110,Rann,Studio 18,Drama
+111,Another Year,Sony Pictures Cla…,Drama
+112,71: Into the Fire,,Drama
+113,Welcome to the Rileys,Samuel Goldwyn Films,Drama
+114,Red Riding: The Year of Our…,IFC Films,Drama
+115,My Dog Tulip,New Yorker,Drama
+116,Red Riding: The Year of Our…,IFC Films,Drama
+117,Le pÃ¨re de mes enfants,IFC Films,Drama
+118,The Cremaster Cycle,International Fil…,Drama
+119,Love Ranch,,Drama
+120,Carlos,IFC Films,Drama
+121,Pure Country 2: The Gift,Warner Bros.,Drama
+122,"Lovely, Still",Monterey Media,Drama
+123,Country Strong,Sony Pictures,Drama
+124,Valley of the Hearts Delight,Indican Pictures,Drama
+125,Queen of the Lot,Rainbow Releasing,Drama
+126,Coco avant Chanel,Sony Pictures Cla…,Drama
+127,The Greatest,Paladin,Drama
+128,Touching Home,CFI,Drama
+129,Blood Done Sign My Name,Paladin,Drama
+130,Alle Anderen,Cinema Guild,Drama
+131,Kings of the Evening,Indican Pictures,Drama
+132,The Loss of a Teardrop Diamond,Paladin,Drama
+133,La Nana,Elephant Eye Films,Drama
+134,Kasi az Gorbehaye Irani Kha…,,Drama
+135,The Private Lives of Pippa Lee,Screen Media Films,Drama
+136,Kynodontas,Kino International,Drama
+137,Le hÃ©risson,,Drama
+138,La siciliana ribelle,Music Box Films,Drama
+139,Contracorriente,The Film Collabor…,Drama
+140,Alamar,Film Movement,Drama
+141,Amelia,Fox Searchlight,Drama
+142,Night Catches Us,Magnolia Pictures,Drama
+143,Le Amiche,The Film Desk,Drama
+144,The Harimaya Bridge,Eleven Arts,Drama
+145,35 Rhums,Cinema Guild,Drama
+146,Defendor,,Drama
+147,The Red Baron,Monterey Media,Drama
+148,La derniÃ¨re fugue,,Drama
+149,44 Inch Chest,Image Entertainment,Drama
+150,Le Refuge,Strand,Drama
+151,Barbe Bleue,Strand,Drama
+152,Sauve qui peut (la vie),New Yorker,Drama
+153,Spoken Word,Variance Films,Drama
+154,Solntse,Lorber Films,Drama
+155,Rashomon,Janus Films,Drama
+156,Seraphine,Music Box Films,Drama
+157,The Exploding Girl,Oscilloscope Pict…,Drama
+158,Handsome Harry,Paladin,Drama
+159,Happy Tears,Roadside Attractions,Drama
+160,Hemingway's Garden of Eden,Roadside Attractions,Drama
+161,The Good Heart,Magnolia Pictures,Drama
+162,Prince of Broadway,Elephant Eye Films,Drama
+163,The Trial,,Drama
+164,La legge,,Drama
+165,Welcome,,Drama
+166,Jim,Area 23a,Drama
+167,The Dry Land,Freestyle Releasing,Drama
+168,Milh Hadha al-Bahr,Lorber Films,Drama
+169,Cherry,,Drama
+170,Children of Invention,The Kids Are Alri…,Drama
+171,The Damned United,Sony Pictures Cla…,Drama
+172,Mississippi Mermaid,MGM,Drama
+173,Chun Feng Chen Zui De Ye Wan,Strand,Drama
+174,La Teta Asustada,Olive Films,Drama
+175,O Estranho Caso de AngÃ©lica,Cinema Guild,Drama
+176,Lourdes,Pallisades Tartan,Drama
+177,The Taqwacores,Strand,Drama
+178,Wonderful World,Magnolia Pictures,Drama
+179,Broderskab,Olive Films,Drama
+180,Happiness Runs,Strand,Drama
+181,Logan,Real Bean Enterta…,Drama
+182,Mercy,IFC Films,Drama
+183,The Last New Yorker,Brink Film,Drama
+184,Watercolors,Regent Releasing,Drama
+185,Storm,Film Movement,Drama
+186,Okuribito,Regent Releasing,Drama
+187,Sof Shavua B'Tel Aviv,Film Movement,Drama
+188,Home,Lorber Films,Drama
+189,Hadewijch,IFC Films,Drama
+190,Cosa Voglio Di Piu,Film Movement,Drama
+191,"PoliÈist, Adjectiv",,Drama
+192,La mujer sin cabeza,Strand,Drama
+193,Just Say Love,Regent Releasing,Drama
+194,L'Enfant sauvage,The Film Desk,Drama
+195,Murder in Fashion,Regent Releasing,Drama
+196,Altiplano,First Run Features,Drama
+197,Mutluluk,First Run Features,Drama
+198,Eichmann,Regent Releasing,Drama
+199,Helena From the Wedding,Film Movement,Drama
+200,Daniel y Ana,Strand,Drama
+201,You Wonât Miss Me,Reel Diva Consult…,Drama
+202,Flickan,Olive Films,Drama
+203,The Temptation of St. Tony,Olive Films,Drama
+204,Carmo,First Run Features,Drama
+205,Endgame,Monterey Media,Drama
+206,Trucker,Monterey Media,Drama
+207,Shake Hands with the Devil,Regent Releasing,Drama
+208,$9.99,Regent Releasing,Drama
+209,"Jeanne Dielman, 23 Quai du …",New Yorker,Drama
+210,Breakfast with Scot,Regent Releasing,Drama
+211,From Mexico with Love,Roadside Attractions,Drama
+1,The Twilight Saga: Breaking…,Summit Entertainment,Drama
+2,The Help,Walt Disney,Drama
+3,The Kingâs Speech,Weinstein Co.,Drama
+4,Moneyball,Sony Pictures,Drama
+5,Dolphin Tale,Warner Bros.,Drama
+6,Water for Elephants,20th Century Fox,Drama
+7,The Fighter,Paramount Pictures,Drama
+8,We Bought a Zoo,20th Century Fox,Drama
+9,Soul Surfer,Sony Pictures,Drama
+10,The Ides of March,Sony Pictures,Drama
+11,War Horse,Walt Disney,Drama
+12,The Descendants,Fox Searchlight,Drama
+13,J. Edgar,Warner Bros.,Drama
+14,Courageous,Sony Pictures,Drama
+15,Beastly,CBS Films,Drama
+16,Country Strong,Sony Pictures,Drama
+17,One Day,Focus Features,Drama
+18,Warrior,Lionsgate,Drama
+19,The Tree of Life,Fox Searchlight,Drama
+20,The Rum Diary,FilmDistrict,Drama
+21,The Conspirator,Roadside Attractions,Drama
+22,Jane Eyre,Focus Features,Drama
+23,Win Win,Fox Searchlight,Drama
+24,Blue Valentine,Weinstein Co.,Drama
+25,My Week with Marilyn,Weinstein Co.,Drama
+26,127 Hours,Fox Searchlight,Drama
+27,Elle s'appelait Sarah,Weinstein Co.,Drama
+28,Barney's Version,Sony Pictures Cla…,Drama
+29,Incendies,,Drama
+30,Beginners,Focus Features,Drama
+31,Margin Call,Roadside Attractions,Drama
+32,Biutiful,Roadside Attractions,Drama
+33,The Artist,Weinstein Co.,Drama
+34,Atlas Shrugged: Part 1,Rocky Mountain Pi…,Drama
+35,The Company Men,Weinstein Co.,Drama
+36,Seven Days In Utopia,Visio Entertainment,Drama
+37,The Way,Producers Distrib…,Drama
+38,Des Hommes et Des Dieux,Sony Pictures Cla…,Drama
+39,The Social Network,Sony Pictures,Drama
+40,Like Crazy,Paramount Pictures,Drama
+41,Zindagi Na Milegi Dobara,Eros Entertainment,Drama
+42,Another Year,Sony Pictures Cla…,Drama
+43,Everything Must Go,Roadside Attractions,Drama
+44,The Grace Card,Samuel Goldwyn Films,Drama
+45,Shame,Fox Searchlight,Drama
+46,The Mighty Macs,Quaker Media,Drama
+47,Gerry,Films Seville,Drama
+48,Rabbit Hole,Lionsgate,Drama
+49,A Better Life,Summit Entertainment,Drama
+50,Take Shelter,Sony Pictures Cla…,Drama
+51,A Dangerous Method,Sony Pictures Cla…,Drama
+52,Cafe de flore,Alliance Atlantis,Drama
+53,Monsieur Lazhar,Films Seville,Drama
+54,Copie conforme,IFC Films,Drama
+55,The Devil's Double,Lionsgate,Drama
+56,Somewhere,Focus Features,Drama
+57,Snow Flower and the Secret Fan,Fox Searchlight,Drama
+58,Another Earth,Fox Searchlight,Drama
+59,Kill the Irishman,Anchor Bay Entert…,Drama
+60,The Whistleblower,Samuel Goldwyn Films,Drama
+61,Love and Other Drugs,20th Century Fox,Drama
+62,There Be Dragons,Samuel Goldwyn Films,Drama
+63,Haevnen,Sony Pictures Cla…,Drama
+64,Rockstar,Eros Entertainment,Drama
+65,Meek's Cutoff,Oscilloscope Pict…,Drama
+66,Higher Ground,Mongrel Media,Drama
+67,Le hÃ©risson,,Drama
+68,Nannerl la soeur de Mozart,Music Box Films,Drama
+69,Aarakshan,Reliance Big Pict…,Drama
+70,Secretariat,Walt Disney,Drama
+71,Patiala House,Tachyon,Drama
+72,Made in Dagenham,Sony Pictures Cla…,Drama
+73,Dhobi Ghat,UTV Communications,Drama
+74,The Future,Roadside Attractions,Drama
+75,Dum Maaro Dum,Fox Searchlight,Drama
+76,Even the Rain,Vitagraph Films,Drama
+77,Winter in Wartime,Sony Pictures Cla…,Drama
+78,Machine Gun Preacher,Relativity,Drama
+79,Bride Flight,Music Box Films,Drama
+80,Weekend,IFC Films,Drama
+81,Circumstance,Roadside Attractions,Drama
+82,No One Killed Jessica,UTV Communications,Drama
+83,Frisson des Collines,,Drama
+84,Fair*Game,Summit Entertainment,Drama
+85,The 5th Quarter,Rocky Mountain Pi…,Drama
+86,Hesher,Wrekin Hill Enter…,Drama
+87,Miral,Weinstein Co.,Drama
+88,MOOZ-lum,Peace Film LLC,Drama
+89,Le Havre,Janus Films,Drama
+90,Shi,Kino International,Drama
+91,La princesse de Montpensier,IFC Films,Drama
+92,Extremely Loud and Incredib…,Warner Bros.,Drama
+93,Singham,Reliance Big Pict…,Drama
+94,Carnage,Sony Pictures Cla…,Drama
+95,The First Grader,National Geograph…,Drama
+96,Dharti,Viva Entertainment,Drama
+97,Winter's Bone,Roadside Attractions,Drama
+98,Le Concert,Weinstein Co.,Drama
+99,The Mill and the Cross,Kino Lorber,Drama
+100,The Music Never Stopped,Roadside Attractions,Drama
+101,All Good Things,Magnolia Pictures,Drama
+102,Serge Gainsbourg vie heroique,Music Box Films,Drama
+103,Brighton Rock,IFC Films,Drama
+104,Bol,Eros Entertainment,Drama
+105,Loong Boonmee raleuk chat ,Strand,Drama
+106,Amigo,Variance Films,Drama
+107,Go For It!,Lionsgate,Drama
+108,El gran milagro,KKM Enterprises,Drama
+109,Restless,Sony Pictures Cla…,Drama
+110,Decisions,Self Distributed,Drama
+111,Le quattro volte,Lorber Films,Drama
+112,JiÃ n DÇng WÄi YÃ¨,China Lion Film D…,Drama
+113,Gun Hill Road,Motion Film Group,Drama
+114,Xinhai geming,Variance Films,Drama
+115,"Life, Above All",Sony Pictures Cla…,Drama
+116,The Bang Bang Club,TriBeca Films,Drama
+117,Nanjing! Nanjing!,Kino International,Drama
+118,Trust,Alchemy,Drama
+119,Vision,Zeitgeist,Drama
+120,Last Night,TriBeca Films,Drama
+121,Young Goethe in Love,Music Box Films,Drama
+122,Tomboy,Rocket Releasing,Drama
+123,My Dog Tulip,New Yorker,Drama
+124,The Man Who Fell to Earth,Columbia,Drama
+125,Carancho,Strand,Drama
+126,Pariah,Focus Features,Drama
+127,Der RÃ¤uber,,Drama
+128,Beautiful Boy,Anchor Bay Entert…,Drama
+129,The Tree,Zeitgeist,Drama
+130,Zhan Guo,China Lion Film D…,Drama
+131,Les amours imaginaires,,Drama
+132,Puncture,Alchemy,Drama
+133,Mei Li Ren Sheng,China Lion Film D…,Drama
+134,Snowmen,ARC Entertainment,Drama
+135,The Human Resources Manager,Film Movement,Drama
+136,Queen of the Lot,Rainbow Releasing,Drama
+137,If A Tree Falls: The Story …,Oscilloscope Pict…,Drama
+138,Une vie qui commence,Alliance Vivafilm,Drama
+139,3,Strand,Drama
+140,Jodaeiye Nader az Simin,Sony Pictures Cla…,Drama
+141,White Material,IFC Films,Drama
+142,Dirty Girl,Weinstein Co.,Drama
+143,For Colored Girls,Lionsgate,Drama
+144,Bronenosets Potyomkin,,Drama
+145,In The Land of Blood and Honey,FilmDistrict,Drama
+146,Putty Hill,Cinema Guild,Drama
+147,"Lebanon, PA",Truly Indie,Drama
+148,What If...,Five & Two Pictures,Drama
+149,Margaret,Fox Searchlight,Drama
+150,Journal d'un curÃ© de campagne,,Drama
+151,The Tempest,Miramax,Drama
+152,Every Day,Image Entertainment,Drama
+153,Rapt,Lorber Films,Drama
+154,Sykt lykkelig,Magnolia Pictures,Drama
+155,Contracorriente,The Film Collabor…,Drama
+156,Desert Flower,National Geograph…,Drama
+157,Down for Life,B.D. Fox Independent,Drama
+158,La conquÃªte,Music Box Films,Drama
+159,Myth of the American Sleepover,IFC Films,Drama
+160,Baiyin diguo,China Lion Film D…,Drama
+161,3 Backyards,Screen Media Films,Drama
+162,O Estranho Caso de AngÃ©lica,Cinema Guild,Drama
+163,Les Neiges du Kilimanjaro,Mongrel Media,Drama
+164,Le rayon vert,Orion Classics,Drama
+165,Sleeping Beauty,IFC Films,Drama
+166,Fireflies in the Garden,,Drama
+167,Kynodontas,Kino International,Drama
+168,Da Wu Sheng,China Lion Film D…,Drama
+169,Hereafter,Warner Bros.,Drama
+170,Film Socialisme,Lorber Films,Drama
+171,The Time That Remains,IFC Films,Drama
+172,White Irish Drinkers,IFC Films,Drama
+173,The Son of No One,Anchor Bay Entert…,Drama
+174,Autoreiji,Magnolia Pictures,Drama
+175,Cracks,IFC Films,Drama
+176,Redemption Road,Freestyle Releasing,Drama
+177,Cost of a Soul,Relativity,Drama
+178,La belle endormie,Strand,Drama
+179,"Marti, dupa craciun",Lorber Films,Drama
+180,Animal Kingdom,Sony Pictures Cla…,Drama
+181,Howl,Oscilloscope Pict…,Drama
+182,Harvest,Monterey Media,Drama
+183,Vincent will Meer,Corinth Films ,Drama
+184,Answers to Nothing,Roadside Attractions,Drama
+185,Monogamy,Oscilloscope Pict…,Drama
+186,Night Catches Us,Magnolia Pictures,Drama
+187,La mariÃ©e Ã©tait en noir ,Lopert Pictures C…,Drama
+188,The Genesis Code,America Saga Rele…,Drama
+189,Die Fremde,Olive Films,Drama
+190,Skateland,Freestyle Releasing,Drama
+191,L'apollonide - souvenirs de…,IFC Films,Drama
+192,You Will Meet a Tall Dark S…,Sony Pictures Cla…,Drama
+193,L'instinct de mort,Music Box Films,Drama
+194,5 Days of War,Anchor Bay Entert…,Drama
+195,Littlerock,Variance Films,Drama
+196,The Little Traitor,Westchester Films,Drama
+197,The Last Ride,,Drama
+198,London Boulevard,IFC Films,Drama
+199,Tyrannosaur,Strand,Drama
+200,Sauve qui peut (la vie),New Yorker,Drama
+201,L'ennemi public nÂ°1,Music Box Films,Drama
+202,Bloodworth,Samuel Goldwyn Films,Drama
+203,AÃ±o Bisiesto,Strand,Drama
+204,"Eu cand vreau sa fluier, fl…",Film Movement,Drama
+205,Partir,IFC Films,Drama
+206,The Cremaster Cycle,International Fil…,Drama
+207,Zero Bridge,The Film Desk,Drama
+208,Carlos,IFC Films,Drama
+209,Un homme qui crie,Film Movement,Drama
+210,Cook County,Hannover House,Drama
+211,Vito Bonafacci,CAVU Releasing,Drama
+212,The Ledge,IFC Films,Drama
+213,Another Happy Day,Phase 4 Films,Drama
+214,Sans queue ni tete,First Run Features,Drama
+215,Kak ya provyol etim letom,Film Movement,Drama
+216,Je suis heureux que ma mÃ¨re…,Strand,Drama
+217,Korkoro,Lorber Films,Drama
+218,Ma part du gateau,IFC Films,Drama
+219,That's What I Am,Samuel Goldwyn Films,Drama
+220,I Melt with You,Magnolia Pictures,Drama
+221,Le Amiche,The Film Desk,Drama
+222,Alamar,Film Movement,Drama
+223,The Imperialists Are Still …,IFC Films,Drama
+224,Aurora,Cinema Guild,Drama
+225,Schastye moe,Kino Lorber,Drama
+226,Tanner Hall,Anchor Bay Entert…,Drama
+227,Cosa Voglio Di Piu,Film Movement,Drama
+228,"Scheherazade, Tell Me a Story",ArtMattan Films,Drama
+229,Kyatapira,Lorber Films,Drama
+230,Ranchero,Indican Pictures,Drama
+231,Passion Play,Image Entertainment,Drama
+232,Mississippi Mermaid,MGM,Drama
+233,Prince of the Himalayas,Kino Lorber,Drama
+234,Jitsuroku rengo sekigun: As…,Lorber Films,Drama
+235,Main Street,Magnolia Pictures,Drama
+236,Medianeras,IFC Films,Drama
+237,The Taqwacores,Strand,Drama
+238,Now & Later,Cinema Libre,Drama
+239,La Pivellina,First Run Features,Drama
+240,An Invisible Sign ,IFC Films,Drama
+241,Angels Crest,Magnolia Pictures,Drama
+242,IllÃ©gal,Film Movement,Drama
+1,The Twilight Saga: Breaking…,Lionsgate,Drama
+2,Lincoln,Walt Disney,Drama
+3,The Vow,Sony Pictures,Drama
+4,Flight,Paramount Pictures,Drama
+5,Life of Pi,20th Century Fox,Drama
+6,The Lucky One,Warner Bros.,Drama
+7,Titanic,Paramount Pictures,Drama
+8,The Odd Life of Timothy Green,Walt Disney,Drama
+9,Moonrise Kingdom,Focus Features,Drama
+10,The Descendants,Fox Searchlight,Drama
+11,The Artist,Weinstein Co.,Drama
+12,War Horse,Walt Disney,Drama
+13,Lawless,Weinstein Co.,Drama
+14,Trouble with the Curve,Warner Bros.,Drama
+15,Step Up Revolution,Lionsgate,Drama
+16,Tyler Perry's Good Deeds,Lionsgate,Drama
+17,Silver Linings Playbook,Weinstein Co.,Drama
+18,Extremely Loud and Incredib…,Warner Bros.,Drama
+19,We Bought a Zoo,20th Century Fox,Drama
+20,The Iron Lady,Weinstein Co.,Drama
+21,Cloud Atlas,Warner Bros.,Drama
+22,Sparkle,Sony Pictures,Drama
+23,Big Miracle,Universal,Drama
+24,The Perks of Being a Wallfl…,Lionsgate,Drama
+25,The Master,Weinstein Co.,Drama
+26,People Like Us,Walt Disney,Drama
+27,Anna Karenina,Focus Features,Drama
+28,The Words,CBS Films,Drama
+29,Beasts of the Southern Wild,Fox Searchlight,Drama
+30,Cirque du Soleil: Worlds Away,Paramount Pictures,Drama
+31,Salmon Fishing in the Yemen,CBS Films,Drama
+32,Jodaeiye Nader az Simin,Sony Pictures Cla…,Drama
+33,In Darkness,Sony Pictures Cla…,Drama
+34,Chasing Mavericks,20th Century Fox,Drama
+35,The Twilight Saga: Breaking…,Summit Entertainment,Drama
+36,My Week with Marilyn,Weinstein Co.,Drama
+37,The Sessions,Fox Searchlight,Drama
+38,Hitchcock,Fox Searchlight,Drama
+39,October Baby,Five & Two Pictures,Drama
+40,Won't Back Down,20th Century Fox,Drama
+41,Promised Land,Focus Features,Drama
+42,A Dangerous Method,Sony Pictures Cla…,Drama
+43,The Impossible,Lionsgate,Drama
+44,Atlas Shrugged: Part II,Atlas Distribution,Drama
+45,Last Ounce of Courage,Rocky Mountain Pi…,Drama
+46,Robot & Frank,Samuel Goldwyn Films,Drama
+47,Hyde Park on Hudson,Focus Features,Drama
+48,Jab Tak Hai Jaan,Yash Raj Films,Drama
+49,Albert Nobbs,Roadside Attractions,Drama
+50,Talaash,Reliance Big Pict…,Drama
+51,Girl in Progress,Lionsgate,Drama
+52,Sleepwalk With Me,IFC Films,Drama
+53,Carnage,Sony Pictures Cla…,Drama
+54,Shame,Fox Searchlight,Drama
+55,He'arat Shulayim,Sony Pictures Cla…,Drama
+56,English Vinglish,Eros Entertainment,Drama
+57,Crooked Arrows,Branded Entertain…,Drama
+58,Monsieur Lazhar,Films Seville,Drama
+59,We Need to Talk About Kevin,Oscilloscope Pict…,Drama
+60,Your Sister's Sister,IFC Films,Drama
+61,Le gamin au vÃ©lo,IFC Films,Drama
+62,A Late Quartet,Entertainment One,Drama
+63,Les adieux Ã  la reine,Cohen Media Group,Drama
+64,Woman Thou Art Loosed On th…,Codeblack Enterta…,Drama
+65,Take This Waltz,Magnolia Pictures,Drama
+66,Le fils de lâautre,Cohen Media Group,Drama
+67,The Deep Blue Sea,Music Box Films,Drama
+68,Rampart,Alchemy,Drama
+69,"Gwanghae, Wangyidoen namja",CJ Entertainment,Drama
+70,De rouille et dâos,Sony Pictures Cla…,Drama
+71,Coriolanus,Weinstein Co.,Drama
+72,Unconditional,Veracity Moving P…,Drama
+73,Pariah,Focus Features,Drama
+74,En kongelig affÃ¦re,Magnolia Pictures,Drama
+75,J. Edgar,Warner Bros.,Drama
+76,Moneyball,Sony Pictures,Drama
+77,Midnight's Children,Mongrel Media,Drama
+78,Heroine,UTV Communications,Drama
+79,W.E.,Weinstein Co.,Drama
+80,Holy Motors,Indomina Releasing,Drama
+81,Being Flynn,Focus Features,Drama
+82,"Et maintenant, on va oÃ¹?",Sony Pictures Cla…,Drama
+83,Courageous,Sony Pictures,Drama
+84,Not Fade Away,Paramount Vantage,Drama
+85,La fille du puisatier,Kino Lorber,Drama
+86,Smashed,Sony Pictures Cla…,Drama
+87,Bully,Lionsgate,Drama
+88,Neuk-dae-so-nyeon,CJ Entertainment,Drama
+89,Red Hook Summer,Variance/40 Acres…,Drama
+90,Compliance,Magnolia Pictures,Drama
+91,Jin lÃ­ng shÃ­ san chai,Wrekin Hill Enter…,Drama
+92,Amour,Sony Pictures Cla…,Drama
+93,Dolphin Tale,Warner Bros.,Drama
+94,The Way,Producers Distrib…,Drama
+95,Boy,Paladin,Drama
+96,In The Land of Blood and Honey,FilmDistrict,Drama
+97,Poulet aux prunes ,Sony Pictures Cla…,Drama
+98,Le Havre,Janus Films,Drama
+99,Keep the Lights On,Music Box Films,Drama
+100,Trishna,IFC Films,Drama
+101,Middle of Nowhere,AFFRM,Drama
+102,Yi jiu si er,China Lion Film D…,Drama
+103,The Help,Walt Disney,Drama
+104,Touchback,Anchor Bay Entert…,Drama
+105,10 Years,Anchor Bay Entert…,Drama
+106,The Hunter,Magnolia Pictures,Drama
+107,Dark Horse,Brainstorm Media,Drama
+108,L'homme qui voulait vivre s…,MPI Media Group,Drama
+109,Elles,Kino Lorber,Drama
+110,Impardonnables,Mongrel Media,Drama
+111,Simon och ekarna,Film Arcade,Drama
+112,Kiseki,Magnolia Pictures,Drama
+113,Rundskop,Drafthouse Films,Drama
+114,The Ides of March,Sony Pictures,Drama
+115,The Lady,Cohen Media Group,Drama
+116,The Loneliest Planet,IFC Films,Drama
+117,Any Day Now,Music Box Films,Drama
+118,Les bien-aimÃ©s,IFC Films,Drama
+119,The Forgiveness of Blood,IFC Films,Drama
+120,Bel Ami,Magnolia Pictures,Drama
+121,Cowgirls 'n Angels,Samuel Goldwyn Films,Drama
+122,Therese Desqueyroux,Mongrel Media,Drama
+123,Margin Call,Roadside Attractions,Drama
+124,Hello I Must Be Going,Oscilloscope Pict…,Drama
+125,Inch'Allah,Entertainment One,Drama
+126,The Magic of Belle Isle,Magnolia Pictures,Drama
+127,Wuthering Heights,Oscilloscope Pict…,Drama
+128,"Oslo, 31 August",Strand,Drama
+129,Hardflip,Rocky Mountain Pi…,Drama
+130,The Eye of the Storm,Sycamore Entertai…,Drama
+131,Starlet,Music Box Films,Drama
+132,Ichimei,TriBeca Films,Drama
+133,La Grande Illusion,Rialto Pictures,Drama
+134,Detachment,TriBeca Films,Drama
+135,Mai wei,PMK*BNC,Drama
+136,The Snows of Kilimanjaro,,Drama
+137,Un amour de jeunesse,IFC Films,Drama
+138,Backwards,Dada Films,Drama
+139,Young Goethe in Love,Music Box Films,Drama
+140,Take Shelter,Sony Pictures Cla…,Drama
+141,Beyond the Black Rainbow,Mongrel Media,Drama
+142,A Beautiful Soul,Tyscot Manhaddon,Drama
+143,Karakara,Mongrel Media,Drama
+144,The Fitzgerald Family Chris…,TriBeca Films,Drama
+145,Deep In The Heart,ARC Entertainment,Drama
+146,The Mill and the Cross,Kino Lorber,Drama
+147,La guerre est dÃ©clarÃ©e,IFC Films,Drama
+148,Union Square,Dada Films,Drama
+149,Poupoupidou,First Run Features,Drama
+150,Attenberg,Strand,Drama
+151,Miss Bala,Mongrel Media,Drama
+152,Les Enfants du Paradis,,Drama
+153,Tomboy,Rocket Releasing,Drama
+154,La conquÃªte,Music Box Films,Drama
+155,RomÃ©o Onze,Metropole Films D…,Drama
+156,Musical Chairs,Paladin,Drama
+157,Noruwei no mori,Mongrel Media,Drama
+158,Hide Away,Joule Films,Drama
+159,Hermano,Music Box Films,Drama
+160,Kaerlighed Pa Film,Koch Lorber Films,Drama
+161,Least Among Saints,Brainstorm Media,Drama
+162,Mighty Fine,Adopt Films,Drama
+163,Here,Strand,Drama
+164,Nobody Walks,Magnolia Pictures,Drama
+165,Le diable probablement ,The Film Desk,Drama
+166,Nannerl la soeur de Mozart,Music Box Films,Drama
+167,Like Crazy,Paramount Pictures,Drama
+168,Les hommes libres,Film Movement,Drama
+169,Toutes nos envies,,Drama
+170,The Long Day Closes,The Film Desk,Drama
+171,"Noordzee, Texas",Strand,Drama
+172,Bonsai,Strand,Drama
+173,PrÃ©sumÃ© coupable,Mongrel Media,Drama
+174,Ranchero,Indican Pictures,Drama
+175,Sedona,Pasidg Productions,Drama
+176,28 Hotel Rooms,Oscilloscope Pict…,Drama
+177,Le Quai des brumes,,Drama
+178,4:44 Last Day on Earth,IFC Films,Drama
+179,Dangerous Liaisons,Well Go USA,Drama
+180,La mariÃ©e Ã©tait en noir ,Lopert Pictures C…,Drama
+181,Little Birds,Alchemy,Drama
+182,Return,Dada Films,Drama
+183,Alpeis,Kino Lorber,Drama
+184,Quill: The Life of a Guide Dog,Music Box Films,Drama
+185,Michael,Strand,Drama
+186,17 filles,Strand,Drama
+187,30 Beats,Roadside Attractions,Drama
+188,Tristana,,Drama
+189,Autoreiji,Magnolia Pictures,Drama
+190,Les Neiges du Kilimanjaro,Mongrel Media,Drama
+191,Jesus Henry Christ,Entertainment One,Drama
+192,SedmikrÃ¡sky,Janus Films,Drama
+193,How Much Does Your Building…,First Run Features,Drama
+194,California Solo,Strand,Drama
+195,For Ellen,TriBeca Films,Drama
+196,Hamnden,Music Box Films,Drama
+197,Santa Mesa,Indican Pictures,Drama
+198,Da-reun na-ra-e-suh,Kino Lorber,Drama
+199,Virginia,Entertainment One,Drama
+200,Post Mortem,Kino Lorber,Drama
+201,Around June,Indican Pictures,Drama
+202,Cartas a Elena,Freestyle Releasing,Drama
+203,Cook County,Hannover House,Drama
+204,Roadie,Magnolia Pictures,Drama
+205,Nothing But a Man,Cinema V,Drama
+206,Domaine,Strand,Drama
+207,In Our Nature,Cinedigm,Drama
+208,Tyrannosaur,Strand,Drama
+209,Prince of the Himalayas,Kino Lorber,Drama
+210,Crazy Eyes,Strand,Drama
+211,The Last Ride,,Drama
+212,Joven y alocada,IFC Films,Drama
+213,The Good Doctor,Magnolia Pictures,Drama
+214,Bringing Up Bobby,Monterey Media,Drama
+215,Atmen,Kino Lorber,Drama
+216,Kongen av BastÃ¸y ,Kino Lorber,Drama
+217,Amigo,Variance Films,Drama
+218,Downtown Express,,Drama
+219,Le rayon vert,Orion Classics,Drama
+220,Cirkus Columbia,Strand,Drama
+221,About Cherry,IFC Films,Drama
+222,Serge Gainsbourg vie heroique,Music Box Films,Drama
+223,Perfect Sense,IFC Films,Drama
+224,Jack and Diane,Magnolia Pictures,Drama
+225,Schastye moe,Kino Lorber,Drama
+226,Bronenosets Potyomkin,,Drama
+227,Citizen Gangster,IFC Films,Drama
+228,Death of a Superhero,TriBeca Films,Drama
+229,Meeting Evil,Magnet Pictures,Drama
+1,The Great Gatsby,Warner Bros.,Drama
+2,Lee Daniels' The Butler,Weinstein Co.,Drama
+3,Captain Phillips,Sony Pictures,Drama
+4,Silver Linings Playbook,Weinstein Co.,Drama
+5,42,Warner Bros.,Drama
+6,Safe Haven,Relativity,Drama
+7,Saving Mr. Banks,Walt Disney,Drama
+8,Tyler Perryâs Temptation,Lionsgate,Drama
+9,12 Years a Slave,Fox Searchlight,Drama
+10,Lincoln,Walt Disney,Drama
+11,Life of Pi,20th Century Fox,Drama
+12,Rush,Universal,Drama
+13,Mud,Roadside Attractions,Drama
+14,The Place Beyond the Pines,Focus Features,Drama
+15,Philomena,Weinstein Co.,Drama
+16,Beautiful Creatures,Warner Bros.,Drama
+17,The Book Thief,20th Century Fox,Drama
+18,Dallas Buyers Club,Focus Features,Drama
+19,Jobs,Open Road,Drama
+20,Fruitvale Station,Weinstein Co.,Drama
+21,The Impossible,Lionsgate,Drama
+22,Out of the Furnace,Relativity,Drama
+23,Battle of the Year,Sony Pictures,Drama
+24,Before Midnight,Sony Pictures Cla…,Drama
+25,Inside Llewyn Davis,CBS Films,Drama
+26,Mandela: Long Walk to Freedom,Weinstein Co.,Drama
+27,Nebraska,Paramount Pictures,Drama
+28,The Spectacular Now,A24,Drama
+29,Amour,Sony Pictures Cla…,Drama
+30,The Bling Ring,A24,Drama
+31,Emperor,Roadside Attractions,Drama
+32,Stand Up Guys,Roadside Attractions,Drama
+33,The Fifth Estate,Walt Disney,Drama
+34,Promised Land,Focus Features,Drama
+35,The Twilight Saga: Breaking…,Lionsgate,Drama
+36,Hyde Park on Hudson,Focus Features,Drama
+37,Home Run,Samuel Goldwyn Films,Drama
+38,Filly Brown,Lionsgate,Drama
+39,Grace Unplugged,Roadside Attractions,Drama
+40,La Vie d'AdÃ¨le â Chapitres …,Mongrel Media,Drama
+41,I'm in Love with a Church Girl,High Top Releasing,Drama
+42,No,Sony Pictures Cla…,Drama
+43,Renoir,Samuel Goldwyn Films,Drama
+44,The East,Fox Searchlight,Drama
+45,The Iceman,Alchemy,Drama
+46,Lemale et ha'halal,Sony Pictures Cla…,Drama
+47,Stoker,Fox Searchlight,Drama
+48,Cirque du Soleil: Worlds Away,Paramount Pictures,Drama
+49,Lâattentat,Cohen Media Group,Drama
+50,"Bless Me, Ultima",Arenas Entertainment,Drama
+51,Beasts of the Southern Wild,Fox Searchlight,Drama
+52,Kon-Tiki,Weinstein Co.,Drama
+53,Disconnect,LD Entertainment,Drama
+54,Wadjda,Sony Pictures Cla…,Drama
+55,The Ultimate Life,High Top Releasing,Drama
+56,Flight,Paramount Pictures,Drama
+57,Anna Karenina,Focus Features,Drama
+58,De rouille et dâos,Sony Pictures Cla…,Drama
+59,Romeo & Juliet,Relativity,Drama
+60,Still Mine,Mongrel Media,Drama
+61,Kai Po Che,UTV Communications,Drama
+62,Special Chabbis,Viva Entertainment,Drama
+63,What Maisie Knew,Alchemy,Drama
+64,Ginger & Rosa,A24,Drama
+65,Short Term 12,Cinedigm,Drama
+66,Kokuriko-zaka Kara,GKIDS,Drama
+67,Lore,Music Box Films,Drama
+68,La grande bellezza,Janus Films,Drama
+69,En kongelig affÃ¦re,Magnolia Pictures,Drama
+70,Kill Your Darlings,Sony Pictures Cla…,Drama
+71,Raanjhanaa,Eros Entertainment,Drama
+72,Satyagraha,UTV Communications,Drama
+73,On the Road,IFC Films,Drama
+74,Hannah Arendt,Zeitgeist,Drama
+75,Jagten,Mongrel Media,Drama
+76,Parkland,Exclusive Releasing,Drama
+77,Fanny,Mongrel Media,Drama
+78,To the Wonder,Magnolia Pictures,Drama
+79,The Reluctant Fundamentalist,IFC Films,Drama
+80,Museum Hours,Cinema Guild,Drama
+81,Hitchcock,Fox Searchlight,Drama
+82,The Inevitable Defeat of Mi…,Codeblack Enterta…,Drama
+83,Gwansang,Pan Media & Enter…,Drama
+84,Upstream Color,erbp Film,Drama
+85,Ain't Them Bodies Saints,IFC Films,Drama
+86,Dans la maison,Cohen Media Group,Drama
+87,At Any Price,Sony Pictures Cla…,Drama
+88,The Sessions,Fox Searchlight,Drama
+89,Inch'Allah,Entertainment One,Drama
+90,Lovelace,Radius,Drama
+91,Drinking Buddies,Magnolia Pictures,Drama
+92,Diana,Entertainment One,Drama
+93,Camp,,Drama
+94,Not Today,Freestyle Releasing,Drama
+95,Adore,Exclusive Releasing,Drama
+96,The Master,Weinstein Co.,Drama
+97,Rebelle,TriBeca Films,Drama
+98,The Perks of Being a Wallfl…,Lionsgate,Drama
+99,Great Expectations,Main Street,Drama
+100,Midnight's Children,Mongrel Media,Drama
+101,The Attacks of 26/11,Eros Entertainment,Drama
+102,Blancanieves,Cohen Media Group,Drama
+103,Like Someone in Love,IFC Films,Drama
+104,Arthur Newman,Cinedigm,Drama
+105,Cloud Atlas,Warner Bros.,Drama
+106,A Late Quartet,Entertainment One,Drama
+107,Tu seras mon fils,Cohen Media Group,Drama
+108,Not Fade Away,Paramount Vantage,Drama
+109,Escape from Tomorrow,Producers Distrib…,Drama
+110,Copperhead,Brainstorm Media,Drama
+111,Le passÃ©,Sony Pictures Cla…,Drama
+112,Mother of George,Oscilloscope Pict…,Drama
+113,LUV,Indomina Releasing,Drama
+114,Snake and Mongoose,Rocky Mountain Pi…,Drama
+115,Dupa dealuri,IFC Films,Drama
+116,The Invisible Woman,Sony Pictures Cla…,Drama
+117,Ha-Sippur Shel Yossi,Strand,Drama
+118,Therese Desqueyroux,Mongrel Media,Drama
+119,Augustine,Music Box Films,Drama
+120,Tian zhu ding,Kino Lorber,Drama
+121,The Broken Circle Breakdown,TriBeca Films,Drama
+122,Gimme the Loot,IFC Films,Drama
+123,The Investigator,Gabriel's Messeng…,Drama
+124,Blue Caprice,IFC Films,Drama
+125,Marius,Mongrel Media,Drama
+126,Les beaux jours,,Drama
+127,Holy Motors,Indomina Releasing,Drama
+128,Una Noche,IFC Films,Drama
+129,AprÃ¨s Mai,IFC Films,Drama
+130,El artista y la modelo,Cohen Media Group,Drama
+131,Any Day Now,Music Box Films,Drama
+132,An Oversimplification of He…,Variance Films,Drama
+133,Seasons of Gray,Echolight Studios,Drama
+134,Violette,Mongrel Media,Drama
+135,Winnie Mandela,Image Entertainment,Drama
+136,How I Live Now,Magnolia Pictures,Drama
+137,Elle s'en va,,Drama
+138,Leonie,Monterey Media,Drama
+139,My Brother the Devil,Paladin/108 Media,Drama
+140,The We and the I,Paladin/108 Media,Drama
+141,Wish You Were Here,Entertainment One,Drama
+142,Post Tenebras Lux,Strand,Drama
+143,Die Wand,Music Box Films,Drama
+144,Concussion,Radius,Drama
+145,Russkiy kovcheg,WellSpring,Drama
+146,Savannah,Ketchup Entertain…,Drama
+147,Touchy Feely,Magnolia Pictures,Drama
+148,M,Kino Lorber,Drama
+149,The Girl,Brainstorm Media,Drama
+150,Underdogs,Freestyle Releasing,Drama
+151,Les 4 soldats,,Drama
+152,The Power of Few,Steelyard Pictures,Drama
+153,Camille Claudel: 1915,Kino Lorber,Drama
+154,Tiger Eyes,Freestyle Releasing,Drama
+155,Little Fugitive,,Drama
+156,Chasing Mavericks,20th Century Fox,Drama
+157,Le Petit Soldat,,Drama
+158,The Citizen,Monterey Media,Drama
+159,Paradies: Liebe,Strand,Drama
+160,A perdre la raison,Distrib Films,Drama
+161,Le Capital,Cohen Media Group,Drama
+162,Hangul,Drafthouse Films,Drama
+163,Le fils de lâautre,Cohen Media Group,Drama
+164,Violeta se fue a los cielos,Kino Lorber,Drama
+165,Viola,Cinema Guild,Drama
+166,Hunky Dory,Variance Films,Drama
+167,Vous n'avez encore rien vu,Kino Lorber,Drama
+168,Robot & Frank,Samuel Goldwyn Films,Drama
+169,"Gwanghae, Wangyidoen namja",CJ Entertainment,Drama
+170,I Used to Be Darker,Strand,Drama
+171,Torn,The Film Collective,Drama
+172,Love and Honor,IFC Films,Drama
+173,The Look of Love,IFC Films,Drama
+174,The Pardon,Self Distributed,Drama
+175,As I Lay Dying,Alchemy,Drama
+176,I Declare War,Drafthouse Films,Drama
+177,Jayne Mansfield's Car,Anchor Bay Entert…,Drama
+178,Kiss of the Damned,Magnolia Pictures,Drama
+179,Da-reun na-ra-e-suh,Kino Lorber,Drama
+180,A Green Story,Indican Pictures,Drama
+181,My Son,FlyRock Media,Drama
+182,The Painting,Castle Hill Produ…,Drama
+183,Greetings from Tim Buckley,TriBeca Films,Drama
+184,Diego Star,Mongrel Media,Drama
+185,The Selfish Giant,IFC Films,Drama
+186,Il Futuro,Strand,Drama
+187,Empire of Dirt,,Drama
+188,The End of Love,Variance Films,Drama
+189,Wo 11,First Run Features,Drama
+190,The Odd Life of Timothy Green,Walt Disney,Drama
+191,Elefante blanco,Strand,Drama
+192,La pirogue,ArtMattan Films,Drama
+193,Hello Herman,Freestyle Releasing,Drama
+194,A Teacher,Oscilloscope Pict…,Drama
+195,Sal,TriBeca Films,Drama
+196,Down the Shore,Anchor Bay Entert…,Drama
+197,Some Velvet Morning,TriBeca Films,Drama
+198,Le Amiche,The Film Desk,Drama
+199,Welcome to Pine Hill,Oscilloscope Pict…,Drama
+200,Rangrezz,UTV Communications,Drama
+201,The Playroom,Freestyle Releasing,Drama
+202,Manic,,Drama
+203,Nothing But a Man,Cinema V,Drama
+204,"Noordzee, Texas",Strand,Drama
+205,Five Dances,Paladin,Drama
+206,Starlet,Music Box Films,Drama
+207,Northern Lights,,Drama
+208,The Time Being,TriBeca Films,Drama
+209,Big Sur,Ketchup Entertain…,Drama
+210,Paradies: Glaube,Strand,Drama
+211,Le Quai des brumes,,Drama
+212,Neuk-dae-so-nyeon,CJ Entertainment,Drama
+213,Morning,Anchor Bay Entert…,Drama
+214,Things Never Said,Ohio Street Pictures,Drama
+215,Mr. Nobody,Magnolia Pictures,Drama
+216,Das Lied in mir,Mongrel Media,Drama
+217,Cornouaille,Mongrel Media,Drama
+218,La migiliore offerta,IFC Films,Drama
+219,Implanted,Walking Shadows,Drama
+220,California Solo,Strand,Drama
+221,Le rayon vert,Orion Classics,Drama
+222,Officer Down,Anchor Bay Entert…,Drama
+223,La mariÃ©e Ã©tait en noir ,Lopert Pictures C…,Drama
+224,Sou Suo,levelFILM,Drama
+225,Into the White,Magnolia Pictures,Drama
+226,The Long Day Closes,The Film Desk,Drama
+227,Diaz: Don't Clean Up This B…,Mongrel Media,Drama
+228,A Perfect Man,IFC Films,Drama
+229,Atmen,Kino Lorber,Drama
+1,The Fault in Our Stars,20th Century Fox,Drama
+2,Noah,Paramount Pictures,Drama
+3,Heaven is for Real,Sony Pictures,Drama
+4,Fury,Sony Pictures,Drama
+5,The Monuments Men,Sony Pictures,Drama
+6,Unbroken,Universal,Drama
+7,Godâs Not Dead,Pure Flix Enterta…,Drama
+8,Son of God,20th Century Fox,Drama
+9,Exodus: Gods and Kings,20th Century Fox,Drama
+10,If I Stay,Warner Bros.,Drama
+11,The Judge,Warner Bros.,Drama
+12,The Giver,Weinstein Co.,Drama
+13,Dolphin Tale 2,Warner Bros.,Drama
+14,Million Dollar Arm,Walt Disney,Drama
+15,Get on Up,Universal,Drama
+16,The Imitation Game,Weinstein Co.,Drama
+17,When the Game Stands Tall,Sony Pictures,Drama
+18,Draft Day,Lionsgate,Drama
+19,The Gambler,Paramount Pictures,Drama
+20,The Best of Me,Relativity,Drama
+21,Her,Warner Bros.,Drama
+22,The Theory of Everything,Focus Features,Drama
+23,Saving Mr. Banks,Walt Disney,Drama
+24,Boyhood,IFC Films,Drama
+25,Endless Love,Universal,Drama
+26,Wild,Fox Searchlight,Drama
+27,12 Years a Slave,Fox Searchlight,Drama
+28,Philomena,Weinstein Co.,Drama
+29,Addicted,Lionsgate,Drama
+30,Begin Again,Weinstein Co.,Drama
+31,Step Up All In,Lionsgate,Drama
+32,Beyond the Lights,Relativity,Drama
+33,Labor Day,Paramount Pictures,Drama
+34,Winterâs Tale,Warner Bros.,Drama
+35,Dallas Buyers Club,Focus Features,Drama
+36,Belle,Fox Searchlight,Drama
+37,The Drop,Fox Searchlight,Drama
+38,Nebraska,Paramount Pictures,Drama
+39,Big Eyes,Weinstein Co.,Drama
+40,Foxcatcher,Sony Pictures Cla…,Drama
+41,Vampire Academy,Weinstein Co.,Drama
+42,Cantinflas,Lionsgate,Drama
+43,Whiplash,Sony Pictures Cla…,Drama
+44,Cesar Chavez,Lionsgate,Drama
+45,Inside Llewyn Davis,CBS Films,Drama
+46,The Skeleton Twins,Lionsgate/Roadsid…,Drama
+47,Kaze Tachinu,Walt Disney,Drama
+48,The Railway Man,Weinstein Co.,Drama
+49,The Lunchbox,Sony Pictures Cla…,Drama
+50,Ida,Music Box Films,Drama
+51,Veronica Mars,Warner Bros.,Drama
+52,Rosewater,Open Road,Drama
+53,The Identical,Freestyle Releasing,Drama
+54,The Good Lie,Warner Bros.,Drama
+55,The Book Thief,20th Century Fox,Drama
+56,Captain Phillips,Sony Pictures,Drama
+57,Love is Strange,Sony Pictures Cla…,Drama
+58,2 States,UTV Communications,Drama
+59,American Sniper,Warner Bros.,Drama
+60,Le Week-End,Music Box Films,Drama
+61,Gloria,Roadside Attractions,Drama
+62,The Immigrant,RADiUS-TWC,Drama
+63,La grande bellezza,Janus Films,Drama
+64,Only Lovers Left Alive,Sony Pictures Cla…,Drama
+65,Persecuted,"One Media, LLC",Drama
+66,Kaguyahime no monogatari,GKIDS,Drama
+67,Inherent Vice,Warner Bros.,Drama
+68,Pride,CBS Films,Drama
+69,Gimme Shelter,Roadside Attractions,Drama
+70,Mandela: Long Walk to Freedom,Weinstein Co.,Drama
+71,Le passÃ©,Sony Pictures Cla…,Drama
+72,Turist,Magnolia Pictures,Drama
+73,The Invisible Woman,Sony Pictures Cla…,Drama
+74,The Rover,A24,Drama
+75,50 to 1,Ten Furlongs,Drama
+76,Haider,UTV Communications,Drama
+77,Third Person,Sony Pictures Cla…,Drama
+78,Stalingrad,Sony Pictures Cla…,Drama
+79,The Song,Samuel Goldwyn Films,Drama
+80,Mr. Turner,Sony Pictures Cla…,Drama
+81,Atlas Shrugged: Who Is John…,Atlas Distribution,Drama
+82,Alone Yet Not Alone,Hammond Entertain…,Drama
+83,Nymphomaniac: Volume I,Magnolia Pictures,Drama
+84,Palo Alto,TriBeca Films,Drama
+85,Yves Saint Laurent,Weinstein Co.,Drama
+86,Frankie & Alice,CODEBLACK Films/L…,Drama
+87,The Disappearance of Eleano…,Weinstein Co.,Drama
+88,Cong cong na nian,China Lion Film D…,Drama
+89,23 Blast,Abramorama Films,Drama
+90,Forrest Gump,Paramount Pictures,Drama
+91,Highway,UTV Communications,Drama
+92,Tracks,Weinstein Co.,Drama
+93,La petite reine,Entertainment One,Drama
+94,Bei Jing Ai Qing Gu Shi,China Lion Film D…,Drama
+95,Yi Sheng Yi Shi,China Lion Film D…,Drama
+96,Wakolda,Samuel Goldwyn Films,Drama
+97,The Face of Love,IFC Films,Drama
+98,Humpty Sharma Ki Dulhania,Reliance Big Pict…,Drama
+99,Joe,Roadside Attractions,Drama
+100,La VÃ©nus Ã  la fourrure,IFC Films,Drama
+101,Jimi: All is By My Side,XLrator Media,Drama
+102,Lee Daniels' The Butler,Weinstein Co.,Drama
+103,I Origins,Fox Searchlight,Drama
+104,Soshite chichi ni naru,IFC Films,Drama
+105,Nymphomaniac: Volume II,Mongrel Media,Drama
+106,L'inconnu du lac,Strand,Drama
+107,Viaggio sola,Music Box Films,Drama
+108,LâÃ©cume des jours,Drafthouse Films,Drama
+109,La danza de la realidad,ABCKO Films,Drama
+110,A Most Violent Year,A24,Drama
+111,Kill Your Darlings,Sony Pictures Cla…,Drama
+112,Punjab 1984,White Hill Produc…,Drama
+113,The Zero Theorem,Amplify,Drama
+114,Elle s'en va,,Drama
+115,A Matter of Faith,Five & Two Pictures,Drama
+116,Diplomatie,Zeitgeist,Drama
+117,Pozitia copiului,Zeitgeist,Drama
+118,Rob the Mob,Alchemy,Drama
+119,Adieu au langage,Kino Lorber,Drama
+120,Avis de mistral,Mongrel Media,Drama
+121,Vi ar bast!,Magnolia Pictures,Drama
+122,The Last of Robin Hood,Samuel Goldwyn Films,Drama
+123,Godâs Pocket,IFC Films,Drama
+124,Oh Boy,Music Box Films,Drama
+125,From the Rough,Freestyle Releasing,Drama
+126,Out of the Furnace,Relativity,Drama
+127,Leviafan,Sony Pictures Cla…,Drama
+128,The Congress,Drafthouse Films,Drama
+129,Redwood Highway,Monterey Media,Drama
+130,Le metis de Dieu,Film Movement,Drama
+131,Raja Natwarlal,UTV Communications,Drama
+132,Pour une femme,Film Movement,Drama
+133,Libertador,Cohen Media Group,Drama
+134,"Deux jours, une nuit",Sundance Selects,Drama
+135,Coherence,Oscilloscope Pict…,Drama
+136,Huang jin shi dai,China Lion Film D…,Drama
+137,Jeune & Jolie,IFC Films,Drama
+138,Hoje Eu Quero Voltar Sozinho,Strand,Drama
+139,Gukjesijang,CJ Entertainment,Drama
+140,"Unsere Mutter, unsere Vater",Music Box Films,Drama
+141,One Chance,Weinstein Co.,Drama
+142,Hiroshima Mon Amour,Rialto Pictures,Drama
+143,Breathe In,Cohen Media Group,Drama
+144,La migiliore offerta,IFC Films,Drama
+145,Fort McCoy,Monterey Media,Drama
+146,Le temps de l'aventure,Distrib Films,Drama
+147,Zero Motivation,Zeitgeist,Drama
+148,Les yeux jaunes des crocodiles,Mongrel Media,Drama
+149,The Broken Circle Breakdown,TriBeca Films,Drama
+150,"Je t'aime, je t'aime",The Film Desk,Drama
+151,A nagy fÃ¼zet,Sony Pictures Cla…,Drama
+152,La jalousie,Distrib Films,Drama
+153,Dom over dod man,Music Box Films,Drama
+154,Siddharth,Zeitgeist,Drama
+155,Frontera,Magnolia Pictures,Drama
+156,Il conformista,Paramount Pictures,Drama
+157,The One I Wrote for You,Abramorama Films,Drama
+158,The Rocket,Kino Lorber,Drama
+159,Grzeli nateli dgeebi,Big World Pictures,Drama
+160,Rudderless,Samuel Goldwyn Films,Drama
+161,Starred Up,TriBeca Films,Drama
+162,Ilo Ilo,Film Movement,Drama
+163,Avant l'hiver,Mongrel Media,Drama
+164,At Middleton,Anchor Bay Entert…,Drama
+165,Half of a Yellow Sun,Monterey Media,Drama
+166,Tusen ganger god natt,Film Movement,Drama
+167,Low Down,Oscilloscope Pict…,Drama
+168,Hellion,IFC Films,Drama
+169,Hateship Loveship,IFC Films,Drama
+170,Tian zhu ding,Kino Lorber,Drama
+171,A Master Builder,Abramorama Films,Drama
+172,"Alphaville, une Ã©trange ave…",Rialto Pictures,Drama
+173,Water & Power,North/South Pictures,Drama
+174,Blood Ties,Roadside Attractions,Drama
+175,Interior. Leather Bar.,Strand,Drama
+176,Decoding Annie Parker,Entertainment One,Drama
+177,Zwei Leben,IFC Films,Drama
+178,Child of God,Well Go USA,Drama
+179,Beneath the Harvest Sky,TriBeca Films,Drama
+180,White Bird in a Blizzard,Magnolia Pictures,Drama
+181,It Felt Like Love,Variance Films,Drama
+182,Abus de faiblesse,Strand,Drama
+183,A Long Way Off,Moving Visions En…,Drama
+184,Parde,Variance Films,Drama
+185,Fanny,Mongrel Media,Drama
+186,Lilting,Strand,Drama
+187,Horici ker,,Drama
+188,Marius,Mongrel Media,Drama
+189,L'amour est un crime parfait,Mongrel Media,Drama
+190,Bird People,IFC Films,Drama
+191,Jimmy P.,Mongrel Media,Drama
+192,After,Paladin,Drama
+193,La Vie d'AdÃ¨le â Chapitres …,Mongrel Media,Drama
+194,Memphis,Kino Lorber,Drama
+195,Test,Variance Films,Drama
+196,Stand Clear of the Closing …,Oscilloscope Pict…,Drama
+197,Au bonheur des ogres,Mongrel Media,Drama
+198,Accident,Cinema V,Drama
+199,Offret,Kino Lorber,Drama
+200,Les chevaux de Dieu,Kino Lorber,Drama
+201,Conte d'hiver,Big World Pictures,Drama
+202,Heartbeat,Mongrel Media,Drama
+203,Exhibition,Kino Lorber,Drama
+204,As It Is in Heaven,Cinema Purgatorio,Drama
+205,A Long Way Down,Magnolia Pictures,Drama
+206,Nightlights,Indican Pictures,Drama
+207,Coming Up Roses,Dada Films,Drama
+208,Bhopal: A Prayer for Rain,Revolver Entertai…,Drama
+209,Run & Jump,Sundance Selects,Drama
+210,Emoticon,Indican Pictures,Drama
+211,The Selfish Giant,IFC Films,Drama
+212,Camp X-Ray,IFC Films,Drama
+213,Goodbye to All That,IFC Films,Drama
+214,Before I Disappear,IFC Films,Drama
+215,Las horas muertas,Strand,Drama
+216,Archipelago,Kino Lorber,Drama
+217,The Historian,,Drama
+218,Le jour se leve,,Drama
+219,Camille Claudel: 1915,Kino Lorber,Drama
+220,"No God, No Master",Monterey Media,Drama
+221,La mariÃ©e Ã©tait en noir ,Lopert Pictures C…,Drama
+222,La petite chambre,Cinema Libre,Drama
+223,The Quitter,Goodface Films,Drama
+224,Kid Cannabis,Well Go USA,Drama
+225,Short Term 12,Cinedigm,Drama
+226,2 automnes 3 hivers,Film Movement,Drama
+227,Violette,Mongrel Media,Drama
+228,Les beaux jours,,Drama
+229,Gabrielle,Entertainment One,Drama
+230,Fall,Mongrel Media,Drama
+231,Unrelated,Kino Lorber,Drama
+232,"Aimer, boire et chanter",Kino Lorber,Drama
+233,The Truth About Emanuel,TriBeca Films,Drama
+234,Life of a King,Alchemy,Drama
+235,Dast-Neveshtehaa Nemisoosand,Kino Lorber,Drama
+236,Nothing But a Man,Cinema V,Drama
+237,Northern Lights,,Drama
+238,The Word,Scarlet Sky Produ…,Drama
+239,Hide Your Smiling Faces,TriBeca Films,Drama
+240,Little Fugitive,,Drama
+241,The Sleepwalker (2014),IFC Films,Drama
+242,Refuge,Strand,Drama
+243,Stop the Pounding Heart,Big World Pictures,Drama
+244,Moebiuseu,RAM Releasing,Drama
+245,"Era Uma Vez Eu, Veronica",Big World Pictures,Drama
+246,The Wait,Monterey Media,Drama
+247,The Right Kind of Wrong,Magnolia Pictures,Drama
+248,Rhymes for Young Ghouls,Monterey Media,Drama
+249,Mr. Pip,Freestyle Releasing,Drama
+250,Summer in February,TriBeca Films,Drama
+251,Der Turm,Music Box Films,Drama
+252,Cinemanovels,Monterey Media,Drama
+253,Grand dÃ©part,Rialto Pictures,Drama
 1,American Sniper,Warner Bros.,Drama
 2,Cinderella,Walt Disney,Drama
 3,Fifty Shades of Grey,Universal,Drama
@@ -288,1156 +3564,3 @@ Id,Title,Distributor,Genre
 287,Exhibition,Kino Lorber,Drama
 288,Memphis,Kino Lorber,Drama
 289,The Historian,,Drama
-1,Sully,Warner Bros.,Drama
-2,Arrival,Paramount Pictures,Drama
-3,Hacksaw Ridge,Lionsgate,Drama
-4,Miracles from Heaven,Sony Pictures,Drama
-5,Me Before You,Warner Bros.,Drama
-6,The Shallows,Sony Pictures,Drama
-7,Almost Christmas,Universal,Drama
-8,Allied,Paramount Pictures,Drama
-9,The Big Short,Paramount Pictures,Drama
-10,Risen,Sony Pictures,Drama
-11,Fences,Paramount Pictures,Drama
-12,Manchester by the Sea,Roadside Attractions,Drama
-13,Joy,20th Century Fox,Drama
-14,Florence Foster Jenkins,Paramount Pictures,Drama
-15,Collateral Beauty,Warner Bros.,Drama
-16,Snowden,Open Road,Drama
-17,Free State of Jones,STX Entertainment,Drama
-18,Godâs Not Dead 2,Pure Flix Enterta…,Drama
-19,Race,Focus Features,Drama
-20,Brooklyn,Fox Searchlight,Drama
-21,The Choice,Lionsgate,Drama
-22,Spotlight,Open Road,Drama
-23,Concussion,Sony Pictures,Drama
-24,The Birth of a Nation,Fox Searchlight,Drama
-25,Eddie the Eagle,20th Century Fox,Drama
-26,"Hello, My Name is Doris",Roadside Attractions,Drama
-27,The Edge of Seventeen,STX Entertainment,Drama
-28,Love & Friendship,Roadside Attractions,Drama
-29,Moonlight,A24,Drama
-30,The Light Between Oceans,Walt Disney,Drama
-31,CafÃ© Society,Lionsgate,Drama
-32,Creed,Warner Bros.,Drama
-33,The Lady in the Van,Sony Pictures Cla…,Drama
-34,Room,A24,Drama
-35,Queen of Katwe,Walt Disney,Drama
-36,Carol,Weinstein Co.,Drama
-37,Loving,Focus Features,Drama
-38,The Young Messiah,Focus Features,Drama
-39,Jackie,Fox Searchlight,Drama
-40,Southside with You,Roadside Attractions,Drama
-41,Captain Fantastic,Bleecker Street,Drama
-42,Lion,Weinstein Co.,Drama
-43,Bleed for This,Open Road,Drama
-44,The Danish Girl,Focus Features,Drama
-45,The Wanderers,Warner Bros.,Drama
-46,Hands of Stone,Weinstein Co.,Drama
-47,Ae Dil Hai Mushkil,FIP,Drama
-48,A Hologram for the King,Roadside Attractions,Drama
-49,Swiss Army Man,A24,Drama
-50,Denial,Bleecker Street,Drama
-51,45 Years,IFC Films,Drama
-52,The Man Who Knew Infinity,IFC Films,Drama
-53,Midnight Special,Warner Bros.,Drama
-54,Miss Sloane,EuropaCorp,Drama
-55,Indignation,Roadside Attractions,Drama
-56,Miles Ahead,Sony Pictures Cla…,Drama
-57,Dear Zindagi,Reliance Big Pict…,Drama
-58,Iâm Not Ashamed,Pure Flix Enterta…,Drama
-59,A Bigger Splash,Fox Searchlight,Drama
-60,The Dressmaker,Broad Green Pictures,Drama
-61,Greater,Hammond Entertain…,Drama
-62,Hidden Figures,20th Century Fox,Drama
-63,Demolition,Fox Searchlight,Drama
-64,A Ga ssi,Magnolia Pictures,Drama
-65,Purple Rain,Warner Bros.,Drama
-66,M.S. Dhoni: The Untold Story,FIP,Drama
-67,Billy Lynnâs Long Halftime …,Sony Pictures,Drama
-68,I Saw the Light,Sony Pictures Cla…,Drama
-69,Saul fia,Sony Pictures Cla…,Drama
-70,Equity,Sony Pictures Cla…,Drama
-71,Neerja,Fox International,Drama
-72,Priceless,Roadside Attractions,Drama
-73,Youth,Fox Searchlight,Drama
-74,Genius,Roadside Attractions,Drama
-75,El abrazo de la serpiente,Oscilloscope Pict…,Drama
-76,Papa: Hemingway in Cuba,Yari Film Group R…,Drama
-77,Certain Women,IFC Films,Drama
-78,Les Innocentes,Music Box Films,Drama
-79,Elvis & Nixon,Bleecker Street &…,Drama
-80,The Hollars,Sony Pictures Cla…,Drama
-81,Baar Baar Dekho,Eros Entertainment,Drama
-82,Elle,Sony Pictures Cla…,Drama
-83,Believe,Smith Global Media,Drama
-84,Rustom,Independent Indian,Drama
-85,Trumbo,Bleecker Street,Drama
-86,Born to Be Blue,IFC Films,Drama
-87,Bajirao Mastani,Eros Entertainment,Drama
-88,Little Men,Magnolia Pictures,Drama
-89,Mr. Church,Cinelou Releasing,Drama
-90,American Honey,A24,Drama
-91,Mustang,Cohen Media Group,Drama
-92,A Tale of Love and Darkness,Focus World,Drama
-93,Knight of Cups,Broad Green Pictures,Drama
-94,American Pastoral,Lionsgate,Drama
-95,Fitoor,UTV Communications,Drama
-96,Marguerite,Cohen Media Group,Drama
-97,Umimachi Diary,Sony Pictures Cla…,Drama
-98,Omohide poro poro,GKIDS,Drama
-99,I Am not Madame Bovary,Well Go USA,Drama
-100,Voiceless,ArtAffects,Drama
-101,Silence,Paramount Pictures,Drama
-102,Francofonia,Music Box Films,Drama
-103,Mia madre,Music Box Films,Drama
-104,Christine,The Orchard,Drama
-105,Ixcanul,Kino Lorber,Drama
-106,Der Staat gegen Fritz Bauer,Cohen Media Group,Drama
-107,Aquarius,Vitagraph Films,Drama
-108,Dheepan,Sundance Selects,Drama
-109,L'avenir,IFC Films,Drama
-110,Sarusuberi: Miss Hokusai,GKIDS,Drama
-111,Spirit of the Game,Pure Flix / Samue…,Drama
-112,Macbeth,Weinstein Co.,Drama
-113,Kaptaan,UTV Communications,Drama
-114,Julieta,Sony Pictures Cla…,Drama
-115,El Clan,20th Century Fox,Drama
-116,White Girl,FilmRise,Drama
-117,Complete Unknown,IFC Films,Drama
-118,20th Century Women,A24,Drama
-119,The 33,Warner Bros.,Drama
-120,Viva,Magnolia Pictures,Drama
-121,The Fits,Oscilloscope Pict…,Drama
-122,Louder Than Bombs,The Orchard,Drama
-123,Sunset Song,Magnolia Pictures,Drama
-124,Howards End,Sony Pictures Cla…,Drama
-125,Hrutar,Cohen Media Group,Drama
-126,Touched With Fire,Roadside Attractions,Drama
-127,Krisha,A24,Drama
-128,Neruda,The Orchard,Drama
-129,The Kind Words,Strand,Drama
-130,An,Kino Lorber,Drama
-131,Gwi-Hyang,Pan Media & Enter…,Drama
-132,Krigen,Magnolia Pictures,Drama
-133,La loi du marchÃ©,Kino Lorber,Drama
-134,Ascenseur pour l'Ã©chafaud,Rialto Pictures,Drama
-135,Remember the Goal,Five & Two Pictures,Drama
-136,Por Siempre,CanZion Films,Drama
-137,Dekalog,New Yorker,Drama
-138,Victor,CanZion Films,Drama
-139,Il racconto dei racconti,IFC Films,Drama
-140,Tower,Kino Lorber,Drama
-141,So Young 2: Never Gone,China Lion Film D…,Drama
-142,Live by Night,Warner Bros.,Drama
-143,New York New York,China Lion Film D…,Drama
-144,Other People,Self Distributed,Drama
-145,Morris from America,A24,Drama
-146,Chaharshanbe-soori,Grasshopper Film,Drama
-147,Sufat Chol,Kino Lorber,Drama
-148,Shan he gu ren,Kino Lorber,Drama
-149,A Street Cat Named Bob,Cleopatra Films,Drama
-150,Saala Khadoos,UTV Communications,Drama
-151,King Cobra,IFC Midnight,Drama
-152,The Congressman,Shadow,Drama
-153,Max Rose,Paladin,Drama
-154,Creative Control,Magnolia Pictures,Drama
-155,The Dark Horse,Broad Green Pictures,Drama
-156,Daughters of the Dust,Kino International,Drama
-157,Too Late,Vanishing Angle F…,Drama
-158,Girl Asleep,Oscilloscope Pict…,Drama
-159,The Daughter,,Drama
-160,Hatuna MeNiyar,Strand,Drama
-161,DONGJU; The Portrait of A Poet,Megabox Plus M,Drama
-162,L'attesa,Oscilloscope Pict…,Drama
-163,Mon roi,Film Movement,Drama
-164,Le Journal d'une femme de c…,Cohen Media Group,Drama
-165,High Strung,Paladin,Drama
-166,El Club,Music Box Films,Drama
-167,Quand on a 17 ans,Strand,Drama
-168,Rak ti Khon Kaen,Strand,Drama
-169,Hyeong,CJ Entertainment,Drama
-170,Chi-raq,Amazon Studios/Ro…,Drama
-171,Lâombre des femmes,Distrib Films,Drama
-172,Fatima,Kino Lorber,Drama
-173,Pele: Birth of a Legend,IFC Films,Drama
-174,Ma Ma,Oscilloscope Pict…,Drama
-175,The Land,IFC Films,Drama
-176,La Battaglia di Algeri,,Drama
-177,Closet Monster,Strand,Drama
-178,A Melody to Remember,CJ Entertainment,Drama
-179,La Notte,Rialto Pictures,Drama
-180,Spa Night,Strand,Drama
-181,"En mai, fais ce qu'il te pl…",Cohen Media Group,Drama
-182,Restored Me,Gathr Films,Drama
-183,La belle saison,Strand,Drama
-184,Songs My Brothers Taught Me,Kino Lorber,Drama
-185,Eisenstein In Guanajuato,Strand,Drama
-186,Last Cab to Darwin,First Run Features,Drama
-187,Suffragette,Focus Features,Drama
-188,Equals,A24,Drama
-189,The Intervention,Samuel Goldwyn Films,Drama
-190,The Map Against the World,CJ Entertainment,Drama
-191,Xia You Qiao Mu,China Lion Film D…,Drama
-192,Ã peine jâouvre les yeux,Kino Lorber,Drama
-193,River of Fundament,International Fil…,Drama
-194,Im Labyrinth des Schweigens,Sony Pictures Cla…,Drama
-195,Being Charlie,Paladin,Drama
-196,Desde allÃ¡,Strand,Drama
-197,Valley of Love,Strand,Drama
-198,"Rabin, The Last Day",Kino Lorber,Drama
-199,Take Me to the River,Film Movement,Drama
-200,Lu bian ye can,Grasshopper Film,Drama
-201,Anesthesia,IFC Films,Drama
-202,Boi neon,Kino Lorber,Drama
-203,Front Cover,Strand,Drama
-204,La tete haute,Cohen Media Group,Drama
-205,Cosmos,Kino Lorber,Drama
-206,The Last Princess,CJ Entertainment,Drama
-207,Sold,Matson,Drama
-208,Sanam Teri Kasam,Eros Entertainment,Drama
-209,Beauty and the Beast,Lopert Pictures C…,Drama
-210,Blue Jay,The Orchard,Drama
-211,Term Life,Focus World,Drama
-212,The Sea of Trees,A24,Drama
-213,"No Pay, Nudity",Monterey Media,Drama
-214,Unless,,Drama
-215,Never,Indican Pictures,Drama
-216,Wildflower,CanZion Films,Drama
-217,The Romans,Indican Pictures,Drama
-218,Men go to Battle,Film Movement,Drama
-219,How He Fell in Love,Monument Releasing,Drama
-220,The Lion in Winter,,Drama
-221,Tharlo,Icarus Films,Drama
-222,The Other Half,,Drama
-223,Entertainment,Magnolia Pictures,Drama
-224,Five Nights in Maine,FilmRise,Drama
-225,Starcrossed,Indican Pictures,Drama
-226,Of Mind and Music,Monterey Media,Drama
-227,The Letters,Freestyle Releasing,Drama
-228,Lamb,The Orchard,Drama
-229,Woodlawn,Pure Flix Enterta…,Drama
-230,Tikkun,Kino Lorber,Drama
-231,Banshun,Janus Films,Drama
-232,The Adderall Diaries,A24,Drama
-233,A Reason,Indican Pictures,Drama
-234,Remember You,CJ Entertainment,Drama
-235,MÃ£e SÃ³ HÃ¡ Uma,Zeitgeist,Drama
-236,Viktoria,Big World Pictures,Drama
-237,Anonymous,Archstone Enterta…,Drama
-238,A Matter of Faith,Five & Two Pictures,Drama
-239,Loreak,Music Box Films,Drama
-240,L'affaire SK1,Kino Lorber,Drama
-241,Approaching the Unknown,Vertical Entertai…,Drama
-242,River of Grass,Oscilloscope Pict…,Drama
-243,Into the Forest,A24,Drama
-244,Yosemite,Monterey Media,Drama
-245,Le rÃ¨gne de la beautÃ©,Monument Releasing,Drama
-246,Frank & Lola,Paladin,Drama
-247,Umi ga kikoeru,GKIDS,Drama
-248,Chronic,Monument Releasing,Drama
-249,Reparation,Red Dirt Pictures,Drama
-250,Providence,Main Street,Drama
-251,Nightlights,Indican Pictures,Drama
-252,Golden Kingdom,Kino Lorber,Drama
-253,Coming Up Roses,Dada Films,Drama
-254,The Preppie Connection,IFC Films,Drama
-255,Spices of Liberty,Hannover House,Drama
-256,"Brutti, sporchi e cattivi",Film Movement,Drama
-257,Tanna,Lightyear Enterta…,Drama
-258,The Carer,Corinth Films ,Drama
-259,A Perfect Day,IFC Films,Drama
-260,Vergine giurata,Strand,Drama
-261,The Automatic Hate,Film Movement,Drama
-262,Coming Through the Rye,Eammon Films ,Drama
-263,Mi America,Industrial House …,Drama
-264,Burning Bodhi,Monterey Media,Drama
-265,As Mil e Uma Noites: Volume…,Kino Lorber,Drama
-266,En Ã©quilibre,Distrib Films,Drama
-267,Chosen,Hannover House,Drama
-268,Sangailes vasara,Strand,Drama
-269,White Lies,ArtMattan Films,Drama
-270,Kawaki,Drafthouse Films,Drama
-271,Ek Hazarachi Note,Kino Lorber,Drama
-272,Memoria,Monterey Media,Drama
-273,The Watermelon Woman,First Run Features,Drama
-274,A Beautiful Now,Monterey Media,Drama
-275,Au nom de ma fille,Distrib Films,Drama
-276,As Mil e Uma Noites: Volume…,Kino Lorber,Drama
-277,Hyena Road,Samuel Goldwyn Films,Drama
-278,La prochaine fois je visera…,Distrib Films,Drama
-279,Eperdument,Distrib Films,Drama
-280,Green is Gold,Samuel Goldwyn Films,Drama
-1,Hidden Figures,20th Century Fox,Drama
-2,Wonder,Lionsgate,Drama
-3,Fifty Shades Darker,Universal,Drama
-4,Murder on the Orient Express,20th Century Fox,Drama
-5,A Dogâs Purpose,Universal,Drama
-6,The Shack,Lionsgate,Drama
-7,Lion,Weinstein Co.,Drama
-8,All Eyez on Me,Lionsgate,Drama
-9,"Everything, Everything",Warner Bros.,Drama
-10,Lady Bird,A24,Drama
-11,Fences,Paramount Pictures,Drama
-12,Gifted,Fox Searchlight,Drama
-13,Victoria and Abdul,Focus Features,Drama
-14,Manchester by the Sea,Roadside Attractions,Drama
-15,Only the Brave,Sony Pictures,Drama
-16,Darkest Hour,Focus Features,Drama
-17,The Zookeeperâs Wife,Focus Features,Drama
-18,The Glass Castle,Lionsgate,Drama
-19,Detroit,Annapurna Pictures,Drama
-20,The Shape of Water,Fox Searchlight,Drama
-21,Moonlight,A24,Drama
-22,The Case for Christ,Pure Flix Enterta…,Drama
-23,Megan Leavey,Bleecker Street,Drama
-24,The Founder,Weinstein Co.,Drama
-25,Battle of the Sexes,Fox Searchlight,Drama
-26,Before I Fall,Open Road,Drama
-27,"Roman J. Israel, Esq.",Sony Pictures,Drama
-28,Live by Night,Warner Bros.,Drama
-29,Thank You for Your Service,Universal,Drama
-30,Marshall,Open Road,Drama
-31,Arrival,Paramount Pictures,Drama
-32,The Promise,Open Road,Drama
-33,The Space Between Us,STX Entertainment,Drama
-34,Jackie,Fox Searchlight,Drama
-35,Gold,Weinstein Co.,Drama
-36,Let There Be Light,Atlas Distribution,Drama
-37,Beatriz at Dinner,Roadside Attractions,Drama
-38,Silence,Paramount Pictures,Drama
-39,Collateral Beauty,Warner Bros.,Drama
-40,Same Kind of Different as Me,Pure Flix Enterta…,Drama
-41,Loving Vincent,Good Deed Enterta…,Drama
-42,Lowriders,BH Tilt,Drama
-43,Maudie,Mongrel Media,Drama
-44,All Saints,Sony Pictures,Drama
-45,20th Century Women,A24,Drama
-46,Mollyâs Game,STX Entertainment,Drama
-47,The Florida Project,A24,Drama
-48,Kimi no na wa,FUNimation,Drama
-49,Call Me by Your Name,Sony Pictures Cla…,Drama
-50,The Book of Henry,Focus Features,Drama
-51,Stronger,Roadside Attractions,Drama
-52,The Hero,The Orchard,Drama
-53,A United Kingdom,Fox Searchlight,Drama
-54,Norman: The Moderate Rise a…,Sony Pictures Cla…,Drama
-55,A Monster Calls,Focus Features,Drama
-56,Colossal,Neon,Drama
-57,My Cousin Rachel,Fox Searchlight,Drama
-58,Hacksaw Ridge,Lionsgate,Drama
-59,A Question of Faith,Pure Flix Enterta…,Drama
-60,LBJ,Electric Entertai…,Drama
-61,Tulip Fever,Weinstein Co.,Drama
-62,Forushande,Cohen Media Group,Drama
-63,T2: Trainspotting,Sony Pictures,Drama
-64,Good Time,A24,Drama
-65,A Quiet Passion,Music Box Films,Drama
-66,The Last Word,Bleecker Street,Drama
-67,The Post,20th Century Fox,Drama
-68,Goodbye Christopher Robin,Fox Searchlight,Drama
-69,Menashe,A24,Drama
-70,Slamma Jamma,Riverrain,Drama
-71,A Ghost Story,A24,Drama
-72,Professor Marston & The Won…,Annapurna Pictures,Drama
-73,Fang Hua,China Lion Film D…,Drama
-74,Taeksi Woonjunsa,Well Go USA,Drama
-75,Elle,Sony Pictures Cla…,Drama
-76,The Dinner,The Orchard,Drama
-77,Wonder Wheel,Amazon Studios,Drama
-78,My Friend Dahmer,FilmRise,Drama
-79,Julieta,Sony Pictures Cla…,Drama
-80,Churchill,Cohen Media Group,Drama
-81,The Sense of an Ending,CBS Films,Drama
-82,The Square,Magnolia Pictures,Drama
-83,Lady Macbeth,Roadside Attractions,Drama
-84,Viceroyâs House,IFC Films,Drama
-85,Gunhamdo,CJ Entertainment,Drama
-86,Wonderstruck,Roadside Attractions,Drama
-87,Columbus,Superlative Films,Drama
-88,Lucky,Magnolia Pictures,Drama
-89,Frantz,Music Box Films,Drama
-90,Neruda,The Orchard,Drama
-91,The Exception,A24,Drama
-92,Maurice,,Drama
-93,Titanic,Paramount Pictures,Drama
-94,Paris pieds nus,Oscilloscope Pict…,Drama
-95,The Only Living Boy in New …,Roadside Attractions,Drama
-96,Tommyâs Honour,Roadside Attractions,Drama
-97,Novitiate,Sony Pictures Cla…,Drama
-98,Bitter Harvest,Roadside Attractions,Drama
-99,Phantom Thread,Focus Features,Drama
-100,Allied,Paramount Pictures,Drama
-101,Breathe,Bleecker Street,Drama
-102,Once Upon a Time,Well Go USA,Drama
-103,Beach Rats,Neon,Drama
-104,Cheng feng po lang,China Lion Film D…,Drama
-105,Song to Song,Broad Green Pictures,Drama
-106,"Love, Kennedy",Purdie Distribution,Drama
-107,Rebel in the Rye,IFC Films,Drama
-108,Ok Jaanu,FIP,Drama
-109,Tom of Finland,Kino Lorber,Drama
-110,Godâs Own Country,Samuel Goldwyn Films,Drama
-111,Umi yori mo mada fukaku,Film Movement,Drama
-112,Stalker,Janus Films,Drama
-113,Wakefield,IFC Films,Drama
-114,"I, Daniel Blake",IFC Films,Drama
-115,CÃ©zanne Et Moi,Magnolia Pictures,Drama
-116,Gook,Samuel Goldwyn Films,Drama
-117,1945,Menemsha Entertai…,Drama
-118,The Ottoman Lieutenant,Paladin,Drama
-119,Crown Heights,IFC Films,Drama
-120,Loving,Focus Features,Drama
-121,The Breadwinner,GKIDS,Drama
-122,Donnie Darko,Newmarket Films,Drama
-123,Bacalaureat,IFC Films,Drama
-124,Champion,ArtAffects,Drama
-125,9/11,Atlas Distribution,Drama
-126,Polina danser sa vie,Oscilloscope Pict…,Drama
-127,The Journey,IFC Films,Drama
-128,Manifesto,FilmRise,Drama
-129,Three Generations,Weinstein Co.,Drama
-130,Elser,Sony Pictures Cla…,Drama
-131,La Fille Inconnue,IFC Films,Drama
-132,L'avenir,IFC Films,Drama
-133,Namhansanseong,CJ Entertainment,Drama
-134,Thelma,The Orchard,Drama
-135,Moka,Film Movement,Drama
-136,Maria Sklodowska Curie,Society Films,Drama
-137,A Ga ssi,Magnolia Pictures,Drama
-138,Kongens Nei,Samuel Goldwyn Films,Drama
-139,MÃ­ng YuÃ¨ JÇ ShÃ­ YÇu,China Lion Film D…,Drama
-140,CÃ³rki dancingu,Janus Films,Drama
-141,Special Citizen,Well Go USA,Drama
-142,Miekkailija,CFI,Drama
-143,Sully,Warner Bros.,Drama
-144,120 battements par minute,The Orchard,Drama
-145,Because of GrÃ¡cia,ArtAffects,Drama
-146,Daeripgun,FIP,Drama
-147,Chapter & Verse,Paladin,Drama
-148,Umi ga kikoeru,GKIDS,Drama
-149,Stefan Zweig: Farewell to E…,First Run Features,Drama
-150,Pop Aye,Kino Lorber,Drama
-151,Te Ata,Paladin,Drama
-152,UÄitelka,Film Movement,Drama
-153,Happy End,Sony Pictures Cla…,Drama
-154,Almost Christmas,Universal,Drama
-155,Enas Allos Kosmos,Cinema Libre,Drama
-156,Die gÃ¶ttliche Ordnung,Kino Lorber,Drama
-157,Mei Hao De Yi Wai,China Lion Film D…,Drama
-158,O OrnitÃ³logo,Strand,Drama
-159,Mal de Pierres,IFC Films,Drama
-160,Person to Person,Magnolia Pictures,Drama
-161,Hirune-hime: Shiranai watas…,GKIDS,Drama
-162,So B. It,Good Deed Enterta…,Drama
-163,Film Stars Donât Die in Liv…,Sony Pictures Cla…,Drama
-164,La Mort de Louis XIV,Cinema Guild,Drama
-165,Haebing,Well Go USA,Drama
-166,Woodshock,A24,Drama
-167,Shavua ve Yom,Oscilloscope Pict…,Drama
-168,Panique,,Drama
-169,Kollektivet,Magnolia Pictures,Drama
-170,Une Vie,Kino Lorber,Drama
-171,"A Woman, A Part",Monument Releasing,Drama
-172,Sophie and the Rising Sun,Monterey Media,Drama
-173,Powidoki,Film Movement,Drama
-174,Alone in Berlin,IFC Films,Drama
-175,Bamui haebyun-eoseo honja,Cinema Guild,Drama
-176,Le fils de Joseph,Kino Lorber,Drama
-177,Inxeba,Kino Lorber,Drama
-178,Les fausses confidences,Big World Pictures,Drama
-179,La Region Salvaje,Strand,Drama
-180,The Edge of Seventeen,STX Entertainment,Drama
-181,La Trilogie Marseillaise,Janus Films,Drama
-182,Grace of Jake,Indican Pictures,Drama
-183,The Transfiguration,Strand,Drama
-184,Paradise Club,Indican Pictures,Drama
-185,La Passion de Jeanne dâArc,Janus Films,Drama
-186,Man Underground,Indican Pictures,Drama
-187,Slava,Film Movement,Drama
-188,"LÃ©on Morin, prÃªtre",,Drama
-189,The Man From Outer Space,Indican Pictures,Drama
-190,Eshtebak,Kino Lorber,Drama
-191,Fuchi ni tatsu,Film Movement,Drama
-192,Queen of Katwe,Walt Disney,Drama
-193,Lâimportant câest dâaimer…,Rialto Pictures,Drama
-194,Le FidÃ¨le,Mongrel Media,Drama
-195,Tiszta SzÃ­vvel,Kino Lorber,Drama
-196,Paradise,Film Movement,Drama
-197,L'Ãconomie du Couple,Distrib Films,Drama
-198,Trafficked,Epic Pictures Group,Drama
-199,Qing mei zhu ma,Janus Films,Drama
-200,Song of Granite,Oscilloscope Pict…,Drama
-201,Heat and Dust,Universal,Drama
-202,Pasqualino Settebellezze,Kino Lorber,Drama
-203,Porto,Kino Lorber,Drama
-204,Jours de France,Cinema Guild,Drama
-205,Ugetsu monogatari,,Drama
-206,Lovesong,Strand,Drama
-207,Aus dem Nichts,Magnolia Pictures,Drama
-208,The Daughter,,Drama
-209,Pelle erobreren,Miramax,Drama
-210,The Tribes of Palos Verdes,IFC Films,Drama
-211,Amnesia,Film Movement,Drama
-212,FÃ©licitÃ©,Strand,Drama
-213,Remember the Goal,Five & Two Pictures,Drama
-214,Natasha,Menemsha Entertai…,Drama
-215,From Nowhere,FilmRise,Drama
-216,Anatahan,,Drama
-217,Maigret tend un piÃ¨ge,Kino Lorber,Drama
-218,Miss Sloane,EuropaCorp,Drama
-219,Spices of Liberty,Hannover House,Drama
-220,Chosen,Hannover House,Drama
-221,Offret,Kino Lorber,Drama
-222,Icaros: A Vision,Factory 25,Drama
-223,Shot,Paladin,Drama
-224,Bad Lucky Goat,Film Movement,Drama
-225,Badsville,Epic Pictures Group,Drama
-226,Ang Babaeng Humayo,Kino Lorber,Drama
-227,Pi Sheng Shang de Hun,Film Movement,Drama
-228,Shakespeare Wallah,Continental Distr…,Drama
-229,Emily,Hibernation Films,Drama
-230,Whoâs Crazy,Kino Lorber,Drama
-231,A Kind of Loving,Rialto Pictures,Drama
-232,RÃ©parer les vivants,Cohen Media Group,Drama
-233,Tower,Kino Lorber,Drama
-234,The Levelling,Monterey Media,Drama
-235,Dalida,Under the Milky Way,Drama
-236,1898. Los Ãºltimos de Filipi…,,Drama
-237,SueÃ±o en otro idioma,FilmRise,Drama
-238,Apprentice,Film Movement,Drama
-239,Miles,Entertainment Stu…,Drama
-240,Dayveon,FilmRise,Drama
-241,The Romans,Indican Pictures,Drama
-242,Never,Indican Pictures,Drama
-243,Der Wald vor lauter BÃ¤umen,Film Movement,Drama
-244,La Battaglia di Algeri,,Drama
-245,Le Gai Savoir,Kino Lorber,Drama
-246,The Lion in Winter,,Drama
-247,Christine,The Orchard,Drama
-248,Believe,Smith Global Media,Drama
-249,I Am not Madame Bovary,Well Go USA,Drama
-250,The Helsings,Self Distributed,Drama
-251,Mifune,Sony Pictures Cla…,Drama
-252,Nightlights,Indican Pictures,Drama
-253,(M)uchenik,Under the Milky Way,Drama
-1,A Star is Born,Warner Bros.,Drama
-2,Bohemian Rhapsody,20th Century Fox,Drama
-3,Creed II,MGM,Drama
-4,Fifty Shades Freed,Universal,Drama
-5,I Can Only Imagine,Roadside Attractions,Drama
-6,The Post,20th Century Fox,Drama
-7,The Mule,Warner Bros.,Drama
-8,The Shape of Water,Fox Searchlight,Drama
-9,12 Strong,Warner Bros.,Drama
-10,First Man,Universal,Drama
-11,"Love, Simon",20th Century Fox,Drama
-12,Darkest Hour,Focus Features,Drama
-13,The 15:17 to Paris,Warner Bros.,Drama
-14,Nobodyâs Fool,Paramount Pictures,Drama
-15,Adrift,STX Entertainment,Drama
-16,The Hate U Give,20th Century Fox,Drama
-17,White Boy Rick,Sony Pictures,Drama
-18,Mollyâs Game,STX Entertainment,Drama
-19,Phantom Thread,Focus Features,Drama
-20,Operation Finale,MGM,Drama
-21,"Paul, Apostle of Christ",Sony Pictures,Drama
-22,Lady Bird,A24,Drama
-23,Chappaquiddick,Entertainment Stu…,Drama
-24,Forever My Girl,Roadside Attractions,Drama
-25,Eighth Grade,A24,Drama
-26,Call Me by Your Name,Sony Pictures Cla…,Drama
-27,Padmavati,Paramount Pictures,Drama
-28,Wonder,Lionsgate,Drama
-29,The Miracle Season,LD Entertainment,Drama
-30,Mary Queen of Scots,Focus Features,Drama
-31,Midnight Sun,Global Road,Drama
-32,Welcome to Marwen,Universal,Drama
-33,The Wife,Sony Pictures Cla…,Drama
-34,Sanju,20th Century Fox,Drama
-35,Beautiful Boy,Amazon Studios,Drama
-36,Can You Ever Forgive Me?,Fox Searchlight,Drama
-37,Mid90s,A24,Drama
-38,Boy Erased,Focus Features,Drama
-39,A.X.L.,Global Road,Drama
-40,Unbroken: Path to Redemption,Pure Flix Enterta…,Drama
-41,Every Day,Orion Pictures,Drama
-42,Leave No Trace,Bleecker Street,Drama
-43,Godâs Not Dead: A Light in …,Pure Flix Enterta…,Drama
-44,Colette,Bleecker Street,Drama
-45,Samson,Pure Flix Enterta…,Drama
-46,If Beale Street Could Talk,Annapurna Pictures,Drama
-47,Blindspotting,Lionsgate,Drama
-48,Gotti,Vertical Entertai…,Drama
-49,Ya Veremos,Lionsgate,Drama
-50,Life Itself,Amazon Studios,Drama
-51,Gosnell: The Trial of Ameri…,GVN Releasing,Drama
-52,Indivisible,Pure Flix Enterta…,Drama
-53,Disobedience,Bleecker Street,Drama
-54,The Leisure Seeker,Sony Pictures Cla…,Drama
-55,Thoroughbreds,Focus Features,Drama
-56,God Bless the Broken Road,Freestyle Releasing,Drama
-57,You Were Never Really Here,Amazon Studios,Drama
-58,Ben is Back,Roadside Attractions,Drama
-59,The Rider,Sony Pictures Cla…,Drama
-60,Hearts Beat Loud,Gunpowder & Sky,Drama
-61,Papillon,Bleecker Street,Drama
-62,Murder on the Orient Express,20th Century Fox,Drama
-63,Puzzle,Sony Pictures Cla…,Drama
-64,Una mujer fantÃ¡stica,Sony Pictures Cla…,Drama
-65,The Front Runner,Sony Pictures,Drama
-66,At Eternityâs Gate,CBS Films,Drama
-67,On the Basis of Sex,Focus Features,Drama
-68,Manbiki kazoku,Magnolia Pictures,Drama
-69,A Private War,Aviron Pictures,Drama
-70,The Bookshop,Greenwich,Drama
-71,"Donât Worry, He Wonât Get F…",Amazon Studios,Drama
-72,Little Women,Pinnacle Peak,Drama
-73,The Seagull,Sony Pictures Cla…,Drama
-74,The Hows of Us,ABS-CBN,Drama
-75,Beautifully Broken,ArtAffects,Drama
-76,Lean on Pete,A24,Drama
-77,Wildlife,IFC Films,Drama
-78,Raid,Eros Entertainment,Drama
-79,Lâinsulte,Cohen Media Group,Drama
-80,Film Stars Donât Die in Liv…,Sony Pictures Cla…,Drama
-81,The Miseducation of Cameron…,FilmRise,Drama
-82,Schindlerâs List,Universal,Drama
-83,Kedarnath,PackYourBag Films,Drama
-84,The Cakemaker,Strand,Drama
-85,Beast,Roadside Attractions,Drama
-86,1945,Menemsha Entertai…,Drama
-87,The Party,Roadside Attractions,Drama
-88,On Chesil Beach,Bleecker Street,Drama
-89,The Catcher Was A Spy,IFC Films,Drama
-90,The Little Stranger,Focus Features,Drama
-91,Blaze,IFC Films,Drama
-92,Boundaries,Sony Pictures Cla…,Drama
-93,Nada a Perder,Swen Group,Drama
-94,Lizzie,Roadside Attractions,Drama
-95,Foxtrot,Sony Pictures Cla…,Drama
-96,The Florida Project,A24,Drama
-97,Marshall,Open Road,Drama
-98,Nelyubov,Sony Pictures Cla…,Drama
-99,"Uchiage Hanabi, Shita Kara …",GKIDS,Drama
-100,Manmarziyaan,Eros Entertainment,Drama
-101,Monsters and Men,Neon,Drama
-102,Gongjak,CJ Entertainment,Drama
-103,Loving Vincent,Good Deed Enterta…,Drama
-104,The Happy Prince,Sony Pictures Cla…,Drama
-105,Final Portrait,Sony Pictures Cla…,Drama
-106,The Children Act,A24,Drama
-107,Un sac de billes,Gaumont British P…,Drama
-108,We The Animals,The Orchard,Drama
-109,Soorma,Sony Pictures,Drama
-110,Jane and Emma,Excel Entertainment,Drama
-111,Shine,GVN Releasing,Drama
-112,Flower,The Orchard,Drama
-113,Fang Hua,China Lion Film D…,Drama
-114,Aus dem Nichts,Magnolia Pictures,Drama
-115,The Square,Magnolia Pictures,Drama
-116,Kings,The Orchard,Drama
-117,Zimna wojna,Amazon Studios,Drama
-118,What They Had,Bleecker Street,Drama
-119,Le Vin et le Vent,Music Box Films,Drama
-120,Skate Kitchen,Magnolia Pictures,Drama
-121,Meditation Park,,Drama
-122,Stan & Ollie,Sony Pictures Cla…,Drama
-123,Borg vs McEnroe,Neon,Drama
-124,Happy End,Sony Pictures Cla…,Drama
-125,Gauguin - Voyage de Tahiti,Cohen Media Group,Drama
-126,Little Pink House,Dada Films,Drama
-127,Seuwingkizeu,Well Go USA,Drama
-128,Estiu 1993,Oscilloscope Pict…,Drama
-129,Madelineâs Madeline,Oscilloscope Pict…,Drama
-130,Les gardiennes,Music Box Films,Drama
-131,CafarnaÃºm,Sony Pictures Cla…,Drama
-132,Only the Brave,Sony Pictures,Drama
-133,Batti Gul Meter Chalu,Eros Entertainment,Drama
-134,Museo,YouTube,Drama
-135,Journeyâs End,Good Deed Enterta…,Drama
-136,Le Jeune Karl Marx,The Orchard,Drama
-137,Love After Love,IFC Films,Drama
-138,Der Himmel Ã¼ber Berlin,Janus Films,Drama
-139,"Roman J. Israel, Esq.",Sony Pictures,Drama
-140,Hyeobsang,CJ Entertainment,Drama
-141,El Angel,The Orchard,Drama
-142,Der Hauptmann,Music Box Films,Drama
-143,Mary Shelley,IFC Films,Drama
-144,Bar Bahar,Film Movement,Drama
-145,La douleur,Music Box Films,Drama
-146,Andrey Rublyov,Columbia,Drama
-147,All About Nina,The Orchard,Drama
-148,Champion,Well Go USA,Drama
-149,Wonder Wheel,Amazon Studios,Drama
-150,The Breadwinner,GKIDS,Drama
-151,Running for Grace,Blue Fox Entertai…,Drama
-152,Nostalgia,Bleecker Street,Drama
-153,Jusqu'Ã  la garde,Kino Lorber,Drama
-154,La camÃ©ra de Claire,Cinema Guild,Drama
-155,Le Redoutable,Cohen Media Group,Drama
-156,Bel Canto,Screen Media Films,Drama
-157,En el SÃ©ptimo DÃ­a,Cinema Guild,Drama
-158,Unga Astrid,Music Box Films,Drama
-159,Tehran Taboo,Kino Lorber,Drama
-160,Es war einmal in Deutschlan…,Film Movement,Drama
-161,El Ãºltimo Traje,Outsider,Drama
-162,"Nico, 1988",Magnolia Pictures,Drama
-163,Helicopter Eela,Eros Entertainment,Drama
-164,Tom of Finland,Kino Lorber,Drama
-165,Outside In,The Orchard,Drama
-166,Where Hands Touch,Vertical Entertai…,Drama
-167,My Friend Dahmer,FilmRise,Drama
-168,Viper Club,Roadside Attractions,Drama
-169,Where is Kyra?,Great Point Media,Drama
-170,Bomb City,Gravitas Ventures,Drama
-171,A Kid Like Jake,IFC Films,Drama
-172,Black 47,IFC Films,Drama
-173,Wanda,Janus Films,Drama
-174,Sanpo Suru Shinryakusha,Super LTD,Drama
-175,I am Not a Witch,Film Movement,Drama
-176,Bigger,Freestyle Releasing,Drama
-177,Hva vil folk si,Kino Lorber,Drama
-178,Offret,Kino Lorber,Drama
-179,Western,Cinema Guild,Drama
-180,A Ciambra,IFC Films,Drama
-181,Submission,Great Point Media,Drama
-182,Namiya,China Lion Film D…,Drama
-183,Golden Exits,Sony Pictures,Drama
-184,Krystal,Paladin,Drama
-185,Breath,FilmRise,Drama
-186,Rodin,Cohen Media Group,Drama
-187,Le FidÃ¨le,Mongrel Media,Drama
-188,Le Corbeau,Westport Internat…,Drama
-189,24 Frames: Before and After…,Janus Films,Drama
-190,"Bedoune Tarikh, Bedoune Emza",Distrib Films,Drama
-191,Godâs Own Country,Samuel Goldwyn Films,Drama
-192,Sollerâs Point,Oscilloscope Pict…,Drama
-193,120 battements par minute,The Orchard,Drama
-194,Lâeau froide,Janus Films,Drama
-195,La novia del desierto,Strand,Drama
-196,Memorias del subdesarrollo,Janus Films,Drama
-197,Same Kind of Different as Me,Pure Flix Enterta…,Drama
-198,Lâapparition,Music Box Films,Drama
-199,Senso,Fleetwood Films,Drama
-200,Belle de Jour,Miramax,Drama
-201,Ridge Runners,Indican Pictures,Drama
-202,Jet Trash,Indican Pictures,Drama
-203,Geu Hu,Cinema Guild,Drama
-204,Vazante,Music Box Films,Drama
-205,Die gÃ¶ttliche Ordnung,Kino Lorber,Drama
-206,Let There Be Light,Atlas Distribution,Drama
-207,Loving Pablo,OTL Releasing,Drama
-208,Mes provinciales,Kino Lorber,Drama
-209,Lâatelier,Strand,Drama
-210,Acht Stunden sind kein Tag,Janus Films,Drama
-211,"Lâune chante, lâautre pas",Janus Films,Drama
-212,Who We Are Now,FilmRise,Drama
-213,Anything,Paladin,Drama
-214,Madame Hyde,Cartilage Films,Drama
-215,Life & Nothing More,CFI,Drama
-216,Gabriel e a Montanha,Strand,Drama
-217,Bob le flambeur,Triumph Releasing,Drama
-218,Thelma,The Orchard,Drama
-219,Quand tu liras cette lettre,Rialto Pictures,Drama
-220,Detour,Producers Releasi…,Drama
-221,The Last Movie Star,A24,Drama
-222,The Escape,IFC Films,Drama
-223,Here and Now,AMBI,Drama
-224,Novitiate,Sony Pictures Cla…,Drama
-225,Stavisky,Cinemation Indust…,Drama
-226,Like Me,Kino Lorber,Drama
-227,"Lou Andreas-SalomÃ©, The Aud…",Cinema Libre,Drama
-228,Head Full of Honey,Warner Bros.,Drama
-229,Tyrel,Magnolia Pictures,Drama
-230,Le Retour du HÃ©ros,Distrib Films,Drama
-231,Victoria and Abdul,Focus Features,Drama
-232,Chez Nous,Distrib Films,Drama
-233,Sicilian Ghost Story,Strand,Drama
-234,The Samuel Project,in8 Releasing,Drama
-235,Souvenir,Strand,Drama
-236,Please Stand By,Magnolia Pictures,Drama
-237,Quai des Orfevres,,Drama
-238,Un Traductor,Film Movement,Drama
-239,November,Oscilloscope Pict…,Drama
-240,Summer of 67,Self Distributed,Drama
-241,Dark River,FilmRise,Drama
-242,Aala Kaf Ifrit,Oscilloscope Pict…,Drama
-243,In Echo Park,Indican Pictures,Drama
-244,Bamui haebyun-eoseo honja,Cinema Guild,Drama
-245,La religieuse,,Drama
-246,Lemonade,Mongrel Media,Drama
-247,Postcards From London,Strand,Drama
-248,"Distant Voices, Still Lives",Arrow Releasing,Drama
-249,Intersection,Indican Pictures,Drama
-250,The Texture of Falling,Self Distributed,Drama
-251,Edward II,Fine Line,Drama
-252,Weightless,Paladin,Drama
-253,The Partyâs Just Beginning,The Orchard,Drama
-254,Frank and Ava,Gravitas Ventures,Drama
-255,Porto,Kino Lorber,Drama
-256,Song of Granite,Oscilloscope Pict…,Drama
-257,La Familia,Film Movement,Drama
-258,Marvin ou la belle Ã©ducation,Mongrel Media,Drama
-259,Nelly,Cinema Libre,Drama
-260,State Like Sleep,The Orchard,Drama
-261,The Tribes of Palos Verdes,IFC Films,Drama
-262,FÃ©licitÃ©,Strand,Drama
-263,Miekkailija,CFI,Drama
-264,Bad Lucky Goat,Film Movement,Drama
-265,Billionaire Boys Club,Vertical Entertai…,Drama
-266,Mobile Homes,Mongrel Media,Drama
-1,Knives Out,Lionsgate,Drama
-2,Ford v. Ferrari,20th Century Fox,Drama
-3,Hustlers,STX Entertainment,Drama
-4,Downton Abbey,Focus Features,Drama
-5,Rocketman,Paramount Pictures,Drama
-6,Little Women,Sony Pictures,Drama
-7,A Beautiful Day in the Neig…,Sony Pictures,Drama
-8,Five Feet Apart,Lionsgate,Drama
-9,Harriet,Focus Features,Drama
-10,A Dogâs Way Home,Sony Pictures,Drama
-11,Queen & Slim,Universal,Drama
-12,Breakthrough,20th Century Fox,Drama
-13,The Mule,Warner Bros.,Drama
-14,Overcomer,Sony Pictures,Drama
-15,Bohemian Rhapsody,20th Century Fox,Drama
-16,The Art of Racing in the Rain,20th Century Fox,Drama
-17,Bombshell,Lionsgate,Drama
-18,Judy,Roadside Attractions,Drama
-19,On the Basis of Sex,Focus Features,Drama
-20,A Dogâs Journey,Universal,Drama
-21,Unplanned,Pure Flix Enterta…,Drama
-22,Richard Jewell,Warner Bros.,Drama
-23,The Farewell,A24,Drama
-24,A Star is Born,Warner Bros.,Drama
-25,The Kitchen,Warner Bros.,Drama
-26,Blinded by the Light,Warner Bros.,Drama
-27,The Lighthouse,A24,Drama
-28,Dark Waters,Focus Features,Drama
-29,If Beale Street Could Talk,Annapurna Pictures,Drama
-30,The Best of Enemies,STX Entertainment,Drama
-31,Motherless Brooklyn,Warner Bros.,Drama
-32,Brittany Runs a Marathon,Amazon Studios,Drama
-33,Mary Queen of Scots,Focus Features,Drama
-34,Run the Race,Roadside Attractions,Drama
-35,The Current War: Directorâs…,101 Studios,Drama
-36,Gloria Bell,A24,Drama
-37,The Mustang,Focus Features,Drama
-38,The Goldfinch,Warner Bros.,Drama
-39,Stan & Ollie,Sony Pictures Cla…,Drama
-40,The Sun is Also a Star,Warner Bros.,Drama
-41,Tolkien,Fox Searchlight,Drama
-42,The Last Black Man in San F…,A24,Drama
-43,Brian Banks,Bleecker Street,Drama
-44,Zimna wojna,Amazon Studios,Drama
-45,Dolor y gloria,Sony Pictures Cla…,Drama
-46,Mission Mangal,FIP,Drama
-47,Honey Boy,Amazon Studios,Drama
-48,Kalank,FIP,Drama
-49,Todos lo saben,Focus Features,Drama
-50,Arctic,Bleecker Street,Drama
-51,Welcome to Marwen,Universal,Drama
-52,Wo he wo de zu guo,CMC Pictures,Drama
-53,Super 30,Reliance Entertai…,Drama
-54,Shao Nian De Ni,Well Go USA,Drama
-55,The White Crow,Sony Pictures Cla…,Drama
-56,The Other Side of Heaven 2:…,ArtAffects,Drama
-57,Manbiki kazoku,Magnolia Pictures,Drama
-58,Wild Rose,Neon,Drama
-59,The Aftermath,Fox Searchlight,Drama
-60,Red Joan,IFC Films,Drama
-61,After the Wedding,Sony Pictures Cla…,Drama
-62,CafarnaÃºm,Sony Pictures Cla…,Drama
-63,The Wife,Sony Pictures Cla…,Drama
-64,A Hidden Life,Fox Searchlight,Drama
-65,Can You Ever Forgive Me?,Fox Searchlight,Drama
-66,All is True,Sony Pictures Cla…,Drama
-67,Ben is Back,Roadside Attractions,Drama
-68,The Souvenir,A24,Drama
-69,The Fighting Preacher,Purdie Distribution,Drama
-70,Climax,A24,Drama
-71,Transit,Music Box Films,Drama
-72,Bennettâs War,ESX Entertainment,Drama
-73,Bi Bei Shang Geng Bei Shang…,China Lion Film D…,Drama
-74,Zhongguo jizhang,Well Go USA,Drama
-75,El Chicano,Briarcliff Entert…,Drama
-76,The Grizzlies,Mongrel Media,Drama
-77,Nancy Drew and the Hidden S…,Warner Bros.,Drama
-78,The Chaperone,PBS Distribution,Drama
-79,The Public,Universal,Drama
-80,The Sky is Pink,Gravitas Ventures,Drama
-81,Di Qiu Zui Hou De Ye Wang,Kino Lorber,Drama
-82,PÃ¡jaros de verano,The Orchard,Drama
-83,Cruel Intentions,Sony Pictures,Drama
-84,Christmas Jars,Fathom Events,Drama
-85,Jiang hu er nv,Cohen Media Group,Drama
-86,Union,Indican Pictures,Drama
-87,The Nightingale,IFC Films,Drama
-88,Mia et le lion blanc,Ledafilms,Drama
-89,El Hombre que mato a Don Qu…,Fathom Events,Drama
-90,The Hummingbird Project,The Orchard,Drama
-91,Matthias & Maxime,Self Distributed,Drama
-92,The Tomorrow Man,Bleecker Street,Drama
-93,Photograph,Amazon Studios,Drama
-94,Diane,IFC Films,Drama
-95,Sword of Trust,IFC Films,Drama
-96,Lucy in the Sky,Fox Searchlight,Drama
-97,At Eternityâs Gate,CBS Films,Drama
-98,Lie huo ying xiong,Sony Pictures,Drama
-99,Just Mercy,Warner Bros.,Drama
-100,Her Smell,Gunpowder & Sky,Drama
-101,Canal Street,Smith Global Media,Drama
-102,American Woman,Roadside Attractions,Drama
-103,Hatsukoi,Well Go USA,Drama
-104,Play the Flute,Five & Two Pictures,Drama
-105,The Iron Orchard,Santa Rita Film Co,Drama
-106,Family,Film Arcade,Drama
-107,Mr. Klein,Quartet Films,Drama
-108,Synonymes,Kino Lorber,Drama
-109,The Song of Names,Sony Pictures Cla…,Drama
-110,To Dust,Good Deed Enterta…,Drama
-111,The Warrior Queen of Jhansi,Roadside Attractions,Drama
-112,Creed II,MGM,Drama
-113,Frankie,Sony Pictures Cla…,Drama
-114,Nappeun Nyeoseokdeul: Deo M…,CJ Entertainment,Drama
-115,NapszÃ¡llta,Sony Pictures Cla…,Drama
-116,Don,CJ Entertainment,Drama
-117,Peterloo,Amazon Studios,Drama
-118,Hampstead,IFC Films,Drama
-119,Voyna i mir,Continental Distr…,Drama
-120,Trial by Fire,Roadside Attractions,Drama
-121,Rafiki,Film Movement,Drama
-122,The Other Story,Strand,Drama
-123,Palau the Movie,Trafalgar Releasing,Drama
-124,Mary Magdalene,IFC Films,Drama
-125,"Ruben Brandt, a gyujto",Sony Pictures Cla…,Drama
-126,Branagh Theatre Live: The W…,Trafalgar Releasing,Drama
-127,Babylon,Self Distributed,Drama
-128,Downtown 81,,Drama
-129,The Reports on Sarah and Sa…,Dada Films,Drama
-130,tajja: won aidey jaek,Well Go USA,Drama
-131,Rojo,Distrib Films,Drama
-132,Le Livre DâImage,Kino Lorber,Drama
-133,Xia Yi Ren: Qian Ren,China Lion Film D…,Drama
-134,Shou Yi Ren,CMC Pictures,Drama
-135,The Lumber Baron,Indican Pictures,Drama
-136,La Camarista,Kino Lorber,Drama
-137,Ramen Teh,Strand,Drama
-138,The Third Wife,Film Movement,Drama
-139,High Strung: Free Dance,GVN Releasing,Drama
-140,Cristo si Ã¨ fermato a Eboli,Franklin Media,Drama
-141,Ms. Purple,Oscilloscope Pict…,Drama
-142,Las Herederas,Distrib Films,Drama
-143,Clemency,Neon,Drama
-144,Se Rokh,Kino Lorber,Drama
-145,Cliffs of Freedom,Round Hill Media,Drama
-146,Jangsa-ri 9.15,Well Go USA,Drama
-147,Styx,Film Movement,Drama
-148,Edie,Music Box Films,Drama
-149,L'AnnÃ©e DerniÃ¨re Ã  Marienba…,Rialto Pictures,Drama
-150,Isha Ovedet,Zeitgeist,Drama
-151,Vita & Virginia,Mongrel Media,Drama
-152,GrÃ¢ce Ã  dieu,Music Box Films,Drama
-153,Sauvage,Strand,Drama
-154,Mickey and the Bear,Self Distributed,Drama
-155,A Vida InvisÃ­vel,Amazon Studios,Drama
-156,Fin de siglo,Cinema Guild,Drama
-157,Charlie Says,IFC Films,Drama
-158,The Hate U Give,20th Century Fox,Drama
-159,Ophelia,IFC Films,Drama
-160,Unga Astrid,Music Box Films,Drama
-161,Hua Jiao Zhi Wei,China Lion Film D…,Drama
-162,Immortal Hero,Freestyle Releasing,Drama
-163,Aniara,Magnolia Pictures,Drama
-164,Saint Judy,Blue Fox Entertai…,Drama
-165,Wildlife,IFC Films,Drama
-166,Le Semeur,Film Movement,Drama
-167,BuÃ±uel En El Laberinto De L…,GKIDS,Drama
-168,Yardie,Rialto Pictures,Drama
-169,Bai She: Yuan Qi,GKIDS,Drama
-170,Ãga,Big World Pictures,Drama
-171,Ahlat Agaci,Cinema Guild,Drama
-172,Pasolini,Kino Lorber,Drama
-173,"Plaire, aimer et courir vite",Strand,Drama
-174,Der Boden unter den FÃ¼Ãen,Strand,Drama
-175,In den GÃ¤ngen,Music Box Films,Drama
-176,Gangbyeonhotel,Cinema Guild,Drama
-177,Donnybrook,IFC Films,Drama
-178,Seuwingkizeu,Well Go USA,Drama
-179,Le Retour du HÃ©ros,Distrib Films,Drama
-180,La religieuse,,Drama
-181,Beautiful Boy,Amazon Studios,Drama
-182,La paranza dei bambini,Music Box Films,Drama
-183,Little Joe,Magnolia Pictures,Drama
-184,Light From Light,Grasshopper Film,Drama
-185,The Sound of Silence,IFC Films,Drama
-186,Prassthanam,PackYourBag Films,Drama
-187,Temblores,Film Movement,Drama
-188,Out of Blue,IFC Films,Drama
-189,Sheng Ye Shi Tang,Well Go USA,Drama
-190,Letyat zhuravli,Warner Bros.,Drama
-191,Jane and Emma,Excel Entertainment,Drama
-192,Three Peaks,Greenwich,Drama
-193,Funan,GKIDS,Drama
-194,Frank and Ava,Gravitas Ventures,Drama
-195,Nuestro tiempo,Monument Releasing,Drama
-196,Giant Little Ones,Vertical Entertai…,Drama
-197,Boy Erased,Focus Features,Drama
-198,First Man,Universal,Drama
-199,Prescience,Indican Pictures,Drama
-200,Jiao Qu De Niao,Cinema Guild,Drama
-201,A Private War,Aviron Pictures,Drama
-202,Olivia,Arthur Davis Asso…,Drama
-203,Tyrel,Magnolia Pictures,Drama
-204,The Aspern Papers,Cohen Media Group,Drama
-205,Pulipdeul,Cinema Guild,Drama
-206,Les Filles du Soleil,Cohen Media Group,Drama
-207,Rosie,Blue Fox Entertai…,Drama
-208,GenÃ¨se,Film Movement,Drama
-209,Wo Bi Shi Yao Shen,China Lion Film D…,Drama
-210,Life & Nothing More,CFI,Drama
-211,Der Goldene Handschuh,Strand,Drama
-212,SÃ©rie noire,Putnam Square Films,Drama
-213,Spiral Farm,Indican Pictures,Drama
-214,Figlia mia,Strand,Drama
-215,The Garden,International Fil…,Drama
-216,Un Traductor,Film Movement,Drama
-217,En guerre,Cinema Libre,Drama
-218,Sicilian Ghost Story,Strand,Drama
-219,Another Day of Life,GKIDS,Drama
-220,Der Himmel Ã¼ber Berlin,Janus Films,Drama
-221,"Bedoune Tarikh, Bedoune Emza",Distrib Films,Drama
-222,Pupille,Distrib Films,Drama
-223,Xiao Q,Well Go USA,Drama
-224,The Killing Floor,Film Movement,Drama
-225,Detour,Producers Releasi…,Drama
-226,State Like Sleep,The Orchard,Drama
-227,The Hours and Times,Oscilloscope Pict…,Drama
-228,I am Not a Witch,Film Movement,Drama
-229,Senso,Fleetwood Films,Drama
-1,Little Women,Sony Pictures,Drama
-2,Just Mercy,Warner Bros.,Drama
-3,Knives Out,Lionsgate,Drama
-4,The Photograph,Universal,Drama
-5,The Way Back,Warner Bros.,Drama
-6,I Still Believe,Lionsgate,Drama
-7,Emma.,Focus Features,Drama
-8,Downhill,Searchlight Pictures,Drama
-9,Tenki no Ko,GKIDS,Drama
-10,Ford v. Ferrari,20th Century Fox,Drama
-11,Bombshell,Lionsgate,Drama
-12,Itâs a Wonderful Life,,Drama
-13,Richard Jewell,Warner Bros.,Drama
-14,Portrait de la jeune fille …,Neon,Drama
-15,Queen & Slim,Universal,Drama
-16,The Last Full Measure,Roadside Attractions,Drama
-17,A Beautiful Day in the Neig…,Sony Pictures,Drama
-18,Words on Bathroom Walls,Roadside Attractions,Drama
-19,After We Collided,,Drama
-20,The Personal History of Dav…,Searchlight Pictures,Drama
-21,2 Hearts,Freestyle Releasing,Drama
-22,The Assistant,Bleecker Street,Drama
-23,All My Life,Universal,Drama
-24,The Song of Names,Sony Pictures Cla…,Drama
-25,Cut Throat City,Well Go USA,Drama
-26,The Last Vermeer,Sony Pictures Cla…,Drama
-27,Chhapaak,FIP,Drama
-28,Dolor y gloria,Sony Pictures Cla…,Drama
-29,Panga,FIP,Drama
-30,Harriet,Focus Features,Drama
-31,Kajillionaire,Focus Features,Drama
-32,Dark Waters,Focus Features,Drama
-33,A Hidden Life,Fox Searchlight,Drama
-34,Tulsa,Self Distributed,Drama
-35,Yellow Rose,Sony Pictures,Drama
-36,Les misÃ©rables,Amazon Studios,Drama
-37,Ordinary Love,Bleecker Street,Drama
-38,Il Traditore,Sony Pictures Cla…,Drama
-39,Judy,Roadside Attractions,Drama
-40,Clemency,Neon,Drama
-41,"Mafia, Inc.",Films Seville,Drama
-42,The Climb,Sony Pictures Cla…,Drama
-43,Wild Mountain Thyme,Bleecker Street,Drama
-44,Dylda,Kino Lorber,Drama
-45,Come Away,Relativity,Drama
-46,And Then We Danced,Music Box Films,Drama
-47,Ammonite,Neon,Drama
-48,A Call to Spy,IFC Films,Drama
-49,Wendy,Searchlight Pictures,Drama
-50,Burden,101 Studios,Drama
-51,The Nest,IFC Films,Drama
-52,Corpus Christi,Film Movement,Drama
-53,Hope Gap,Roadside Attractions,Drama
-54,Made in Italy,IFC Films,Drama
-55,First Cow,A24,Drama
-56,Tesla,IFC Films,Drama
-57,A Vida InvisÃ­vel,Amazon Studios,Drama
-58,On the Basis of Sex,Focus Features,Drama
-59,Percy,Mongrel Media,Drama
-60,Come and See,Self Distributed,Drama
-61,My Brothersâ Crossing,Atlas Distribution,Drama
-62,Summerland,IFC Films,Drama
-63,The Godfather: Part III,Paramount Pictures,Drama
-64,The Lighthouse,A24,Drama
-65,Play the Flute,Five & Two Pictures,Drama
-66,Three Christs,IFC Films,Drama
-67,Solo Brathuke So Better,Zee Studios,Drama
-68,Juvenile Delinquents,Atlas Distribution,Drama
-69,True History Of The Kelly Gang,IFC Films,Drama
-70,Honey Boy,Amazon Studios,Drama
-71,Embattled,IFC Films,Drama
-72,Sorry We Missed You,Zeitgeist,Drama
-73,Cane River,Oscilloscope Pict…,Drama
-74,JosÃ©,Outsider,Drama
-75,Heart of Africa,Purdie Distribution,Drama
-76,Premature,IFC Films,Drama
-77,Lâinnocente,Analysis,Drama
-78,Pandora and the Flying Dutc…,Cohen Media Group,Drama
-79,Le jeune Ahmed,Kino Lorber,Drama
-80,Synonymes,Kino Lorber,Drama
-81,Foster Boy,Gravitas Ventures,Drama
-82,Downtown 81,,Drama
-83,"Never, Rarely, Sometimes, A…",Focus Features,Drama
-84,Branagh Theatre Live: The W…,Trafalgar Releasing,Drama
-85,Counter Column,Not That Kind of …,Drama
-86,Vitalina Varela,Grasshopper Film,Drama
-87,"Ich war zuhause, aber",Cinema Guild,Drama
-88,Akik maradtak,Menemsha Entertai…,Drama
-89,Twiceborn,Freestyle Releasing,Drama
-90,You go to my Head,First Run Features,Drama
-91,The Last Tree,ArtMattan Films,Drama
-92,Guest Artist,Indican Pictures,Drama
-93,La vÃ©ritÃ©,IFC Films,Drama
-94,Just One More Kiss,Indican Pictures,Drama
-95,Stardust,IFC Films,Drama
-96,The Artistâs Wife,,Drama
-97,Lie Exposed,Mongrel Media,Drama
-98,Resistance,IFC Films,Drama
-99,Human Capital,Vertical Entertai…,Drama
-100,In the Life of Music,Indican Pictures,Drama
-101,The Other Lamb,IFC Films,Drama
-102,Herself,Amazon Studios,Drama
-103,GrÃ¢ce Ã  dieu,Music Box Films,Drama
-104,Bang! Bang!,Indican Pictures,Drama
-105,Last Call,,Drama
-106,Farewell Amor,IFC Films,Drama
-107,Babyteeth,IFC Films,Drama
-108,Temblores,Film Movement,Drama
-109,The Roads Not Taken,Bleecker Street,Drama
-110,Mr. Klein,Quartet Films,Drama
-111,Light From Light,Grasshopper Film,Drama
-112,Goldie,Film Movement,Drama
-113,Edie,Music Box Films,Drama
-114,NabarvenÃ© ptÃ¡Äe,IFC Films,Drama
-115,Little Joe,Magnolia Pictures,Drama
-116,Cristo si Ã¨ fermato a Eboli,Franklin Media,Drama
-117,Evergreen,Indican Pictures,Drama
-118,Hai Tang Hong,M Star International,Drama
-119,Ãga,Big World Pictures,Drama
-120,Spiral Farm,Indican Pictures,Drama
-121,Druk,Mongrel Media,Drama
-122,Hustlers,STX Entertainment,Drama
-123,Police,Distrib Films,Drama
-124,Mickey and the Bear,Self Distributed,Drama
-125,Love by Drowning,Dow Jazz Films,Drama

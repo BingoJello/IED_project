@@ -1,4 +1,668 @@
 Id,Title,Distributor,Genre
+1,How the Grinch Stole Christmas,Universal,Adventure
+2,Dinosaur,Walt Disney,Adventure
+3,Cast Away,20th Century Fox,Adventure
+4,Chicken Run,Dreamworks SKG,Adventure
+5,Space Cowboys,Warner Bros.,Adventure
+6,Rugrats in Paris,Paramount Pictures,Adventure
+7,Mission to Mars,Walt Disney,Adventure
+8,Stuart Little,Sony Pictures,Adventure
+9,Snow Day,Paramount Pictures,Adventure
+10,102 Dalmatians,Walt Disney,Adventure
+11,The Emperor's New Groove,Walt Disney,Adventure
+12,The Road to El Dorado,Dreamworks SKG,Adventure
+13,The Tigger Movie,Walt Disney,Adventure
+14,Galaxy Quest,Dreamworks SKG,Adventure
+15,Pokemon 2000,Warner Bros.,Adventure
+16,Toy Story 2,Walt Disney,Adventure
+17,The Flintstones in Viva Roc…,Universal,Adventure
+18,The Adventures of Rocky & B…,Universal,Adventure
+19,Titan A.E.,20th Century Fox,Adventure
+20,Thomas and the Magic Railroad,Destination Films,Adventure
+21,Dungeons and Dragons,New Line,Adventure
+22,The Little Vampire,New Line,Adventure
+23,Digimon: The Movie,20th Century Fox,Adventure
+24,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+25,Cyberworld 3D,IMAX Films,Adventure
+26,Alien Adventure,nWave Pictures,Adventure
+27,Pokemon: The First Movie,Warner Bros.,Adventure
+28,MVP: Most Valuable Primate,Keystone Entertai…,Adventure
+29,Star Wars Ep. I: The Phanto…,20th Century Fox,Adventure
+30,Across The Sea of Time,Sony Pictures Cla…,Adventure
+31,Tarzan,Walt Disney,Adventure
+32,Kirikou and the Sorceress,ArtMattan Films,Adventure
+33,Sinbad: Beyond the Veil of …,Phaedra Cinema,Adventure
+1,Harry Potter and the Sorcer…,Warner Bros.,Adventure
+2,Shrek,Dreamworks SKG,Adventure
+3,"Monsters, Inc.",Walt Disney,Adventure
+4,The Lord of the Rings: The …,New Line,Adventure
+5,The Mummy Returns,Universal,Adventure
+6,Planet of the Apes,20th Century Fox,Adventure
+7,Lara Croft: Tomb Raider,Paramount Pictures,Adventure
+8,Cast Away,20th Century Fox,Adventure
+9,Dr. Dolittle 2,20th Century Fox,Adventure
+10,Spy Kids,Miramax/Dimension,Adventure
+11,Atlantis: The Lost Empire,Walt Disney,Adventure
+12,Jimmy Neutron: Boy Genius,Paramount Pictures,Adventure
+13,A Knightâs Tale,Sony Pictures,Adventure
+14,The Emperor's New Groove,Walt Disney,Adventure
+15,Recess: School's Out,Walt Disney,Adventure
+16,See Spot Run,Warner Bros.,Adventure
+17,Final Fantasy: The Spirits …,Sony Pictures,Adventure
+18,Black Knight,20th Century Fox,Adventure
+19,The Musketeer,Universal,Adventure
+20,Crocodile Dundee in Los Ang…,Paramount Pictures,Adventure
+21,Max Keeble's Big Move,Walt Disney,Adventure
+22,Pokemon 3: The Movie,Warner Bros.,Adventure
+23,Osmosis Jones,Warner Bros.,Adventure
+24,102 Dalmatians,Walt Disney,Adventure
+25,Cyberworld 3D,IMAX Films,Adventure
+26,How the Grinch Stole Christmas,Universal,Adventure
+27,Rugrats in Paris,Paramount Pictures,Adventure
+28,Haunted Castle,nWave Pictures,Adventure
+29,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+30,Dungeons and Dragons,New Line,Adventure
+31,Alien Adventure,nWave Pictures,Adventure
+32,Across The Sea of Time,Sony Pictures Cla…,Adventure
+33,Space Cowboys,Warner Bros.,Adventure
+34,2001: A Space Odyssey,MGM,Adventure
+35,Kirikou and the Sorceress,ArtMattan Films,Adventure
+1,Spider-Man,Sony Pictures,Adventure
+2,Star Wars Ep. II: Attack of…,20th Century Fox,Adventure
+3,The Lord of the Rings: The …,New Line,Adventure
+4,Harry Potter and the Chambe…,Warner Bros.,Adventure
+5,Ice Age,20th Century Fox,Adventure
+6,Scooby-Doo,Warner Bros.,Adventure
+7,Lilo & Stitch,Walt Disney,Adventure
+8,The Santa Clause 2,Walt Disney,Adventure
+9,The Lord of the Rings: The …,New Line,Adventure
+10,Spy Kids 2: The Island of L…,Miramax/Dimension,Adventure
+11,Snow Dogs,Walt Disney,Adventure
+12,Spirit: Stallion of the Cim…,Dreamworks SKG,Adventure
+13,Stuart Little 2,Sony Pictures,Adventure
+14,The Time Machine,Dreamworks SKG,Adventure
+15,The Count of Monte Cristo,Walt Disney,Adventure
+16,Like Mike,20th Century Fox,Adventure
+17,Peter Pan: Return to Neverland,Walt Disney,Adventure
+18,Big Fat Liar,Universal,Adventure
+19,The Master of Disguise,Sony Pictures,Adventure
+20,Star Trek: Nemesis,Paramount Pictures,Adventure
+21,Clockstoppers,Paramount Pictures,Adventure
+22,Treasure Planet,Walt Disney,Adventure
+23,The Wild Thornberrys Movie,Paramount Pictures,Adventure
+24,The Crocodile Hunter: Colli…,MGM,Adventure
+25,Jonah: A VeggieTales Movie,Artisan,Adventure
+26,Jimmy Neutron: Boy Genius,Paramount Pictures,Adventure
+27,Harry Potter and the Sorcer…,Warner Bros.,Adventure
+28,The Country Bears,Walt Disney,Adventure
+29,Hey Arnold! The Movie,Paramount Pictures,Adventure
+30,The Powerpuff Girls,Warner Bros.,Adventure
+31,"Monsters, Inc.",Walt Disney,Adventure
+32,Sen to Chihiro no Kamikakushi,Walt Disney,Adventure
+33,The Lion King,Walt Disney,Adventure
+34,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+35,Spider-Man/Men in Black II …,Sony Pictures,Adventure
+36,Pinocchio,Miramax,Adventure
+37,Haunted Castle,nWave Pictures,Adventure
+38,Santa vs. The Snowman,IMAX Films,Adventure
+39,Pokemon 4Ever,Miramax,Adventure
+40,Black Knight,20th Century Fox,Adventure
+41,Cyberworld 3D,IMAX Films,Adventure
+42,Metropolis,Sony Pictures,Adventure
+43,Alien Adventure,nWave Pictures,Adventure
+44,Planet of the Apes,20th Century Fox,Adventure
+45,Across The Sea of Time,Sony Pictures Cla…,Adventure
+46,Max Keeble's Big Move,Walt Disney,Adventure
+47,Hansel & Gretel,,Adventure
+48,Steel Spirit,Cinema Guild,Adventure
+1,Finding Nemo,Walt Disney,Adventure
+2,Pirates of the Caribbean: T…,Walt Disney,Adventure
+3,The Lord of the Rings: The …,New Line,Adventure
+4,Spy Kids 3-D: Game Over,Miramax/Dimension,Adventure
+5,The Italian Job,Paramount Pictures,Adventure
+6,Dr. Seussâ The Cat in the H…,Universal,Adventure
+7,Brother Bear,Walt Disney,Adventure
+8,Master and Commander: The F…,20th Century Fox,Adventure
+9,The Lord of the Rings: The …,New Line,Adventure
+10,The Haunted Mansion,Walt Disney,Adventure
+11,Holes,Walt Disney,Adventure
+12,Kangaroo Jack,Warner Bros.,Adventure
+13,The League of Extraordinary…,20th Century Fox,Adventure
+14,Lara Croft: Tomb Raider: Th…,Paramount Pictures,Adventure
+15,The Jungle Book 2,Walt Disney,Adventure
+16,Agent Cody Banks,MGM,Adventure
+17,The Lizzie McGuire Movie,Walt Disney,Adventure
+18,Rugrats Go Wild,Paramount Pictures,Adventure
+19,Good Boy!,MGM,Adventure
+20,Peter Pan,Universal,Adventure
+21,Johnny English,Universal,Adventure
+22,Sinbad: Legend of the Seven…,Dreamworks SKG,Adventure
+23,Piglet's Big Movie,Walt Disney,Adventure
+24,Looney Tunes: Back in Action,Warner Bros.,Adventure
+25,Timeline,Paramount Pictures,Adventure
+26,Harry Potter and the Chambe…,Warner Bros.,Adventure
+27,The Lion King,Walt Disney,Adventure
+28,The Wild Thornberrys Movie,Paramount Pictures,Adventure
+29,Grind,Warner Bros.,Adventure
+30,Sen to Chihiro no Kamikakushi,Walt Disney,Adventure
+31,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+32,Star Trek: Nemesis,Paramount Pictures,Adventure
+33,Haunted Castle,nWave Pictures,Adventure
+34,Young Black Stallion,Walt Disney,Adventure
+35,Treasure Planet,Walt Disney,Adventure
+36,The Legend of Johnny Lingo,Innovation Film G…,Adventure
+37,The Santa Clause 2,Walt Disney,Adventure
+38,Santa vs. The Snowman,IMAX Films,Adventure
+39,Pokemon Heroes,Miramax,Adventure
+40,Help! I'm a Fish,,Adventure
+41,The Lord of the Rings: The …,New Line,Adventure
+42,Pinocchio,Miramax,Adventure
+43,Spy Kids 2: The Island of L…,Miramax/Dimension,Adventure
+44,Gerry,ThinkFilm,Adventure
+45,Jonah: A VeggieTales Movie,Artisan,Adventure
+46,Alien Adventure,nWave Pictures,Adventure
+47,Across The Sea of Time,Sony Pictures Cla…,Adventure
+1,Shrek 2,Dreamworks SKG,Adventure
+2,Spider-Man 2,Sony Pictures,Adventure
+3,The Incredibles,Walt Disney,Adventure
+4,Harry Potter and the Prison…,Warner Bros.,Adventure
+5,The Day After Tomorrow,20th Century Fox,Adventure
+6,Shark Tale,Dreamworks SKG,Adventure
+7,The Polar Express,Warner Bros.,Adventure
+8,National Treasure,Walt Disney,Adventure
+9,Ocean's Twelve,Warner Bros.,Adventure
+10,Lemony Snicket's A Series o…,Paramount Pictures,Adventure
+11,The Lord of the Rings: The …,New Line,Adventure
+12,Scooby-Doo 2: Monsters Unle…,Warner Bros.,Adventure
+13,SpongeBob SquarePants: The …,Paramount Pictures,Adventure
+14,Garfield: The Movie,20th Century Fox,Adventure
+15,The Chronicles of Riddick,Universal,Adventure
+16,King Arthur,Walt Disney,Adventure
+17,Home on the Range,Walt Disney,Adventure
+18,Sky Captain and the World o…,Paramount Pictures,Adventure
+19,Around the World in 80 Days,Walt Disney,Adventure
+20,Agent Cody Banks 2: Destina…,MGM,Adventure
+21,Yu-Gi-Oh,Warner Bros.,Adventure
+22,Two Brothers,Universal,Adventure
+23,Flight of the Phoenix,20th Century Fox,Adventure
+24,Catch That Kid,20th Century Fox,Adventure
+25,Peter Pan,Universal,Adventure
+26,Master and Commander: The F…,20th Century Fox,Adventure
+27,Sleepover,MGM,Adventure
+28,Superbabies: Baby Geniuses 2,Sony Pictures,Adventure
+29,Thunderbirds,Universal,Adventure
+30,Teacher's Pet: The Movie,Walt Disney,Adventure
+31,The Haunted Mansion,Walt Disney,Adventure
+32,Young Black Stallion,Walt Disney,Adventure
+33,Clifford's Really Big Movie,Warner Bros.,Adventure
+34,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+35,Santa vs. The Snowman,IMAX Films,Adventure
+36,Haunted Castle,nWave Pictures,Adventure
+37,Brother Bear,Walt Disney,Adventure
+38,Dr. Seussâ The Cat in the H…,Universal,Adventure
+39,Lakshya,UTV Communications,Adventure
+40,The Legend of Johnny Lingo,Innovation Film G…,Adventure
+41,Alien Adventure,nWave Pictures,Adventure
+42,Timeline,Paramount Pictures,Adventure
+43,Looney Tunes: Back in Action,Warner Bros.,Adventure
+44,The Snow Walker,,Adventure
+45,Tokyo Godfathers,IDP Distribution,Adventure
+46,Spy Kids 3-D: Game Over,Miramax/Dimension,Adventure
+47,Kaena: La prophÃ©tie,IDP Distribution,Adventure
+48,Across The Sea of Time,Sony Pictures Cla…,Adventure
+49,Good Boy!,MGM,Adventure
+1,Star Wars Ep. III: Revenge …,20th Century Fox,Adventure
+2,Harry Potter and the Goblet…,Warner Bros.,Adventure
+3,The Chronicles of Narnia: T…,Walt Disney,Adventure
+4,Charlie and the Chocolate F…,Warner Bros.,Adventure
+5,Madagascar,Dreamworks SKG,Adventure
+6,King Kong,Universal,Adventure
+7,Chicken Little,Walt Disney,Adventure
+8,Robots,20th Century Fox,Adventure
+9,Sahara,Paramount Pictures,Adventure
+10,Herbie: Fully Loaded,Walt Disney,Adventure
+11,Sky High,Walt Disney,Adventure
+12,Wallace & Gromit: The Curse…,Dreamworks SKG,Adventure
+13,Corpse Bride,Warner Bros.,Adventure
+14,The Hitchhiker's Guide to t…,Walt Disney,Adventure
+15,Cheaper by the Dozen 2,20th Century Fox,Adventure
+16,Racing Stripes,Warner Bros.,Adventure
+17,The Legend of Zorro,Sony Pictures,Adventure
+18,The Adventures of Sharkboy …,Miramax/Dimension,Adventure
+19,The Brothers Grimm,Miramax/Dimension,Adventure
+20,Zathura,Sony Pictures,Adventure
+21,Lemony Snicket's A Series o…,Paramount Pictures,Adventure
+22,Valiant,Walt Disney,Adventure
+23,Into the Blue,Sony Pictures,Adventure
+24,Ocean's Twelve,Warner Bros.,Adventure
+25,National Treasure,Walt Disney,Adventure
+26,Pooh's Heffalump Movie,Walt Disney,Adventure
+27,The Polar Express,Warner Bros.,Adventure
+28,Son of the Mask,New Line,Adventure
+29,The Incredibles,Walt Disney,Adventure
+30,Hauru no ugoku shiro,Walt Disney,Adventure
+31,Flight of the Phoenix,20th Century Fox,Adventure
+32,SpongeBob SquarePants: The …,Paramount Pictures,Adventure
+33,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+34,Haunted Castle,nWave Pictures,Adventure
+35,Bunty Aur Babli,Yash Raj Films,Adventure
+36,Duma,Warner Bros.,Adventure
+37,Shark Tale,Dreamworks SKG,Adventure
+38,Alien Adventure,nWave Pictures,Adventure
+39,The New World,New Line,Adventure
+40,Young Black Stallion,Walt Disney,Adventure
+41,Santa vs. The Snowman,IMAX Films,Adventure
+1,Pirates of the Caribbean: D…,Walt Disney,Adventure
+2,Cars,Walt Disney,Adventure
+3,Superman Returns,Warner Bros.,Adventure
+4,Ice Age: The Meltdown,20th Century Fox,Adventure
+5,Happy Feet,Warner Bros.,Adventure
+6,Over the Hedge,Paramount Pictures,Adventure
+7,Night at the Museum,20th Century Fox,Adventure
+8,Open Season,Sony Pictures,Adventure
+9,The Santa Clause 3: The Esc…,Walt Disney,Adventure
+10,The Pink Panther,Sony Pictures,Adventure
+11,Eight Below,Walt Disney,Adventure
+12,The Chronicles of Narnia: T…,Walt Disney,Adventure
+13,Monster House,Sony Pictures,Adventure
+14,Barnyard: The Original Part…,Paramount Pictures,Adventure
+15,R.V.,Sony Pictures,Adventure
+16,Flushed Away,Paramount Pictures,Adventure
+17,Poseidon,Warner Bros.,Adventure
+18,Curious George,Universal,Adventure
+19,Eragon,20th Century Fox,Adventure
+20,Hoodwinked,Weinstein Co.,Adventure
+21,King Kong,Universal,Adventure
+22,Nanny McPhee,Universal,Adventure
+23,The Wild,Walt Disney,Adventure
+24,Cheaper by the Dozen 2,20th Century Fox,Adventure
+25,Garfield: A Tail of Two Kit…,20th Century Fox,Adventure
+26,The Ant Bully,Warner Bros.,Adventure
+27,Unaccompanied Minors,Warner Bros.,Adventure
+28,Harry Potter and the Goblet…,Warner Bros.,Adventure
+29,Everyone's Hero,20th Century Fox,Adventure
+30,The New World,New Line,Adventure
+31,Zoom,Sony Pictures,Adventure
+32,Hoot,New Line,Adventure
+33,Doogal,Weinstein Co.,Adventure
+34,The Polar Express,Warner Bros.,Adventure
+35,Chicken Little,Walt Disney,Adventure
+36,Santa vs. The Snowman,IMAX Films,Adventure
+37,The Celestine Prophecy,Ram Entertainment,Adventure
+38,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+39,Lassie,IDP/Goldwyn/Roadside,Adventure
+40,Haunted Castle,nWave Pictures,Adventure
+41,Romeo & Juliet: Sealed with…,Indican Pictures,Adventure
+42,Kaptein Sabeltann,Indican Pictures,Adventure
+43,Wallace & Gromit: The Curse…,Dreamworks SKG,Adventure
+44,Alien Adventure,nWave Pictures,Adventure
+1,Spider-Man 3,Sony Pictures,Adventure
+2,Shrek the Third,Paramount Pictures,Adventure
+3,Pirates of the Caribbean: A…,Walt Disney,Adventure
+4,Harry Potter and the Order …,Warner Bros.,Adventure
+5,Ratatouille,Walt Disney,Adventure
+6,The Simpsons Movie,20th Century Fox,Adventure
+7,National Treasure: Book of …,Walt Disney,Adventure
+8,Alvin and the Chipmunks,20th Century Fox,Adventure
+9,Night at the Museum,20th Century Fox,Adventure
+10,Bee Movie,Paramount Pictures,Adventure
+11,Ocean's Thirteen,Warner Bros.,Adventure
+12,Meet the Robinsons,Walt Disney,Adventure
+13,Beowulf,Paramount Pictures,Adventure
+14,The Golden Compass,New Line,Adventure
+15,Surfâs Up,Sony Pictures,Adventure
+16,Underdog,Walt Disney,Adventure
+17,Stardust,Paramount Pictures,Adventure
+18,Mr. Beanâs Holiday,Universal,Adventure
+19,The Water Horse: Legend of …,Sony Pictures,Adventure
+20,Happy Feet,Warner Bros.,Adventure
+21,The Last Mimzy,New Line,Adventure
+22,Eragon,20th Century Fox,Adventure
+23,Happily N'Ever After,Lionsgate,Adventure
+24,Arthur et les Minimoys,Weinstein Co.,Adventure
+25,The Darjeeling Limited,Fox Searchlight,Adventure
+26,The Seeker: The Dark is Rising,20th Century Fox,Adventure
+27,Flushed Away,Paramount Pictures,Adventure
+28,The Polar Express,Warner Bros.,Adventure
+29,Santa vs. The Snowman,IMAX Films,Adventure
+30,Unaccompanied Minors,Warner Bros.,Adventure
+31,The Ten Commandments,Rocky Mountain Pi…,Adventure
+32,The Santa Clause 3: The Esc…,Walt Disney,Adventure
+33,T-Rex: Back to the Cretaceous,IMAX Films,Adventure
+34,Haunted Castle,nWave Pictures,Adventure
+35,Romeo & Juliet: Sealed with…,Indican Pictures,Adventure
+36,Passage to Zarahemla,Somerset Films,Adventure
+37,Dus Kahaniyaan,Eros Entertainment,Adventure
+38,The Holy Mountain,Abkco Films,Adventure
+1,Iron Man,Paramount Pictures,Adventure
+2,Indiana Jones and the Kingd…,Paramount Pictures,Adventure
+3,WALL-E,Walt Disney,Adventure
+4,Kung Fu Panda,Paramount Pictures,Adventure
+5,Madagascar: Escape 2 Africa,Paramount Pictures,Adventure
+6,Horton Hears a Who,20th Century Fox,Adventure
+7,The Chronicles of Narnia: P…,Walt Disney,Adventure
+8,The Incredible Hulk,Universal,Adventure
+9,Bolt,Walt Disney,Adventure
+10,The Mummy: Tomb of the Drag…,Universal,Adventure
+11,Journey to the Center of th…,Warner Bros.,Adventure
+12,"10,000 B.C.",Warner Bros.,Adventure
+13,Beverly Hills Chihuahua,Walt Disney,Adventure
+14,Bedtime Stories,Walt Disney,Adventure
+15,Jumper,20th Century Fox,Adventure
+16,The Day the Earth Stood Still,20th Century Fox,Adventure
+17,The Spiderwick Chronicles,Paramount Pictures,Adventure
+18,Foolâs Gold,Warner Bros.,Adventure
+19,Alvin and the Chipmunks,20th Century Fox,Adventure
+20,National Treasure: Book of …,Walt Disney,Adventure
+21,Nim's Island,20th Century Fox,Adventure
+22,College Road Trip,Walt Disney,Adventure
+23,The Sisterhood of the Trave…,Warner Bros.,Adventure
+24,The Tale of Despereaux,Universal,Adventure
+25,Star Wars: The Clone Wars,Warner Bros.,Adventure
+26,Space Chimps,20th Century Fox,Adventure
+27,Igor,MGM,Adventure
+28,The Pirates Who Don't Do An…,Universal,Adventure
+29,Fly Me To the Moon,Summit Entertainment,Adventure
+30,Meet Dave,20th Century Fox,Adventure
+31,The Water Horse: Legend of …,Sony Pictures,Adventure
+32,City of Ember,20th Century Fox,Adventure
+33,The Golden Compass,New Line,Adventure
+34,Bee Movie,Paramount Pictures,Adventure
+35,The Polar Express,Warner Bros.,Adventure
+36,Beowulf,Paramount Pictures,Adventure
+37,AstÃ©rix aux Jeux Olympiques,,Adventure
+38,Delgo,Freestyle Releasing,Adventure
+39,Heroes,Eros Entertainment,Adventure
+40,Santa vs. The Snowman,IMAX Films,Adventure
+41,Drona,Eros Entertainment,Adventure
+42,"C'est pas moi, je le jure!",,Adventure
+43,é·æ±ä¸è (CJ7),Sony Pictures Cla…,Adventure
+44,The Darjeeling Limited,Fox Searchlight,Adventure
+45,The Flyboys,Self Distributed,Adventure
+46,Haunted Castle,nWave Pictures,Adventure
+47,Christmas in Wonderland,Yari Film Group R…,Adventure
+48,A Plumm Summer,Freestyle Releasing,Adventure
+49,Roadside Romeo,Yash Raj Films,Adventure
+50,Blue Gap Boy'z,Better World Dist…,Adventure
+51,Passage to Zarahemla,Somerset Films,Adventure
+52,Mission Istaanbul,Raja Cinema,Adventure
+53,One Piece: Episode of Alaba…,The Bigger Picture,Adventure
+54,Solar Flare,Regent Releasing,Adventure
+55,Camille,A-Mark Entertainment,Adventure
+56,The Holy Mountain,Abkco Films,Adventure
+1,Harry Potter and the Half-B…,Warner Bros.,Adventure
+2,Up,Walt Disney,Adventure
+3,Star Trek,Paramount Pictures,Adventure
+4,Monsters vs. Aliens,Paramount Pictures,Adventure
+5,Ice Age: Dawn of the Dinosaurs,20th Century Fox,Adventure
+6,Night at the Museum: Battle…,20th Century Fox,Adventure
+7,Alvin and the Chipmunks: Th…,20th Century Fox,Adventure
+8,Paul Blart: Mall Cop,Sony Pictures,Adventure
+9,Sherlock Holmes,Warner Bros.,Adventure
+10,Cloudy with a Chance of Mea…,Sony Pictures,Adventure
+11,G-Force,Walt Disney,Adventure
+12,The Princess and the Frog,Walt Disney,Adventure
+13,Where the Wild Things Are,Warner Bros.,Adventure
+14,Coraline,Focus Features,Adventure
+15,Hotel for Dogs,Paramount Pictures,Adventure
+16,Race to Witch Mountain,Walt Disney,Adventure
+17,Planet 51,Sony Pictures,Adventure
+18,The Pink Panther 2,Sony Pictures,Adventure
+19,9,Focus Features,Adventure
+20,Toy Story 3D Double Feature,Walt Disney,Adventure
+21,Aliens in the Attic,20th Century Fox,Adventure
+22,Bedtime Stories,Walt Disney,Adventure
+23,Shorts,Warner Bros.,Adventure
+24,Astro Boy,Summit Entertainment,Adventure
+25,Fantastic Mr. Fox,20th Century Fox,Adventure
+26,Inkheart,Warner Bros.,Adventure
+27,Imagine That,Paramount Pictures,Adventure
+28,Gake no ue no Ponyo,Walt Disney,Adventure
+29,Dragonball Evolution,20th Century Fox,Adventure
+30,The Tale of Despereaux,Universal,Adventure
+31,The Day the Earth Stood Still,20th Century Fox,Adventure
+32,Bolt,Walt Disney,Adventure
+33,Madagascar: Escape 2 Africa,Paramount Pictures,Adventure
+34,Fly Me To the Moon,Summit Entertainment,Adventure
+35,Battle for Terra,Roadside Attractions,Adventure
+36,The Imaginarium of Doctor P…,Sony Pictures Cla…,Adventure
+37,Beverly Hills Chihuahua,Walt Disney,Adventure
+38,The Polar Express,Warner Bros.,Adventure
+39,El delfÃ­n: La historia de u…,,Adventure
+40,Evangerion shin gekijÃ´ban: Jo,Eleven Arts,Adventure
+41,Igor,MGM,Adventure
+42,Super Capers,Roadside Attractions,Adventure
+43,Severed Ways: The Norse Dis…,Magnolia Pictures,Adventure
+44,A Town Called Panic,Zeitgeist,Adventure
+45,Santa vs. The Snowman,IMAX Films,Adventure
+46,City of Ember,20th Century Fox,Adventure
+47,Confessions of a Ex-Doofus-…,Self Distributed,Adventure
+48,WALL-E,Walt Disney,Adventure
+1,Toy Story 3,Walt Disney,Adventure
+2,Alice in Wonderland,Walt Disney,Adventure
+3,Harry Potter and the Deathl…,Warner Bros.,Adventure
+4,Despicable Me,Universal,Adventure
+5,Shrek Forever After,Paramount Pictures,Adventure
+6,How to Train Your Dragon,Paramount Pictures,Adventure
+7,Megamind,Paramount Pictures,Adventure
+8,The Last Airbender,Paramount Pictures,Adventure
+9,Tron: Legacy,Walt Disney,Adventure
+10,Percy Jackson & the Olympia…,20th Century Fox,Adventure
+11,The Chronicles of Narnia: T…,20th Century Fox,Adventure
+12,Sherlock Holmes,Warner Bros.,Adventure
+13,Yogi Bear,Warner Bros.,Adventure
+14,Diary of a Wimpy Kid,20th Century Fox,Adventure
+15,Alvin and the Chipmunks: Th…,20th Century Fox,Adventure
+16,The Sorcerer's Apprentice,Walt Disney,Adventure
+17,Tooth Fairy,20th Century Fox,Adventure
+18,Legend of the Guardians: Th…,Warner Bros.,Adventure
+19,Cats & Dogs: The Revenge of…,Warner Bros.,Adventure
+20,Marmaduke,20th Century Fox,Adventure
+21,Nanny McPhee and the Big Bang,Universal,Adventure
+22,Gulliver's Travels,20th Century Fox,Adventure
+23,Ramona and Beezus,20th Century Fox,Adventure
+24,Alpha and Omega,Lionsgate,Adventure
+25,The Spy Next Door,Lionsgate,Adventure
+26,The Princess and the Frog,Walt Disney,Adventure
+27,Furry Vengeance,Summit Entertainment,Adventure
+28,The Imaginarium of Doctor P…,Sony Pictures Cla…,Adventure
+29,Planet 51,Sony Pictures,Adventure
+30,Fantastic Mr. Fox,20th Century Fox,Adventure
+31,The Secret of Kells,GKIDS,Adventure
+32,The Polar Express,Warner Bros.,Adventure
+33,Where the Wild Things Are,Warner Bros.,Adventure
+34,Cloudy with a Chance of Mea…,Sony Pictures,Adventure
+35,Arthur and the War of Two W…,,Adventure
+36,Le Petit Nicolas,,Adventure
+37,Iron Man,Paramount Pictures,Adventure
+38,A Town Called Panic,Zeitgeist,Adventure
+39,L'illusionniste,Sony Pictures Cla…,Adventure
+40,Astro Boy,Summit Entertainment,Adventure
+41,Gedo Senki (Tales from Eart…,Walt Disney,Adventure
+42,Terkel i knibe,,Adventure
+43,SamÃ¢ uÃ´zu,GKIDS,Adventure
+1,Harry Potter and the Deathl…,Warner Bros.,Adventure
+2,Pirates of the Caribbean: O…,Walt Disney,Adventure
+3,Cars 2,Walt Disney,Adventure
+4,Rise of the Planet of the Apes,20th Century Fox,Adventure
+5,Kung Fu Panda 2,Paramount Pictures,Adventure
+6,Puss in Boots,Paramount Pictures,Adventure
+7,Rio,20th Century Fox,Adventure
+8,The Smurfs,Sony Pictures,Adventure
+9,Rango,Paramount Pictures,Adventure
+10,Hop,Universal,Adventure
+11,Alvin and the Chipmunks: Ch…,20th Century Fox,Adventure
+12,The Lion King,Walt Disney,Adventure
+13,The Muppets,Walt Disney,Adventure
+14,Mr. Poppers's Penguins,20th Century Fox,Adventure
+15,Happy Feet Two,Warner Bros.,Adventure
+16,I am Number Four,Walt Disney,Adventure
+17,Diary of a Wimpy Kid: Rodri…,20th Century Fox,Adventure
+18,The Adventures of Tintin,Paramount Pictures,Adventure
+19,Hugo,Paramount Pictures,Adventure
+20,Arthur Christmas,Sony Pictures,Adventure
+21,Tron: Legacy,Walt Disney,Adventure
+22,Spy Kids: All the Time in t…,Weinstein/Dimension,Adventure
+23,Yogi Bear,Warner Bros.,Adventure
+24,Winnie the Pooh,Walt Disney,Adventure
+25,Mars Needs Moms,Walt Disney,Adventure
+26,The Three Musketeers,Summit Entertainment,Adventure
+27,The Chronicles of Narnia: T…,20th Century Fox,Adventure
+28,Gulliver's Travels,20th Century Fox,Adventure
+29,Judy Moody and the Not Bumm…,Relativity,Adventure
+30,Harry Potter and the Deathl…,Warner Bros.,Adventure
+31,Hoodwinked Too: Hood vs. Evil,Weinstein Co.,Adventure
+32,Johnny English Reborn,Universal,Adventure
+33,Megamind,Paramount Pictures,Adventure
+34,The Way Back,Newmarket Films,Adventure
+35,L'illusionniste,Sony Pictures Cla…,Adventure
+36,The Lord of the Rings: The …,New Line,Adventure
+37,The Lord of the Rings: The …,New Line,Adventure
+38,The Lord of the Rings: The …,New Line,Adventure
+39,The Polar Express,Warner Bros.,Adventure
+40,Arthur et la vengeance de M…,Alliance Atlantis,Adventure
+41,Despicable Me,Universal,Adventure
+42,Legend of the Guardians: Th…,Warner Bros.,Adventure
+43,SamÃ¢ uÃ´zu,GKIDS,Adventure
+44,Alabama Moon,Faulkner-McLean E…,Adventure
+45,Mia et le Migou,GKIDS,Adventure
+46,OKA!,Dada Films,Adventure
+47,Terkel i knibe,,Adventure
+48,Miss Minoes,Music Box Films,Adventure
+49,Zokkomon,Walt Disney,Adventure
+1,The Hobbit: An Unexpected J…,Warner Bros.,Adventure
+2,The Amazing Spider-Man,Sony Pictures,Adventure
+3,Brave,Walt Disney,Adventure
+4,Madagascar 3: Europe's Most…,Paramount Pictures,Adventure
+5,Dr. Seussâ The Lorax,Universal,Adventure
+6,Men in Black 3,Sony Pictures,Adventure
+7,Wreck-It Ralph,Walt Disney,Adventure
+8,Ice Age: Continental Drift,20th Century Fox,Adventure
+9,Snow White and the Huntsman,Universal,Adventure
+10,Hotel Transylvania,Sony Pictures,Adventure
+11,Journey 2: The Mysterious I…,Warner Bros.,Adventure
+12,Rise of the Guardians,Paramount Pictures,Adventure
+13,Wrath of the Titans,Warner Bros.,Adventure
+14,John Carter,Walt Disney,Adventure
+15,Mirror Mirror,Relativity,Adventure
+16,ParaNorman,Focus Features,Adventure
+17,Parental Guidance,20th Century Fox,Adventure
+18,Diary of a Wimpy Kid: Dog Days,20th Century Fox,Adventure
+19,Star Wars Ep. I: The Phanto…,20th Century Fox,Adventure
+20,Finding Nemo,Walt Disney,Adventure
+21,Alvin and the Chipmunks: Ch…,20th Century Fox,Adventure
+22,Frankenweenie,Walt Disney,Adventure
+23,The Pirates! Band of Misfits,Sony Pictures,Adventure
+24,"Monsters, Inc.",Walt Disney,Adventure
+25,The Adventures of Tintin,Paramount Pictures,Adventure
+26,Hugo,Paramount Pictures,Adventure
+27,Kari gurashi no Arietti,Walt Disney,Adventure
+28,The Muppets,Walt Disney,Adventure
+29,Puss in Boots,Paramount Pictures,Adventure
+30,Raiders of the Lost Ark,Paramount Pictures,Adventure
+31,Happy Feet Two,Warner Bros.,Adventure
+32,The Oogieloves in the BIG B…,Kenn Viselman Pre…,Adventure
+33,Arthur Christmas,Sony Pictures,Adventure
+34,The Polar Express,Warner Bros.,Adventure
+35,Une vie de chat,Mongrel Media,Adventure
+36,Hagane no renkinjutsushi: M…,Eleven Arts,Adventure
+37,Na pude,Hannover House,Adventure
+38,La nouvelle guerre des boutons,Weinstein Co.,Adventure
+39,Le Voyage dans la Lune,,Adventure
+40,The Lion King,Walt Disney,Adventure
+41,Le chat du rabbin,GKIDS,Adventure
+42,OKA!,Dada Films,Adventure
+43,Miss Minoes,Music Box Films,Adventure
+44,Terkel i knibe,,Adventure
+1,The Hunger Games: Catching …,Lionsgate,Adventure
+2,Despicable Me 2,Universal,Adventure
+3,Monsters University,Walt Disney,Adventure
+4,Oz the Great and Powerful,Walt Disney,Adventure
+5,The Hobbit: The Desolation …,Warner Bros.,Adventure
+6,Star Trek Into Darkness,Paramount Pictures,Adventure
+7,The Croods,20th Century Fox,Adventure
+8,Cloudy with a Chance of Mea…,Sony Pictures,Adventure
+9,Epic,20th Century Fox,Adventure
+10,Disney Planes,Walt Disney,Adventure
+11,Turbo,20th Century Fox,Adventure
+12,The Smurfs 2,Sony Pictures,Adventure
+13,Percy Jackson: Sea of Monsters,20th Century Fox,Adventure
+14,Jack the Giant Slayer,Warner Bros.,Adventure
+15,Ender's Game,Lionsgate,Adventure
+16,Escape From Planet Earth,Weinstein Co.,Adventure
+17,Free Birds,Relativity,Adventure
+18,The Secret Life of Walter M…,20th Century Fox,Adventure
+19,Jurassic Park,Universal,Adventure
+20,The Hobbit: An Unexpected J…,Warner Bros.,Adventure
+21,Walking with Dinosaurs,20th Century Fox,Adventure
+22,The Mortal Instruments: Cit…,Sony Pictures,Adventure
+23,Parental Guidance,20th Century Fox,Adventure
+24,Wreck-It Ralph,Walt Disney,Adventure
+25,Rise of the Guardians,Paramount Pictures,Adventure
+26,"Monsters, Inc.",Walt Disney,Adventure
+27,Hotel Transylvania,Sony Pictures,Adventure
+28,The Christmas Candle,Echolight Studios,Adventure
+29,The Lost Medallion: The Adv…,Freestyle Releasing,Adventure
+30,Frankenweenie,Walt Disney,Adventure
+31,2001: A Space Odyssey,MGM,Adventure
+32,Gekijoban Mahou Shojo Madok…,Eleven Arts,Adventure
+33,Ernest et Celestine,Mongrel Media,Adventure
+34,Ice Age: Continental Drift,20th Century Fox,Adventure
+35,Di Renjie zhi shendu longwa…,AMC Independent,Adventure
+36,Boule et Bill,Distrib Films,Adventure
+37,Zaytoun,Strand,Adventure
+38,Finding Nemo,Walt Disney,Adventure
+39,Brave,Walt Disney,Adventure
+40,Last Flight of the Champion,High Top Releasing,Adventure
+41,Terkel i knibe,,Adventure
+1,The Lego Movie,Warner Bros.,Adventure
+2,Maleficent,Walt Disney,Adventure
+3,The Hobbit: The Battle of t…,Warner Bros.,Adventure
+4,Big Hero 6,Walt Disney,Adventure
+5,Dawn of the Planet of the Apes,20th Century Fox,Adventure
+6,Teenage Mutant Ninja Turtles,Paramount Pictures,Adventure
+7,Interstellar,Paramount Pictures,Adventure
+8,How to Train Your Dragon 2,20th Century Fox,Adventure
+9,Divergent,Lionsgate,Adventure
+10,Rio 2,20th Century Fox,Adventure
+11,Mr. Peabody & Sherman,20th Century Fox,Adventure
+12,Penguins of Madagascar,20th Century Fox,Adventure
+13,Hercules,Paramount Pictures,Adventure
+14,Night at the Museum: Secret…,20th Century Fox,Adventure
+15,"Alexander and the Terrible,…",Walt Disney,Adventure
+16,The Nut Job,Open Road,Adventure
+17,Planes: Fire and Rescue,Walt Disney,Adventure
+18,Muppets Most Wanted,Walt Disney,Adventure
+19,The Boxtrolls,Focus Features,Adventure
+20,The Book of Life,20th Century Fox,Adventure
+21,Earth to Echo,Relativity,Adventure
+22,The Hobbit: The Desolation …,Warner Bros.,Adventure
+23,The Legend of Hercules,Lionsgate,Adventure
+24,The Hunger Games: Catching …,Lionsgate,Adventure
+25,The Secret Life of Walter M…,20th Century Fox,Adventure
+26,Momsâ Night Out,Sony Pictures,Adventure
+27,Legends of Oz: Dorothyâs Re…,Clarius Entertain…,Adventure
+28,Walking with Dinosaurs,20th Century Fox,Adventure
+29,Cloudy with a Chance of Mea…,Sony Pictures,Adventure
+30,Free Birds,Relativity,Adventure
+31,Pirates,Well Go USA,Adventure
+32,Ernest et Celestine,Mongrel Media,Adventure
+33,2001: A Space Odyssey,MGM,Adventure
+34,Despicable Me 2,Universal,Adventure
+35,En solitaire,,Adventure
+36,Ender's Game,Lionsgate,Adventure
+37,Song of the Sea,GKIDS,Adventure
+38,The Taking of Tiger Mountain,Well Go USA,Adventure
+39,Percy Jackson: Sea of Monsters,20th Century Fox,Adventure
+40,Rocks in My Pockets,Zeitgeist,Adventure
+41,The Hero of Color City,Magnolia Pictures,Adventure
+42,Yellow Day,Self Distributed,Adventure
+43,Xi you xiang mo pian,Magnolia Pictures,Adventure
+44,War of the World's Goliath,Anderson Digital,Adventure
+45,Le roi et l'oiseau,Rialto Pictures,Adventure
+46,Canopy,Monterey Media,Adventure
+47,Thunder and the House of Magic,Shout! Factory,Adventure
+48,Ragnarok,Magnolia Pictures,Adventure
 1,Star Wars Ep. VII: The Forc…,Walt Disney,Adventure
 2,Inside Out,Walt Disney,Adventure
 3,Minions,Universal,Adventure
@@ -49,231 +713,3 @@ Id,Title,Distributor,Genre
 48,Trash,Focus Features,Adventure
 49,Le roi et l'oiseau,Rialto Pictures,Adventure
 50,Patch Town,Kino Lorber,Adventure
-1,Finding Dory,Walt Disney,Adventure
-2,Rogue One: A Star Wars Story,Walt Disney,Adventure
-3,The Secret Life of Pets,Universal,Adventure
-4,The Jungle Book,Walt Disney,Adventure
-5,Zootopia,Walt Disney,Adventure
-6,Fantastic Beasts and Where …,Warner Bros.,Adventure
-7,Star Wars Ep. VII: The Forc…,Walt Disney,Adventure
-8,The Revenant,20th Century Fox,Adventure
-9,Sing,Universal,Adventure
-10,Star Trek Beyond,Paramount Pictures,Adventure
-11,Trolls,20th Century Fox,Adventure
-12,Kung Fu Panda 3,20th Century Fox,Adventure
-13,The Legend of Tarzan,Warner Bros.,Adventure
-14,The Angry Birds Movie,Sony Pictures,Adventure
-15,Miss Peregrineâs Home for P…,20th Century Fox,Adventure
-16,Teenage Mutant Ninja Turtle…,Paramount Pictures,Adventure
-17,Alice Through the Looking G…,Walt Disney,Adventure
-18,Peteâs Dragon,Walt Disney,Adventure
-19,Storks,Warner Bros.,Adventure
-20,Ice Age: Collision Course,20th Century Fox,Adventure
-21,The BFG,Walt Disney,Adventure
-22,Kubo and the Two Strings,Focus Features,Adventure
-23,Gods of Egypt,Lionsgate,Adventure
-24,Alvin and the Chipmunks: Th…,20th Century Fox,Adventure
-25,Ben-Hur,Paramount Pictures,Adventure
-26,Middle School: The Worst Ye…,Lionsgate,Adventure
-27,Nine Lives,EuropaCorp,Adventure
-28,Norm of the North,Lionsgate,Adventure
-29,Ratchet and Clank,Focus Features,Adventure
-30,The Good Dinosaur,Walt Disney,Adventure
-31,Robinson Crusoe,Lionsgate,Adventure
-32,In the Heart of the Sea,Warner Bros.,Adventure
-33,The Peanuts Movie,20th Century Fox,Adventure
-34,The Harry Potter IMAX Marathon,Warner Bros.,Adventure
-35,The Little Prince,Entertainment One,Adventure
-36,Hotel Transylvania 2,Sony Pictures,Adventure
-37,The Polar Express,Warner Bros.,Adventure
-38,Chaar Sahibzaade 2: Rise of…,Eros Entertainment,Adventure
-39,Bakemono no ko,FUNimation,Adventure
-40,Himalaya,CJ Entertainment,Adventure
-41,Avril et le monde truquÃ©,GKIDS,Adventure
-42,Final Fantasy XV: Kingsglaive,Stage 6 Films,Adventure
-43,Kicks,Focus World,Adventure
-44,The Ghouls,China Lion Film D…,Adventure
-45,Theeb,Film Movement,Adventure
-46,O Menino e o Mundo,GKIDS,Adventure
-47,Against the Wild: Survive t…,Anchor Bay Entert…,Adventure
-48,Yellow Day,Self Distributed,Adventure
-49,Phantom Boy,GKIDS,Adventure
-50,Zhuo yao ji,FilmRise,Adventure
-51,Pan,Warner Bros.,Adventure
-52,Band of Robbers,Gravitas Ventures,Adventure
-53,Arabian Nights,Universal,Adventure
-1,Star Wars Ep. VIII: The Las…,Walt Disney,Adventure
-2,Despicable Me 3,Universal,Adventure
-3,The Lego Batman Movie,Warner Bros.,Adventure
-4,The Boss Baby,20th Century Fox,Adventure
-5,Pirates of the Caribbean: D…,Walt Disney,Adventure
-6,Jumanji: Welcome to the Jungle,Sony Pictures,Adventure
-7,Kong: Skull Island,Warner Bros.,Adventure
-8,Cars 3,Walt Disney,Adventure
-9,Rogue One: A Star Wars Story,Walt Disney,Adventure
-10,Sing,Universal,Adventure
-11,The Emoji Movie,Sony Pictures,Adventure
-12,The Mummy,Universal,Adventure
-13,Captain Underpants: The Fir…,20th Century Fox,Adventure
-14,The Lego Ninjago Movie,Warner Bros.,Adventure
-15,Ferdinand,20th Century Fox,Adventure
-16,Smurfs: The Lost Village,Sony Pictures,Adventure
-17,Valerian and the City of a …,STX Entertainment,Adventure
-18,The Star,Sony Pictures,Adventure
-19,King Arthur: Legend of the …,Warner Bros.,Adventure
-20,Monster Trucks,Paramount Pictures,Adventure
-21,The Mountain Between Us,20th Century Fox,Adventure
-22,The Nut Job 2: Nutty by Nature,Open Road,Adventure
-23,My Little Pony: The Movie,Lionsgate,Adventure
-24,Ballerina,Weinstein Co.,Adventure
-25,Diary of a Wimpy Kid: The L…,20th Century Fox,Adventure
-26,Fantastic Beasts and Where …,Warner Bros.,Adventure
-27,Rock Dog,Lionsgate,Adventure
-28,The Man Who Invented Christmas,Bleecker Street,Adventure
-29,Trolls,20th Century Fox,Adventure
-30,Close Encounters of the Thi…,Columbia,Adventure
-31,Tubelight,Yash Raj Films,Adventure
-32,La Tortue Rouge,Sony Pictures Cla…,Adventure
-33,The Polar Express,Warner Bros.,Adventure
-34,Jagga Jasoos,UTV Communications,Adventure
-35,Ma vie de Courgette,GKIDS,Adventure
-36,Miss Peregrineâs Home for P…,20th Century Fox,Adventure
-37,Storks,Warner Bros.,Adventure
-38,Spark: A Space Tail,Open Road,Adventure
-39,Terkel i knibe,,Adventure
-40,My Entire High School Sinki…,GKIDS,Adventure
-41,Window Horses,Mongrel Media,Adventure
-42,La jeune fille sans mains,GKIDS,Adventure
-43,The Jazz Funeral,Indican Pictures,Adventure
-44,Oro,Sony Pictures,Adventure
-45,Thrill Ride,Gravitas Ventures,Adventure
-1,Incredibles 2,Walt Disney,Adventure
-2,Dr. Seussâ The Grinch,Universal,Adventure
-3,Jumanji: Welcome to the Jungle,Sony Pictures,Adventure
-4,Solo: A Star Wars Story,Walt Disney,Adventure
-5,Ralph Breaks The Internet,Walt Disney,Adventure
-6,Hotel Transylvania 3: Summe…,Sony Pictures,Adventure
-7,Fantastic Beasts: The Crime…,Warner Bros.,Adventure
-8,Ready Player One,Warner Bros.,Adventure
-9,Spider-Man: Into The Spider…,Sony Pictures,Adventure
-10,Peter Rabbit,Sony Pictures,Adventure
-11,Star Wars Ep. VIII: The Las…,Walt Disney,Adventure
-12,A Wrinkle in Time,Walt Disney,Adventure
-13,Christopher Robin,Walt Disney,Adventure
-14,Smallfoot,Warner Bros.,Adventure
-15,Bumblebee,Paramount Pictures,Adventure
-16,The Nutcracker and the Four…,Walt Disney,Adventure
-17,Sherlock Gnomes,Paramount Pictures,Adventure
-18,Paddington 2,Warner Bros.,Adventure
-19,Alpha,Sony Pictures,Adventure
-20,Isle of Dogs,Fox Searchlight,Adventure
-21,Ferdinand,20th Century Fox,Adventure
-22,Teen Titans Go! To The Movies,Warner Bros.,Adventure
-23,Early Man,Lionsgate,Adventure
-24,Boku no Hero Academia the M…,FUNimation,Adventure
-25,2001: A Space Odyssey,MGM,Adventure
-26,Sgt. Stubby: An American Hero,Fun Academy Motio…,Adventure
-27,Meari to majo no hana,GKIDS,Adventure
-28,The Star,Sony Pictures,Adventure
-29,The Polar Express,Warner Bros.,Adventure
-30,Mirai no Mirai,GKIDS,Adventure
-31,Zhuo yao ji 2,Lionsgate,Adventure
-32,Bilal: A New Breed of Hero,Vertical Entertai…,Adventure
-33,Condorito: La Pelicula,Lionsgate,Adventure
-34,Jurassic Park,Universal,Adventure
-35,Harry Potter and the Sorcer…,Warner Bros.,Adventure
-36,Harry Potter and the Chambe…,Warner Bros.,Adventure
-37,Mutafukaz,GKIDS,Adventure
-38,Harry Potter and the Prison…,Warner Bros.,Adventure
-39,Harry Potter and the Goblet…,Warner Bros.,Adventure
-40,Harry Potter and the Deathl…,Warner Bros.,Adventure
-41,Harry Potter and the Deathl…,Warner Bros.,Adventure
-42,Harry Potter and the Order …,Warner Bros.,Adventure
-43,Harry Potter and the Half-B…,Warner Bros.,Adventure
-44,Nan Ji Jue Lian,China Lion Film D…,Adventure
-45,Yoake tsugeru RÃ» no uta,GKIDS,Adventure
-46,Tian Qi Yu Bao,China Lion Film D…,Adventure
-47,The Man Who Invented Christmas,Bleecker Street,Adventure
-48,Mind Game,GKIDS,Adventure
-49,Kayak to Klemtu,,Adventure
-50,In Searching,Indican Pictures,Adventure
-51,Here Comes the Grump,Blue Fox Entertai…,Adventure
-1,The Lion King,Walt Disney,Adventure
-2,Frozen II,Walt Disney,Adventure
-3,Toy Story 4,Walt Disney,Adventure
-4,Star Wars: The Rise of Skyw…,Walt Disney,Adventure
-5,Aladdin,Walt Disney,Adventure
-6,Jumanji: The Next Level,Sony Pictures,Adventure
-7,How to Train Your Dragon: T…,Universal,Adventure
-8,The Secret Life of Pets 2,Universal,Adventure
-9,PokÃ©mon: Detective Pikachu,Warner Bros.,Adventure
-10,Dumbo,Walt Disney,Adventure
-11,Maleficent: Mistress of Evil,Walt Disney,Adventure
-12,The LEGO Movie 2: The Secon…,Warner Bros.,Adventure
-13,The Addams Family,United Artists,Adventure
-14,Men in Black: International,Sony Pictures,Adventure
-15,Abominable,Universal,Adventure
-16,Dora and the Lost City of Gold,Paramount Pictures,Adventure
-17,Spider-Man: Into The Spider…,Sony Pictures,Adventure
-18,Bumblebee,Paramount Pictures,Adventure
-19,Spies in Disguise,20th Century Fox,Adventure
-20,Wonder Park,Paramount Pictures,Adventure
-21,The Angry Birds Movie 2,Sony Pictures,Adventure
-22,The Peanut Butter Falcon,Roadside Attractions,Adventure
-23,UglyDolls,STX Entertainment,Adventure
-24,The Kid Who Would Be King,20th Century Fox,Adventure
-25,Missing Link,United Artists,Adventure
-26,Ralph Breaks The Internet,Walt Disney,Adventure
-27,Arctic Dogs,Entertainment Stu…,Adventure
-28,Dr. Seussâ The Grinch,Universal,Adventure
-29,Gully Boy,Viva Entertainment,Adventure
-30,Ne Zha Zhi Mo Tong Jiang Shi,Well Go USA,Adventure
-31,Fantastic Beasts: The Crime…,Warner Bros.,Adventure
-32,Promare,GKIDS,Adventure
-33,PLAYMOBIL,STX Entertainment,Adventure
-34,The Goonies,Warner Bros.,Adventure
-35,The Polar Express,Warner Bros.,Adventure
-36,Pan Deng Zhe,Well Go USA,Adventure
-37,The Great Alaskan Race,P12 Films,Adventure
-38,ek-si-teu,CJ Entertainment,Adventure
-39,Smallfoot,Warner Bros.,Adventure
-40,Ponokku tanpen gekijÃ´: Chii…,GKIDS,Adventure
-41,Waka Okami wa Shogakusei!,GKIDS,Adventure
-42,Xiao zhu pei qi guo da nian,STX Entertainment,Adventure
-43,Mirai no Mirai,GKIDS,Adventure
-44,The Nutcracker and the Four…,Walt Disney,Adventure
-45,Storm Boy,Good Deed Enterta…,Adventure
-46,Yomeddine,Strand,Adventure
-47,Tito e os PÃ¡ssaros,Shout! Factory,Adventure
-1,Sonic The Hedgehog,Paramount Pictures,Adventure
-2,Jumanji: The Next Level,Sony Pictures,Adventure
-3,Star Wars: The Rise of Skyw…,Walt Disney,Adventure
-4,Dolittle,Universal,Adventure
-5,The Call of the Wild,20th Century Studios,Adventure
-6,Onward,Walt Disney,Adventure
-7,The Croods: A New Age,Universal,Adventure
-8,Frozen II,Walt Disney,Adventure
-9,Spies in Disguise,20th Century Fox,Adventure
-10,Boku no HÄ«rÅ Akademia The M…,FUNimation,Adventure
-11,The SpongeBob Movie: Sponge…,Paramount Pictures,Adventure
-12,Star Wars Ep. V: The Empire…,20th Century Fox,Adventure
-13,Love and Monsters,Paramount Pictures,Adventure
-14,Toy Story,Walt Disney,Adventure
-15,Pinocchio,Roadside Attractions,Adventure
-16,"Monsters, Inc.",Walt Disney,Adventure
-17,The Santa Clause,Walt Disney,Adventure
-18,The Addams Family,United Artists,Adventure
-19,Maleficent: Mistress of Evil,Walt Disney,Adventure
-20,The Polar Express,Warner Bros.,Adventure
-21,How the Grinch Stole Christmas,Universal,Adventure
-22,Tokyo Godfathers,IDP Distribution,Adventure
-23,Jiang Ziya,Well Go USA,Adventure
-24,Dr. Seussâ The Grinch,Universal,Adventure
-25,Lupin III: The First (ã«ãã³ä¸ä¸…,GKIDS,Adventure
-26,StarDog and TurboCat,Vivafilm,Adventure
-27,Miss Fisher & The Crypt Of …,Acorn TV,Adventure
-28,Henchmen,Entertainment One,Adventure
-29,Zombi Child,Film Movement,Adventure
-30,Promare,GKIDS,Adventure
-31,Strike,Indican Pictures,Adventure
-32,PLAYMOBIL,STX Entertainment,Adventure
