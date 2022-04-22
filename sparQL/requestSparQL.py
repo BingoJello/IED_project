@@ -1,32 +1,24 @@
-from SPARQLWrapper import SPARQLWrapper, JSON
-
+from SPARQLWrapper import SPARQLWrapper, JSON, XML
+import json
+import xml.etree.ElementTree as ET
 
 def selectQuery():
-    sparql = SPARQLWrapper(
-        "http://vocabs.ardc.edu.au/repository/api/sparql/"
-        "csiro_international-chronostratigraphic-chart_geologic-time-scale-2020"
-    )
-    sparql.setReturnFormat(JSON)
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
-    # gets the first 3 geological ages
-    # from a Geological Timescale database,
-    # via a SPARQL endpoint
     sparql.setQuery("""
-        PREFIX gts: <http://resource.geosciml.org/ontology/timescale/gts#>
-    
-        SELECT *
-        WHERE {
-            ?a a gts:Age .
-        }
-        ORDER BY ?a
-        LIMIT 3
-        """
-    )
+        SELECT ?an ?y ?p WHERE { 
+            ?f a dbo:Film ;
+            foaf:name "Ed Wood"@en ;
+            dbo:starring ?a .
+            ?a foaf:name ?an ;
+            dbo:birthYear ?y ;
+            dbo:birthPlace ?p.
+            } 
+    """)
 
-    try:
-        ret = sparql.queryAndConvert()
-
-        for r in ret["results"]["bindings"]:
-            print(r)
-    except Exception as e:
-        print(e)
+    sparql.setReturnFormat(JSON)
+    results = sparql.queryAndConvert()
+    for r in results["results"]['bindings']:
+        print(r['an']['value'])
+        print(r['y']['value'])
+        print(r['p']['value'])
