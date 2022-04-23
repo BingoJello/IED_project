@@ -11,6 +11,7 @@ class Film:
         self.directors = []
         self.producers = []
         self.actors = []
+        self.plot = ""
         self.year = ""
 
     def add_director(self, director):
@@ -81,6 +82,12 @@ class Film:
 
     def set_producers(self, producers) :
         self.producers = producers
+
+    def get_plot(self) :
+        return self.plot
+
+    def set_plot(self, plot) :
+        self.plot = plot
 
     def get_year(self) :
         return self.year

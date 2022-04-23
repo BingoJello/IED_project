@@ -4,8 +4,8 @@
 # In[133]:
 
 
-from bs4 import BeautifulSoup as soup  # HTML data structure
-from urllib.request import urlopen as uReq  # Web client
+from bs4 import BeautifulSoup as soup, BeautifulSoup  # HTML data structure
+from urllib.request import urlopen as uReq, Request, urlopen  # Web client
 import csv
 
 
@@ -54,11 +54,28 @@ def scrapMoviesByGenre(genre):
 # In[135]:
 
 
-genre = ["Adventure", "Comedy", "Drama", "Action", "Thriller-or-Suspense", "Romantic-Comedy"]
-for g in genre:
-    scrapMoviesByGenre(g)
+# genre = ["Adventure", "Comedy", "Drama", "Action", "Thriller-or-Suspense", "Romantic-Comedy"]
+# for g in genre:
+#     scrapMoviesByGenre(g)
 
+def scrapeReleaseDate(title):
+    try:
+        site = "https://en.wikipedia.org/wiki/" + title
+        print(site)
+        hdr = {'User-Agent': 'Mozilla/5.0'}
+        req = Request(site, headers=hdr)
+        page = urlopen(req)
+        page_soup = BeautifulSoup(page, "html.parser")
+        page.close()
+        table = page_soup.find("table", {"class": "infobox vevent"})
+        tableRows = table.findAll("tr")
+        releaseDate = tableRows[12].findAll('li')
+        print(releaseDate[1].text)
 
+        return releaseDate
+    except:
+        print("no release date found!!")
+        return 0
 # In[ ]:
 
 
