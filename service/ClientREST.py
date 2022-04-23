@@ -6,9 +6,11 @@ from xml.dom.minidom import parse
 
 
 def getRequest():
-    response = requests.get("http://www.omdbapi.com/?r=xml&i=tt3896198&apikey=a834ebc0")
-    #dom = minidom.parseString(response.content)
-    #name_element = dom.getElementsByTagName("movie")[0]
-    tree = etree.parse(response.)
-    for film in tree.xpath("/movie/title/") :
-        print(user.text)
+    response = requests.get("http://www.omdbapi.com/?r=xml&i=tt3896198&apikey=a834ebc0&title=Harry")
+    root = ET.fromstring(response.content)
+
+    for elem in root.findall('.//movie') :
+        # How to make decisions based on attributes even in 2.6:
+        print(elem.attrib.get('plot'))
+
+
