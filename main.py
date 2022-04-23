@@ -1,4 +1,7 @@
-from sparQL import requestSparQL as SparkQL
-from service import clientREST
+from sparQL import requestSparQL as spark
+from service import ClientREST
+from database import DatabaseQuery
 
-clientREST.getRequest()
+spark.getActors("Godzilla")
+# ClientREST.getRequest("Godzilla")
+# DatabaseQuery.selectQuery("Avatar")
