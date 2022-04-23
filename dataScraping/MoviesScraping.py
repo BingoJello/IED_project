@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[126]:
+# In[133]:
 
 
 from bs4 import BeautifulSoup as soup  # HTML data structure
@@ -9,11 +9,12 @@ from urllib.request import urlopen as uReq  # Web client
 import csv
 
 
-# In[127]:
+# In[134]:
 
 
 def scrapMoviesByGenre(genre):
-    year = ["2015","2016","2017","2018","2019","2020"]
+    year = ["2000","2001","2002","2003","2004","2005","2006",
+            "2007","2008","2009","2010","2011","2012","2013","2014","2015"]
     # open the file in the write mode
     fileName = "data/movies_" + genre + ".csv"
     f = open(fileName, 'w')
@@ -50,7 +51,7 @@ def scrapMoviesByGenre(genre):
     f.close()
 
 
-# In[ ]:
+# In[135]:
 
 
 genre = ["Adventure", "Comedy", "Drama", "Action", "Thriller-or-Suspense", "Romantic-Comedy"]
