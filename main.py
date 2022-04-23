@@ -1,3 +1,4 @@
-from sparQL import requestSparQL as spark
-from service import ClientREST
-ClientREST.getRequest()
+from sparQL import requestSparQL as SparkQL
+from service import clientREST
+
+clientREST.getRequest()
