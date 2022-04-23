@@ -1,16 +1,71 @@
 from SPARQLWrapper import SPARQLWrapper, JSON, XML
 import json
 import xml.etree.ElementTree as ET
+from model.Film import Film
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
+def requestFilmByTitle(title):
+    list_films = getNumberFilm(title)
+    directors = getDirectorsByFilm(title, list_films)
+    actors = getActorsByFilm(title, list_films)
+    producers = getProducersByFilm(title, list_films)
+    request_films = []
 
-def getListFilm(title):
-    directors = {'year' : [], "directors":[]}
+    if list_films > 1 :
+        years = getYearFilms(title)
+        for i in range(0, len(years)) :
+            film = Film()
+            film.set_year(years[i])
+            film.set_name(title)
+            request_films.append(film)
+    else:
+        film = Film()
+        film.set_name(title)
+        request_films.append(film)
+
+    index = 0
+    for director in directors['director'] :
+        if list_films > 1 :
+            for film in request_films :
+                if film.get_year() == directors['year_film'][index] :
+                    film.get_directors().append(director)
+                    break
+        else :
+            request_films[0].get_directors().append(director)
+        index += 1
+
+    index = 0
+    for actor in actors['actor']:
+        if list_films > 1 :
+            for film in request_films :
+                if film.get_year() == actors['year_film'][index] :
+                    film.get_actors().append(actor)
+                    break
+        else :
+            request_films[0].get_actors().append(actor)
+        index += 1
+
+    index = 0
+    for producer in producers['producer'] :
+        if list_films > 1 :
+            for film in request_films :
+                if film.get_year() == producers['year_film'][index] :
+                    film.get_producers().append(producer)
+                    break
+        else :
+            request_films[0].get_producers().append(producer)
+        index += 1
+
+    return request_films
+
+def getNumberFilm(title):
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
     sparql.setQuery('SELECT ?film WHERE '
                     '{ '
                     '   ?film a dbo:Film ;'
-                    '   foaf:name ?title ;'
+                    '   foaf:name ?title .'
                     '   FILTER(?title = "' + title + '"@en).'
                     '}'
                     'ORDER BY(?film)')
@@ -18,11 +73,32 @@ def getListFilm(title):
     sparql.setReturnFormat(JSON)
     results = sparql.queryAndConvert()
 
-    return len(results["results"]['bindings']);
+    return len(results["results"]['bindings'])
+
+def getYearFilms(title):
+    years = []
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+
+    sparql.setQuery('SELECT ?film WHERE '
+                    '{ '
+                    '   ?film a dbo:Film ;'
+                    '   foaf:name ?title .'
+                    '   FILTER(?title = "' + title + '"@en).'
+                    '}'
+                    'ORDER BY(?film)')
+
+    sparql.setReturnFormat(JSON)
+    results = sparql.queryAndConvert()
+
+    for r in results["results"]['bindings'] :
+        title_tmp = title.replace(" ", "_")
+        years.append(r["film"]["value"].split(title_tmp)[1].split('(')[1].split("_")[0])
+
+    return years
 
 
-def getDirectors(title):
-    directors = {'year' : [], "directors":[]}
+def getDirectorsByFilm(title, list_films):
+    directors = {'year_film' : [],'title' : [], "director" : []}
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
     sparql.setQuery('SELECT ?film ?title ?director WHERE '
@@ -37,54 +113,64 @@ def getDirectors(title):
 
     sparql.setReturnFormat(JSON)
     results = sparql.queryAndConvert()
-    list_films = getListFilm(title)
+
     for r in results["results"]['bindings']:
-        if(list_films > 1):
-            directors["year"] = r["film"]["value"].split(title)[1].split('(')[1].split("_")[0]
-        # directos[]
-        #directors.append(r['film']['value'])
-    exit(0)
+        if list_films > 1 :
+            title_tmp = title.replace(" ", "_")
+            directors["year_film"].append(r["film"]["value"].split(title_tmp)[1].split('(')[1].split("_")[0])
+        directors['title'].append(r['title']['value'])
+        directors['director'].append(r['director']['value'])
+
     return directors
 
-def getActors(title) :
-    actors = []
+def getActorsByFilm(title, list_films) :
+    actors = {'year_film' : [],'title' : [], "actor" : []}
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
-    sparql.setQuery('SELECT ?f ?t ?actor WHERE '
+    sparql.setQuery('SELECT ?film ?title ?actor WHERE '
                     '{ '
-                    '   ?f a dbo: Film;'
-                    '   foaf: name ?t;'
+                    '   ?film a dbo:Film;'
+                    '   foaf:name ?title;'
                     '   dbo:starring ?a .'
                     '   ?a foaf:name ?actor.'
-                    '   FILTER(?t = "' + title + '" @ en).'
+                    '   FILTER(?title = "' + title + '" @en).'
                     '}'
-                    'ORDER BY(?f)')
+                    'ORDER BY(?film)')
 
     sparql.setReturnFormat(JSON)
     results = sparql.queryAndConvert()
 
     for r in results["results"]['bindings'] :
-        actors.append(r['actor']['value'])
+        if list_films > 1 :
+            title_tmp = title.replace(" ", "_")
+            actors["year_film"].append(r["film"]["value"].split(title_tmp)[1].split('(')[1].split("_")[0])
+        actors['title'].append(r['title']['value'])
+        actors['actor'].append(r['actor']['value'])
 
     return actors
 
-def getProducers(title) :
-    producers = []
+def getProducersByFilm(title, list_films) :
+    producers = {'year_film' : [],'title' : [], "producer" : []}
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
-    sparql.setQuery('SELECT ?f ?t ?producer WHERE '
+
+    sparql.setQuery('SELECT ?film ?title ?producer WHERE '
                     '{ '
-                    '   ?f a dbo: Film;'
-                    '   foaf: name ?t;'
-                    '   dbo: producer ?p.'
-                    '   ?p foaf: name ?producer.'
-                    '   FILTER(?t = "'+title+'" @ en).'
+                    '   ?film a dbo:Film;'
+                    '   foaf:name ?title;'
+                    '   dbo:producer ?p.'
+                    '   ?p foaf:name ?producer.'
+                    '   FILTER(?title = "'+title+'" @en).'
                     '}'
-                    'ORDER BY(?f)')
+                    'ORDER BY(?film)')
 
     sparql.setReturnFormat(JSON)
     results = sparql.queryAndConvert()
 
     for r in results["results"]['bindings'] :
-        producers.append(r['producer']['value'])
+        if list_films > 1 :
+            title_tmp = title.replace(" ", "_")
+            producers["year_film"].append(r["film"]["value"].split(title_tmp)[1].split('(')[1].split("_")[0])
+        producers['title'].append(r['title']['value'])
+        producers['producer'].append(r['producer']['value'])
 
     return producers

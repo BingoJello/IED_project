@@ -20,7 +20,15 @@ def selectQuery(title):
     mycursor.execute(query)
 
     myresult = mycursor.fetchall()
-    for row in myresult:
-        film = Film(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7])
+    for row in myresult :
+        film = Film()
+        film.set_id(row[0])
+        film.set_release_date(row[1])
+        film.set_name(row[2])
+        film.set_production_budget(row[3])
+        film.set_domestic_gross(row[4])
+        film.set_worldwide_gross(row[5])
+        film.set_distributor(row[6])
+        film.set_genre(row[7])
         films.append(film)
     return films

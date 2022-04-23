@@ -1,16 +1,20 @@
 class Film:
-    def __init__(self, id, rd, n, pb, dg, wg, d, g):
-        self.id = id
-        self.release_date = rd
-        self.name = n
-        self.production_budget = pb
-        self.domestic_gross = dg
-        self.worldwide_gross = wg
-        self.distributor = d
-        self.genre = g
+    def __init__(self):
+        self.id = 0
+        self.release_date = ""
+        self.name = ""
+        self.production_budget = ""
+        self.domestic_gross = ""
+        self.worldwide_gross = ""
+        self.distributor = ""
+        self.genre = ""
         self.directors = []
         self.producers = []
         self.actors = []
+        self.year = ""
+
+    def add_director(self, director):
+        self.directors.append(director)
 
     def get_id(self) :
         return self.id
@@ -77,3 +81,9 @@ class Film:
 
     def set_producers(self, producers) :
         self.producers = producers
+
+    def get_year(self) :
+        return self.year
+
+    def set_year(self, year) :
+        self.year = year
