@@ -13,14 +13,12 @@ films_spark = spark.requestFilmByTitle("Godzilla")
 for film in films_spark :
     print(film.get_name(), film.get_year(), film.get_directors(), film.get_producers(), film.get_actors())
 
-
-print("\n----Fusion----")
-
 films_request = []
+
 for film in films_db :
     films_request.append(film)
 
-if len(films_spark) > 2:
+if len(films_spark) > 1:
     films_to_insert = []
     for film_spark in films_spark :
         exist_db = False
@@ -30,6 +28,7 @@ if len(films_spark) > 2:
                 film_request.set_directors(film_spark.get_directors())
                 film_request.set_actors(film_spark.get_actors())
                 film_request.set_producers(film_spark.get_producers())
+                film_request.set_year(film_spark.get_year())
                 exist_db = True
                 break
         if exist_db == False:
@@ -42,16 +41,26 @@ if len(films_spark) > 2:
             film.set_directors(film_spark.get_directors())
             film.set_actors(film_spark.get_actors())
             film.set_producers(film_spark.get_producers())
+            film.set_year(film_spark.get_year())
             films_request.append(film)
 else:
-    index = 0
-    for film_request in films_request :
-        film_request.set_directors(films_spark[0].get_directors())
-        film_request.set_actors(films_spark[0].get_actors())
-        film_request.set_producers(films_spark[0].get_producers())
-    index += 1
-#ClientREST.getRequest("Insidious")
+    #----------------------A TRAITER-------------------
+    #films_spark[0].get_name()
+    if len(films_request) > 0 and len(films_spark) > 0:
+        for film_request in films_request :
+            if film_request.get_name() == "":
+                film_request.set_name(films_spark[0].get_name())
+            film_request.set_directors(films_spark[0].get_directors())
+            film_request.set_actors(films_spark[0].get_actors())
+            film_request.set_producers(films_spark[0].get_producers())
+    elif len(films_spark) > 0:
+        films_request.append(films_spark[0])
+
+
+print("\n----Film REST----")
+films_request = ClientREST.getRequestByFilm("Godzilla", films_request)
 
 
 for film in films_request :
-    print(film.get_name(), film.get_release_date(), film.get_worldwide_gross(), film.get_directors(), film.get_producers(), film.get_actors())
+    print(film.get_name(), film.get_year(), film.get_release_date(), film.get_worldwide_gross(), film.get_directors(), film.get_producers(), film.get_actors(),
+          film.get_genre(), film.get_plot())
