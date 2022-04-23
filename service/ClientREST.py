@@ -11,6 +11,6 @@ def getRequest(title):
 
     for elem in root.findall('.//movie') :
         # How to make decisions based on attributes even in 2.6:
-        print(elem.attrib.get('plot'))
+        return elem.attrib.get('plot')
 
 

@@ -1,4 +1,8 @@
 from sparQL import requestSparQL as spark
 from service import ClientREST
+from database import DatabaseQuery
 
-ClientREST.getRequest("Rambo")
+spark.getDirectors("Godzilla")
+#ClientREST.getRequest("Insidious")
+#DatabaseQuery.selectQuery("Avatar")
+
