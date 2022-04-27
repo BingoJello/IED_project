@@ -5,8 +5,8 @@ def get_co():
     mydb = mysql.connector.connect(
         host="localhost",
         user="root",
-        # password="A123456*",
         password="",
+        # password="A123456*",
         database="ied"
     )
     return mydb
@@ -17,6 +17,7 @@ def selectQuery(title):
     mycursor = db.cursor()
 
     query = 'SELECT * FROM movie where name = "'+title+'"'
+
     mycursor.execute(query)
 
     myresult = mycursor.fetchall()
@@ -28,7 +29,9 @@ def selectQuery(title):
         film.set_production_budget(row[3])
         film.set_domestic_gross(row[4])
         film.set_worldwide_gross(row[5])
-        film.set_distributor(row[6])
+        film.get_distributors().append(row[6])
         film.set_genre(row[7])
+
         films.append(film)
+
     return films

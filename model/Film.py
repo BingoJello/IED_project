@@ -6,13 +6,14 @@ class Film:
         self.production_budget = ""
         self.domestic_gross = ""
         self.worldwide_gross = ""
-        self.distributor = ""
+        self.distributors = []
         self.genre = ""
         self.directors = []
         self.producers = []
         self.actors = []
         self.plot = ""
         self.year = ""
+        self.link = ""
 
     def add_director(self, director):
         self.directors.append(director)
@@ -53,11 +54,11 @@ class Film:
     def set_worldwide_gross(self, worldwide_gross) :
         self.worldwide_gross = worldwide_gross
 
-    def get_distributor(self) :
-        return self.distributor
+    def get_distributors(self) :
+        return self.distributors
 
-    def set_distributor(self, distributor) :
-        self.distributor = distributor
+    def set_distributors(self, distributors) :
+        self.distributors = distributors
 
     def get_genre(self) :
         return self.genre
@@ -94,3 +95,9 @@ class Film:
 
     def set_year(self, year) :
         self.year = year
+
+    def get_link(self) :
+        return self.link
+
+    def set_link(self, link) :
+        self.link = link

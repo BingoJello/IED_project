@@ -1,16 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[133]:
-
-
 from bs4 import BeautifulSoup as soup, BeautifulSoup  # HTML data structure
 from urllib.request import urlopen as uReq, Request, urlopen  # Web client
 import csv
-
-
-# In[134]:
-
 
 def scrapMoviesByGenre(genre):
     year = ["2000","2001","2002","2003","2004","2005","2006",
@@ -61,7 +54,6 @@ def scrapMoviesByGenre(genre):
 def scrapeReleaseDate(title):
     try:
         site = "https://en.wikipedia.org/wiki/" + title
-        print(site)
         hdr = {'User-Agent': 'Mozilla/5.0'}
         req = Request(site, headers=hdr)
         page = urlopen(req)
@@ -70,14 +62,8 @@ def scrapeReleaseDate(title):
         table = page_soup.find("table", {"class": "infobox vevent"})
         tableRows = table.findAll("tr")
         releaseDate = tableRows[12].findAll('li')
-        print(releaseDate[1].text)
 
         return releaseDate
     except:
         print("no release date found!!")
         return 0
-# In[ ]:
-
-
-
-
