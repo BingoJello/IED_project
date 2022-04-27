@@ -9,6 +9,7 @@ pip install tkinter
 pip install sparqlwrapper
 pip install requests
 pip install mysql-connector-python
+pip install bs4
 
 
 ------------------------dossiers-------------------------
